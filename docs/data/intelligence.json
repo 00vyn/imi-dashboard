@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T18:37:18+00:00",
-  "based_on_collection_at": "2026-09-03T18:37:01+00:00",
+  "generated_at": "2026-09-03T18:50:02+00:00",
+  "based_on_collection_at": "2026-09-03T18:49:45+00:00",
   "retention": {
     "max_age_days": 30,
     "max_items": 400
@@ -122,7 +122,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "e6d8491cadf16502",
@@ -150,7 +150,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "fbc8fb6a14141595",
@@ -178,7 +178,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "77285123cad98bfe",
@@ -206,7 +206,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "38eebf9c5b5cb074",
@@ -234,7 +234,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "aff066e67ab8bf74",
@@ -262,7 +262,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "e8d0f90220a0f08a",
@@ -290,7 +290,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "d7b2bef44bf64cf6",
@@ -319,7 +319,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "efd7c510f26e134f",
@@ -347,7 +347,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "d01da31458a3fe0a",
@@ -375,7 +375,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "b50c789da26ee27c",
@@ -403,7 +403,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "adda96186caadcbe",
@@ -431,7 +431,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "ae425e7207adf40b",
@@ -543,7 +543,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "b6cb91d5696c888b",
@@ -571,7 +571,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "aa7b58580b1a561b",
@@ -599,7 +599,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "703964ee05dd0979",
@@ -627,7 +627,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "a29f820b6073ed50",
@@ -655,7 +655,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "698402c48f5a4f6d",
@@ -683,7 +683,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "efb455d6b7da640a",
@@ -711,7 +711,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "813e3422e3519fcd",
@@ -739,7 +739,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "b233cff6e5e9b0ec",
@@ -768,7 +768,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "ea14bbdcf619e7d9",
@@ -797,7 +797,7 @@
       "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
       "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "48d7c61a5865e2ed",
@@ -825,7 +825,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "c265f74d187c9e2d",
@@ -854,7 +854,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "82a50a61c16ad151",
@@ -882,7 +882,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "c99e7de70602e267",
@@ -910,7 +910,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "e016ad78d916a02a",
@@ -938,7 +938,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "890f5c6a70a5a4a8",
@@ -967,7 +967,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "fad05161b27193a2",
@@ -995,7 +995,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "6dcc7135b334842e",
@@ -1023,7 +1023,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "00f330a26fe9d31d",
@@ -1051,7 +1051,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "471634f38b30d9ad",
@@ -1079,7 +1079,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "f38c0babc30244f9",
@@ -1108,7 +1108,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "2fd65b36f395a09e",
@@ -1137,7 +1137,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "42083f481600049a",
@@ -1165,7 +1165,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "85232bdc6620d568",
@@ -1193,7 +1193,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "713b6e78169aa7e4",
@@ -1221,7 +1221,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "64e39df118d481fe",
@@ -1249,7 +1249,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "96e5815226f6fdd0",
@@ -1277,7 +1277,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "5d529b48a84c3ab1",
@@ -1305,7 +1305,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "fa977bb0e376bb96",
@@ -1333,7 +1333,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "989a40106fa32d32",
@@ -1361,7 +1361,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "7d907db94e4ca1ee",
@@ -1389,7 +1389,7 @@
       "cfa_connection": "No direct CFA curriculum link identified by keyword.",
       "suggested_action": "Skip unless the headline itself catches your attention.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "27b20efd54588260",
@@ -1445,7 +1445,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "b712a5fa2d070bdb",
@@ -1474,7 +1474,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "15bb7700987abf43",
@@ -1503,7 +1503,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "bebcea0f408d2a4a",
@@ -1531,7 +1531,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "3081294731e66509",
@@ -1559,7 +1559,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "07949dd271af21c9",
@@ -1588,7 +1588,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "1e5068e98e031721",
@@ -1617,7 +1617,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "80fd616480ce0204",
@@ -1646,7 +1646,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "6b6c10e030b388ad",
@@ -1674,7 +1674,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "9876d08b9a001f2d",
@@ -1702,7 +1702,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "712e646eda567d13",
@@ -1730,7 +1730,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "c7145c988830f5d8",
@@ -1758,7 +1758,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "acc554bf55087971",
@@ -1786,7 +1786,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "3ac645e23eacb942",
@@ -1815,7 +1815,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "5541900f1f44b7c5",
@@ -1844,7 +1844,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "1b13b818cd1f3670",
@@ -1872,7 +1872,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "2ab51b2b0bba26b5",
@@ -1900,7 +1900,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "42aa786d6696d49a",
@@ -1928,7 +1928,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "e81ddf6b4eb154ae",
@@ -1956,7 +1956,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "3236b0b979b6cfa5",
@@ -1983,7 +1983,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "aea446ec5be8ef7b",
@@ -2011,7 +2011,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "1503d6d80704d107",
@@ -2038,7 +2038,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "156d6f1033c72522",
@@ -2065,7 +2065,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "a49302590cca7688",
@@ -2093,7 +2093,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "28f13f1f34da5f93",
@@ -2120,7 +2120,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "eaa78faf3639a098",
@@ -2147,7 +2147,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "f48681be97f292e1",
@@ -2175,7 +2175,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "f7ee997e5aae39a4",
@@ -2202,7 +2202,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "157f8b145352e193",
@@ -2229,7 +2229,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "83e7ca69b8e01b29",
@@ -2257,7 +2257,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "1458ce3d0a030fb8",
@@ -2285,7 +2285,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "694ce1badfaf5f2f",
@@ -2313,7 +2313,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "dfdf8d18c6f010c7",
@@ -2340,7 +2340,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "b252439642e6df41",
@@ -2367,7 +2367,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "f5241fc2d678e76e",
@@ -2394,7 +2394,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "86b112d22257464b",
@@ -2422,7 +2422,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "ac00651c0093d6f9",
@@ -2449,7 +2449,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "72dc317eea04d048",
@@ -2477,7 +2477,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "737e4fff6a05c09d",
@@ -2504,7 +2504,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "19a6ebb8b8b9eadd",
@@ -2531,7 +2531,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "2fe4c3360c5a7a2b",
@@ -2559,7 +2559,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "888652bb279a9979",
@@ -2587,7 +2587,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     },
     {
       "id": "efb5d3bd8ee2477e",
@@ -2615,7 +2615,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-03T18:37:18+00:00"
+      "last_seen": "2026-09-03T18:50:02+00:00"
     }
   ],
   "source_health": [
