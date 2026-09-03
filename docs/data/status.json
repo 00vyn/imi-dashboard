@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T14:29:12+00:00",
+  "sources": [
+    {
+      "id": "fed-press",
+      "name": "Federal Reserve press releases",
+      "kind": "feed",
+      "region": "US",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "robots": "robots.txt unavailable"
+    },
+    {
+      "id": "ecb-press",
+      "name": "European Central Bank press",
+      "kind": "feed",
+      "region": "EU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.ecb.europa.eu/rss/press.html",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "marketwatch-top",
+      "name": "MarketWatch top stories",
+      "kind": "feed",
+      "region": "US",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "robots": "robots.txt unavailable"
+    },
+    {
+      "id": "ionnews",
+      "name": "ION News",
+      "kind": "feed",
+      "region": "MU",
+      "tier": 3,
+      "status": "ok",
+      "fetched_url": "https://ionnews.mu/feed/",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "bom-feed",
+      "name": "Bank of Mauritius news",
+      "kind": "feed",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.bom.mu/rss.xml",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "sem-indices",
+      "name": "SEM indices",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "sem-announcements",
+      "name": "SEM announcements",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "limited",
+      "fetched_url": "https://www.stockexchangeofmauritius.com/",
+      "robots": "allowed by robots.txt",
+      "message": "reachable; no extraction rule is configured yet"
+    },
+    {
+      "id": "bom-rates",
+      "name": "Bank of Mauritius rates",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.bom.mu/",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "frankfurter",
+      "name": "Frankfurter exchange rates",
+      "kind": "api",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T14:29:12+00:00",
+  "sources": [
+    {
+      "id": "fed-press",
+      "name": "Federal Reserve press releases",
+      "kind": "feed",
+      "region": "US",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "robots": "robots.txt unavailable",
+      "items": [
+        {
+          "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+          "published": "Thu, 27 Aug 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+          "published": "Tue, 25 Aug 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+          "published": "Thu, 20 Aug 2026 20:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+          "published": "Thu, 20 Aug 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+          "published": "Thu, 20 Aug 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+          "published": "Wed, 19 Aug 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+          "published": "Thu, 13 Aug 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+          "published": "Tue, 4 Aug 2026 20:30:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+          "published": "Tue, 4 Aug 2026 20:30:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+          "published": "Tue, 4 Aug 2026 20:30:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+          "published": "Fri, 31 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+          "published": "Fri, 31 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+          "published": "Thu, 30 Jul 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+          "published": "Thu, 30 Jul 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+          "published": "Wed, 29 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
+          "published": "Thu, 16 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
+          "published": "Thu, 16 Jul 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+          "published": "Tue, 14 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+          "published": "Thu, 9 Jul 2026 19:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
+          "published": "Thu, 9 Jul 2026 15:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "ecb-press",
+      "name": "European Central Bank press",
+      "kind": "feed",
+      "region": "EU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.ecb.europa.eu/rss/press.html",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+          "published": "Tue, 01 Sep 2026 18:00:00 +0200"
+        },
+        {
+          "title": "Isabel Schnabel: Central banks on-chain",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+          "published": "Fri, 28 Aug 2026 18:00:00 +0200"
+        },
+        {
+          "title": "Meeting of 22-23 July 2026",
+          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+          "published": "Thu, 27 Aug 2026 13:30:00 +0200"
+        },
+        {
+          "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+          "published": "Wed, 26 Aug 2026 12:15:00 +0200"
+        },
+        {
+          "title": "Piero Cipollone: Interview with ilsussidiario.net",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+          "published": "Mon, 24 Aug 2026 08:00:00 +0200"
+        },
+        {
+          "title": "ECB Consumer Expectations Survey results – July 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+          "published": "Fri, 21 Aug 2026 10:00:00 +0200"
+        },
+        {
+          "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
+          "published": "Wed, 19 Aug 2026 09:10:00 +0200"
+        },
+        {
+          "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+          "published": "Mon, 17 Aug 2026 11:30:00 +0200"
+        },
+        {
+          "title": "Cash remains most widely accepted payment method in euro area",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+          "published": "Thu, 13 Aug 2026 11:00:00 +0200"
+        },
+        {
+          "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
+          "published": "Tue, 11 Aug 2026 10:30:00 +0200"
+        },
+        {
+          "title": "ECB publishes consolidated banking data for end-March 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+          "published": "Fri, 07 Aug 2026 10:00:00 +0200"
+        },
+        {
+          "title": "Digital euro app to incorporate highest accessibility standards",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+          "published": "Thu, 30 Jul 2026 10:00:00 +0200"
+        },
+        {
+          "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+          "published": "Wed, 29 Jul 2026 10:00:00 +0200"
+        },
+        {
+          "title": "Philip R. Lane: Outlook for the euro area economy",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+          "published": "Fri, 24 Jul 2026 17:30:00 +0200"
+        },
+        {
+          "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+          "published": "Fri, 24 Jul 2026 15:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "id": "marketwatch-top",
+      "name": "MarketWatch top stories",
+      "kind": "feed",
+      "region": "US",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "robots": "robots.txt unavailable",
+      "items": [
+        {
+          "title": "As Broadcom’s stock falls, Wall Street focuses on the company’s forecast",
+          "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:46:00 GMT"
+        },
+        {
+          "title": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
+          "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:35:00 GMT"
+        },
+        {
+          "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+          "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:34:00 GMT"
+        },
+        {
+          "title": "August jobs report could show a summer hiring slump. Haitian refugees are a wild card.",
+          "link": "https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:33:00 GMT"
+        },
+        {
+          "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+          "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:15:00 GMT"
+        },
+        {
+          "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+          "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 13:15:00 GMT"
+        },
+        {
+          "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
+          "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 12:33:00 GMT"
+        },
+        {
+          "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+          "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 12:29:00 GMT"
+        },
+        {
+          "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+          "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 11:45:00 GMT"
+        },
+        {
+          "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+          "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 11:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "ionnews",
+      "name": "ION News",
+      "kind": "feed",
+      "region": "MU",
+      "tier": 3,
+      "status": "ok",
+      "fetched_url": "https://ionnews.mu/feed/",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "[La voix des internautes] TVA : « Tou bann ti biznes pe mor avek sa »",
+          "link": "https://ionnews.mu/la-voix-des-internautes-tva-tou-bann-ti-biznes-pe-mor-avek-sa/",
+          "published": "Thu, 03 Sep 2026 14:25:16 +0000"
+        },
+        {
+          "title": "Du cannabis dans un colis en provenance du Canada",
+          "link": "https://ionnews.mu/du-cannabis-dans-un-colis-en-provenance-du-canada/",
+          "published": "Thu, 03 Sep 2026 14:03:00 +0000"
+        },
+        {
+          "title": "Rivière-Noire : 13 000 foyers face à une distribution d’eau réduite",
+          "link": "https://ionnews.mu/riviere-noire-13-000-foyers-face-a-une-distribution-deau-reduite/",
+          "published": "Thu, 03 Sep 2026 13:51:36 +0000"
+        },
+        {
+          "title": "Accident à Vacoas : Une femme de 32 ans dans un état critique",
+          "link": "https://ionnews.mu/accident-a-vacoas-une-femme-de-32-ans-dans-un-etat-critique/",
+          "published": "Thu, 03 Sep 2026 11:40:45 +0000"
+        },
+        {
+          "title": "[La baguette à Rs 10 à Mahébourg] Les commerçants : « Dipin baget la inpe pli long »",
+          "link": "https://ionnews.mu/la-baguette-a-rs-10-a-mahebourg-les-commercants-dipin-baget-la-inpe-pli-long/",
+          "published": "Thu, 03 Sep 2026 11:34:31 +0000"
+        },
+        {
+          "title": "Patrick Belcourt : « Personn pa pe fouti dir ki sa lepep la pe pase »",
+          "link": "https://ionnews.mu/patrick-belcourt-personn-pa-pe-fouti-dir-ki-sa-lepep-la-pe-pase/",
+          "published": "Thu, 03 Sep 2026 09:16:15 +0000"
+        },
+        {
+          "title": "Chebel : Deux jeunes blessés après un accident entre une camionnette et une moto",
+          "link": "https://ionnews.mu/chebel-deux-jeunes-blesses-apres-un-accident-entre-une-camionnette-et-une-moto/",
+          "published": "Thu, 03 Sep 2026 08:29:48 +0000"
+        },
+        {
+          "title": "[Fertilisants] Sharhad Nawosah : « Mo gayn letan fini plante, fini rekolte lerla pou gayn sa subsid-la »",
+          "link": "https://ionnews.mu/fertilisants-sharhad-nawosah-mo-gayn-letan-fini-plante-fini-rekolte-lerla-pou-gayn-sa-subsid-la/",
+          "published": "Thu, 03 Sep 2026 05:45:36 +0000"
+        },
+        {
+          "title": "Raviraj Beechook: La baguette à Rs 8 introuvable",
+          "link": "https://ionnews.mu/raviraj-beechook-la-baguette-a-rs-8-introuvable/",
+          "published": "Thu, 03 Sep 2026 02:00:59 +0000"
+        },
+        {
+          "title": "Permis de conduire : La copie ne suffira bientôt plus lors des contrôles",
+          "link": "https://ionnews.mu/permis-de-conduire-la-copie-ne-suffira-bientot-plus-lors-des-controles/",
+          "published": "Thu, 03 Sep 2026 01:43:32 +0000"
+        },
+        {
+          "title": "Des traces de fioul découvertes sur la plage de Pointe-d’Esny",
+          "link": "https://ionnews.mu/des-traces-de-fioul-decouvertes-sur-la-plage-de-pointe-desny/",
+          "published": "Thu, 03 Sep 2026 01:33:36 +0000"
+        },
+        {
+          "title": "Reza Uteem : Tolérance zéro pour les conducteurs dangereux",
+          "link": "https://ionnews.mu/reza-uteem-tolerance-zero-pour-les-conducteurs-dangereux/",
+          "published": "Thu, 03 Sep 2026 01:29:32 +0000"
+        }
+      ]
+    },
+    {
+      "id": "bom-feed",
+      "name": "Bank of Mauritius news",
+      "kind": "feed",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.bom.mu/rss.xml",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "MPC statement at a glance",
+          "link": "https://www.bom.mu/mpc-statement-glance",
+          "published": "Mon, 31 Aug 2026 07:01:05 +0000"
+        },
+        {
+          "title": "Scam Alert: Social media post pertaining to investment scheme",
+          "link": "https://www.bom.mu/scam-alert-social-media-post-pertaining-investment-scheme",
+          "published": "Sat, 29 Aug 2026 12:36:08 +0000"
+        },
+        {
+          "title": "MPC August 2026",
+          "link": "https://www.bom.mu/mpc-august-2026",
+          "published": "Wed, 12 Aug 2026 19:41:51 +0000"
+        },
+        {
+          "title": "AACB 47th Meeting of the Assembly of Governors in Cameroon",
+          "link": "https://www.bom.mu/aacb-47th-meeting-assembly-governors-cameroon",
+          "published": "Fri, 28 Nov 2025 18:16:52 +0000"
+        },
+        {
+          "title": "Annual Report for the year ended 30 June 2025",
+          "link": "https://www.bom.mu/annual-report-year-ended-30-june-2025",
+          "published": "Thu, 27 Nov 2025 05:51:27 +0000"
+        },
+        {
+          "title": "Director",
+          "link": "https://www.bom.mu/about-bank/board-of-directors/director-19",
+          "published": "Thu, 02 Oct 2025 06:28:11 +0000"
+        },
+        {
+          "title": "Bank of Mauritius strengthens commitment to sustainable finance with SUNREF Programme collaboration",
+          "link": "https://www.bom.mu/bank-mauritius-strengthens-commitment-sustainable-finance-sunref-programme-collaboration",
+          "published": "Mon, 28 Apr 2025 13:11:17 +0000"
+        },
+        {
+          "title": "Director",
+          "link": "https://www.bom.mu/about-bank/board-of-directors/director-18",
+          "published": "Fri, 10 Jan 2025 17:03:44 +0000"
+        },
+        {
+          "title": "Director",
+          "link": "https://www.bom.mu/about-bank/board-of-directors/director-17",
+          "published": "Fri, 10 Jan 2025 17:03:04 +0000"
+        },
+        {
+          "title": "Director",
+          "link": "https://www.bom.mu/about-bank/board-of-directors/director-16",
+          "published": "Fri, 10 Jan 2025 17:02:17 +0000"
+        }
+      ]
+    },
+    {
+      "id": "sem-indices",
+      "name": "SEM indices",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
+      "robots": "allowed by robots.txt",
+      "values": {
+        "SEMDEX": 2299.81,
+        "SEM-ASI": 2050.6,
+        "SEMTRI": 11323.77,
+        "SEM10": 437.65
+      }
+    },
+    {
+      "id": "sem-announcements",
+      "name": "SEM announcements",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "limited",
+      "fetched_url": "https://www.stockexchangeofmauritius.com/",
+      "robots": "allowed by robots.txt",
+      "message": "reachable; no extraction rule is configured yet"
+    },
+    {
+      "id": "bom-rates",
+      "name": "Bank of Mauritius rates",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.bom.mu/",
+      "robots": "allowed by robots.txt",
+      "values": {
+        "KeyRate": 4.75,
+        "OvernightInterbank": 3.45
+      }
+    },
+    {
+      "id": "frankfurter",
+      "name": "Frankfurter exchange rates",
+      "kind": "api",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok",
+      "endpoints": {
+        "currencies": {
+          "EUR": "Euro",
+          "GBP": "British Pound",
+          "MUR": "Mauritian Rupee",
+          "USD": "United States Dollar"
+        },
+        "usd-rates": [
+          {
+            "date": "2026-09-03",
+            "base": "USD",
+            "quote": "EUR",
+            "rate": 0.86248
+          },
+          {
+            "date": "2026-09-03",
+            "base": "USD",
+            "quote": "GBP",
+            "rate": 0.74108
+          },
+          {
+            "date": "2026-09-03",
+            "base": "USD",
+            "quote": "JPY",
+            "rate": 158.97
+          }
+        ]
+      }
+    }
+  ]
+}
