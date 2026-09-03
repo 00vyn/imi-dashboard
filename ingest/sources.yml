@@ -1,0 +1,134 @@
+# Active source registry for the Investment Management Intelligence Hub.
+#
+# This file contains only sources that passed the Step 1 probe on 2026-09-03.
+# Weak, failed, and robots-disallowed sources are deliberately absent.  SEC
+# EDGAR is deferred until the company-research phase.
+#
+# It is configuration only: collectors and page rendering come in later steps.
+schema_version: 1
+
+sources:
+  - id: fed-press
+    name: Federal Reserve press releases
+    kind: feed
+    region: US
+    tier: 1
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    ingest:
+      mode: feed
+      item_limit: 20
+
+  - id: ecb-press
+    name: European Central Bank press
+    kind: feed
+    region: EU
+    tier: 1
+    url: https://www.ecb.europa.eu/rss/press.html
+    ingest:
+      mode: feed
+      item_limit: 15
+
+  - id: marketwatch-top
+    name: MarketWatch top stories
+    kind: feed
+    region: US
+    tier: 2
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    ingest:
+      mode: feed
+      item_limit: 10
+
+  - id: ionnews
+    name: ION News
+    kind: feed
+    region: MU
+    tier: 3
+    url: https://ionnews.mu/feed/
+    ingest:
+      mode: feed
+      item_limit: 12
+
+  - id: bom-feed
+    name: Bank of Mauritius news
+    kind: feed
+    region: MU
+    tier: 1
+    url: https://www.bom.mu/rss.xml
+    ingest:
+      mode: feed
+      item_limit: 10
+
+  - id: sem-indices
+    name: SEM indices
+    kind: html
+    region: MU
+    tier: 1
+    url: https://www.stockexchangeofmauritius.com/products-market-data/indices
+    ingest:
+      mode: html
+      checks:
+        - label: SEMDEX
+          anchor: SEMDEX
+          min: 500
+          max: 10000
+          baseline: 2299.81
+        - label: SEM-ASI
+          anchor: SEM-ASI
+          min: 200
+          max: 10000
+          baseline: 2050.6
+        - label: SEMTRI
+          anchor: SEMTRI
+          min: 1000
+          max: 100000
+          baseline: 11323.77
+        - label: SEM10
+          anchor: SEM10
+          min: 50
+          max: 5000
+          baseline: 437.65
+
+  - id: sem-announcements
+    name: SEM announcements
+    kind: html
+    region: MU
+    tier: 1
+    url: https://www.stockexchangeofmauritius.com/
+    ingest:
+      mode: html
+      checks: []
+
+  - id: bom-rates
+    name: Bank of Mauritius rates
+    kind: html
+    region: MU
+    tier: 1
+    url: https://www.bom.mu/
+    ingest:
+      mode: html
+      checks:
+        - label: KeyRate
+          anchor: Key Rate
+          min: 0
+          max: 20
+          baseline: 4.75
+        - label: OvernightInterbank
+          anchor: Overnight Interbank Rate
+          min: 0
+          max: 20
+          baseline: 3.45
+
+  - id: frankfurter
+    name: Frankfurter exchange rates
+    kind: api
+    region: GLOBAL
+    tier: 2
+    ingest:
+      mode: json
+      endpoints:
+        - id: currencies
+          url: https://api.frankfurter.dev/v2/currencies
+          expect_keys: [USD, EUR, GBP, MUR]
+        - id: usd-rates
+          url: https://api.frankfurter.dev/v2/rates?base=USD&quotes=EUR,GBP,JPY
+          expect_keys: []
