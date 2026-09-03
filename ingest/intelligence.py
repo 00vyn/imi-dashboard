@@ -98,6 +98,8 @@ SOURCE_DEFAULT_CATEGORY = {
     "ecb-press": "macro_central_banks",
     "bom-feed": "macro_central_banks",
     "marketwatch-top": "markets",
+    "globenewswire-ma": "corporate_finance_deals",
+    "globenewswire-funds": "investment_management",
 }
 
 MAURITIUS_KEYWORDS = [
