@@ -1,13 +1,13 @@
 /*
  * db.js -- private, browser-local data layer for the research queue,
- * notes, and reading list (Phase 6).
+ * notes, reading list, company research, and report builder (Phase 6).
  *
  * Everything here lives in IndexedDB, in the browser, on this device.
  * Nothing in this file ever sends data anywhere. It is loaded by both
  * index.html (for the "Add to queue" button on intelligence cards) and
- * research.html (the full queue/notes/reading-list workspace), so a
- * record added from one page shows up on the other -- both pages are
- * served from the same origin, so they share one IndexedDB database.
+ * research.html (the full workspace), so a record added from one page
+ * shows up on the other -- both pages are served from the same origin,
+ * so they share one IndexedDB database.
  *
  * Public surface, all Promise-based:
  *   ImiDB.addQueueItem(fields)      ImiDB.updateQueueItem(id, patch)
@@ -16,22 +16,29 @@
  *   ImiDB.deleteNote(id)            ImiDB.listNotes()
  *   ImiDB.addReadingItem(fields)    ImiDB.updateReadingItem(id, patch)
  *   ImiDB.deleteReadingItem(id)     ImiDB.listReadingItems()
+ *   ImiDB.addCompany(fields)        ImiDB.updateCompany(id, patch)
+ *   ImiDB.deleteCompany(id)         ImiDB.listCompanies()
+ *   ImiDB.addReport(fields)         ImiDB.updateReport(id, patch)
+ *   ImiDB.deleteReport(id)          ImiDB.listReports()
  *   ImiDB.exportAllData()           ImiDB.importAllData(data, {mode})
  *
- * Schema is versioned (DB_VERSION) so Phase 6's later slice (company
- * research, report builder) can add stores with a version bump without
- * touching what is here.
+ * Schema is versioned (DB_VERSION). Adding a store bumps DB_VERSION and
+ * relies on onupgradeneeded only creating stores that do not exist yet,
+ * so existing queue/notes/reading data from an earlier version survives
+ * untouched -- verified in test_db.js's "v1 to v2 upgrade" case.
  */
 
 (function (global) {
   "use strict";
 
   const DB_NAME = "imi-research-db";
-  const DB_VERSION = 1;
+  const DB_VERSION = 2;
   const STORES = {
     queue: { name: "queue", keyPath: "id", indexes: ["status", "priority", "dateAdded"] },
     notes: { name: "notes", keyPath: "id", indexes: ["updatedAt"] },
     reading: { name: "reading", keyPath: "id", indexes: ["priority", "status"] },
+    companies: { name: "companies", keyPath: "id", indexes: ["country", "sector", "ticker", "updatedAt"] },
+    reports: { name: "reports", keyPath: "id", indexes: ["companyId", "updatedAt"] },
   };
 
   let dbPromise = null;
@@ -210,13 +217,88 @@
     return storeGetAll("reading");
   }
 
+  // ---- Company research ---------------------------------------------
+
+  function addCompany(fields) {
+    const timestamp = nowISO();
+    const record = {
+      id: uid(),
+      company: fields.company || "",
+      country: fields.country || "",
+      sector: fields.sector || "",
+      ticker: fields.ticker || "",
+      thesis: fields.thesis || "",
+      bullCase: fields.bullCase || "",
+      bearCase: fields.bearCase || "",
+      risks: fields.risks || "",
+      catalysts: fields.catalysts || "",
+      metrics: fields.metrics || "",
+      notes: fields.notes || "",
+      sources: fields.sources || "",
+      createdAt: fields.createdAt || timestamp,
+      updatedAt: timestamp,
+    };
+    return storeAdd("companies", record);
+  }
+
+  function updateCompany(id, patch) {
+    return updateRecord("companies", id, { ...patch, updatedAt: nowISO() });
+  }
+
+  function deleteCompany(id) {
+    return storeDelete("companies", id);
+  }
+
+  function listCompanies() {
+    return storeGetAll("companies");
+  }
+
+  // ---- Report builder -------------------------------------------------
+
+  function addReport(fields) {
+    const timestamp = nowISO();
+    const record = {
+      id: uid(),
+      title: fields.title || "",
+      companyId: fields.companyId || "",
+      executiveSummary: fields.executiveSummary || "",
+      background: fields.background || "",
+      financialInformation: fields.financialInformation || "",
+      strategy: fields.strategy || "",
+      valuation: fields.valuation || "",
+      risks: fields.risks || "",
+      catalysts: fields.catalysts || "",
+      thesis: fields.thesis || "",
+      whatCouldProveMeWrong: fields.whatCouldProveMeWrong || "",
+      conclusion: fields.conclusion || "",
+      sources: fields.sources || "",
+      createdAt: fields.createdAt || timestamp,
+      updatedAt: timestamp,
+    };
+    return storeAdd("reports", record);
+  }
+
+  function updateReport(id, patch) {
+    return updateRecord("reports", id, { ...patch, updatedAt: nowISO() });
+  }
+
+  function deleteReport(id) {
+    return storeDelete("reports", id);
+  }
+
+  function listReports() {
+    return storeGetAll("reports");
+  }
+
   // ---- Export / import ------------------------------------------------
 
   async function exportAllData() {
-    const [queue, notes, reading] = await Promise.all([
+    const [queue, notes, reading, companies, reports] = await Promise.all([
       listQueueItems(),
       listNotes(),
       listReadingItems(),
+      listCompanies(),
+      listReports(),
     ]);
     return {
       schema_version: DB_VERSION,
@@ -224,6 +306,8 @@
       queue,
       notes,
       reading,
+      companies,
+      reports,
     };
   }
 
@@ -233,16 +317,33 @@
     const queue = Array.isArray(data.queue) ? data.queue : [];
     const notes = Array.isArray(data.notes) ? data.notes : [];
     const reading = Array.isArray(data.reading) ? data.reading : [];
+    const companies = Array.isArray(data.companies) ? data.companies : [];
+    const reports = Array.isArray(data.reports) ? data.reports : [];
 
     if (mode === "replace") {
-      await Promise.all([storeClear("queue"), storeClear("notes"), storeClear("reading")]);
+      await Promise.all([
+        storeClear("queue"),
+        storeClear("notes"),
+        storeClear("reading"),
+        storeClear("companies"),
+        storeClear("reports"),
+      ]);
     }
     await Promise.all([
       ...queue.map((record) => storePut("queue", { ...record, id: record.id || uid() })),
       ...notes.map((record) => storePut("notes", { ...record, id: record.id || uid() })),
       ...reading.map((record) => storePut("reading", { ...record, id: record.id || uid() })),
+      ...companies.map((record) => storePut("companies", { ...record, id: record.id || uid() })),
+      ...reports.map((record) => storePut("reports", { ...record, id: record.id || uid() })),
     ]);
-    return { queue: queue.length, notes: notes.length, reading: reading.length, mode };
+    return {
+      queue: queue.length,
+      notes: notes.length,
+      reading: reading.length,
+      companies: companies.length,
+      reports: reports.length,
+      mode,
+    };
   }
 
   const ImiDB = {
@@ -258,6 +359,14 @@
     updateReadingItem,
     deleteReadingItem,
     listReadingItems,
+    addCompany,
+    updateCompany,
+    deleteCompany,
+    listCompanies,
+    addReport,
+    updateReport,
+    deleteReport,
+    listReports,
     exportAllData,
     importAllData,
   };
