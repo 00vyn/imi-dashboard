@@ -1,0 +1,5 @@
+# All open source, all permissively licensed. No paid service, no API key.
+httpx==0.28.1        # BSD-3-Clause  HTTP client
+feedparser==6.0.14   # BSD-2-Clause  RSS and Atom parsing
+PyYAML==6.0.2        # MIT           source registry
+selectolax==0.3.27   # MIT           fast HTML parsing

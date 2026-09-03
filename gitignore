@@ -1,0 +1,8 @@
+# The repository is public. Personal data never goes in it.
+*.export.json
+*.local.json
+backup/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
