@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T18:07:11+00:00",
+  "generated_at": "2026-09-03T18:37:01+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -90,6 +90,26 @@
       "region": "GLOBAL",
       "tier": 2,
       "status": "ok"
+    },
+    {
+      "id": "globenewswire-ma",
+      "name": "GlobeNewswire Mergers and Acquisitions",
+      "kind": "feed",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20and%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20and%20Acquisitions",
+      "robots": "allowed by robots.txt"
+    },
+    {
+      "id": "globenewswire-funds",
+      "name": "GlobeNewswire Investment Fund Information",
+      "kind": "feed",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
+      "robots": "allowed by robots.txt"
     }
   ]
 }

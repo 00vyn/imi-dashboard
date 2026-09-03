@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T18:07:11+00:00",
+  "generated_at": "2026-09-03T18:37:01+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -212,6 +212,26 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
+          "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
+          "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 18:30:00 GMT"
+        },
+        {
+          "title": "Is the stock market open on Labor Day? Does the post office deliver mail?",
+          "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 18:30:00 GMT"
+        },
+        {
+          "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+          "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 18:30:00 GMT"
+        },
+        {
+          "title": "New doubts emerge about whether Fed will raise interest rates this month",
+          "link": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+          "published": "Thu, 03 Sep 2026 18:24:00 GMT"
+        },
+        {
           "title": "This presidential-election bet offers ‘free money’",
           "link": "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409?mod=mw_rss_topstories",
           "published": "Thu, 03 Sep 2026 17:54:00 GMT"
@@ -240,26 +260,6 @@
           "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
           "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
           "published": "Thu, 03 Sep 2026 16:30:00 GMT"
-        },
-        {
-          "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-          "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 16:26:00 GMT"
-        },
-        {
-          "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-          "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 15:39:00 GMT"
-        },
-        {
-          "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-          "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 15:20:00 GMT"
-        },
-        {
-          "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-          "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 15:00:00 GMT"
         }
       ]
     },
@@ -273,6 +273,11 @@
       "fetched_url": "https://ionnews.mu/feed/",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Jhakri : Depuis trois mois, Ganadhyaksha se prépare pour faire vivre la tradition",
+          "link": "https://ionnews.mu/jhakri-depuis-trois-mois-ganadhyaksha-se-prepare-pour-faire-vivre-la-tradition/",
+          "published": "Thu, 03 Sep 2026 18:32:20 +0000"
+        },
         {
           "title": "[La voix des internautes] TVA : « Tou bann ti biznes pe mor avek sa »",
           "link": "https://ionnews.mu/la-voix-des-internautes-tva-tou-bann-ti-biznes-pe-mor-avek-sa/",
@@ -327,11 +332,6 @@
           "title": "Des traces de fioul découvertes sur la plage de Pointe-d’Esny",
           "link": "https://ionnews.mu/des-traces-de-fioul-decouvertes-sur-la-plage-de-pointe-desny/",
           "published": "Thu, 03 Sep 2026 01:33:36 +0000"
-        },
-        {
-          "title": "Reza Uteem : Tolérance zéro pour les conducteurs dangereux",
-          "link": "https://ionnews.mu/reza-uteem-tolerance-zero-pour-les-conducteurs-dangereux/",
-          "published": "Thu, 03 Sep 2026 01:29:32 +0000"
         }
       ]
     },
@@ -457,22 +457,246 @@
             "date": "2026-09-03",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86219
+            "rate": 0.86201
           },
           {
             "date": "2026-09-03",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74111
+            "rate": 0.74097
           },
           {
             "date": "2026-09-03",
             "base": "USD",
             "quote": "JPY",
-            "rate": 158.42
+            "rate": 158.34
           }
         ]
       }
+    },
+    {
+      "id": "globenewswire-ma",
+      "name": "GlobeNewswire Mergers and Acquisitions",
+      "kind": "feed",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20and%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20and%20Acquisitions",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "FG Communities Completes Acquisition in Easley, SC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356186/0/en/fg-communities-completes-acquisition-in-easley-sc.html",
+          "published": "Thu, 03 Sep 2026 17:02 GMT"
+        },
+        {
+          "title": "Following National Advertising Division Challenge, DREO Voluntarily Discontinues Pedestal and Tower Fan Claims",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356103/0/en/following-national-advertising-division-challenge-dreo-voluntarily-discontinues-pedestal-and-tower-fan-claims.html",
+          "published": "Thu, 03 Sep 2026 15:00 GMT"
+        },
+        {
+          "title": "Equivu Capital Announces Sale of S2 to LEFORT",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356097/0/en/equivu-capital-announces-sale-of-s2-to-lefort.html",
+          "published": "Thu, 03 Sep 2026 14:57 GMT"
+        },
+        {
+          "title": "Form 8.3 - DCC plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356026/0/en/form-8-3-dcc-plc.html",
+          "published": "Thu, 03 Sep 2026 13:41 GMT"
+        },
+        {
+          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355994/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+          "published": "Thu, 03 Sep 2026 13:13 GMT"
+        },
+        {
+          "title": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355993/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+          "published": "Thu, 03 Sep 2026 13:11 GMT"
+        },
+        {
+          "title": "Opti9 Technologies Acquires Hut 8’s Canadian Managed Cloud Business, Further Expanding Its Canadian Cloud Platform",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355989/0/en/opti9-technologies-acquires-hut-8-s-canadian-managed-cloud-business-further-expanding-its-canadian-cloud-platform.html",
+          "published": "Thu, 03 Sep 2026 13:05 GMT"
+        },
+        {
+          "title": "Anortech Receives US$1.0 Million Cash and Shares from Sarfartoq Ree Project Transaction",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355965/0/en/anortech-receives-us-1-0-million-cash-and-shares-from-sarfartoq-ree-project-transaction.html",
+          "published": "Thu, 03 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "Kaleris Acquires Newport Systems to Automate Maintenance and Repair Across the Intermodal Supply Chain",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355946/0/en/kaleris-acquires-newport-systems-to-automate-maintenance-and-repair-across-the-intermodal-supply-chain.html",
+          "published": "Thu, 03 Sep 2026 12:59 GMT"
+        },
+        {
+          "title": "GreetEat Corporation Highlights ChefKart’s 224% Revenue Growth and Expansion Opportunity Across India",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355943/0/en/greeteat-corporation-highlights-chefkart-s-224-revenue-growth-and-expansion-opportunity-across-india.html",
+          "published": "Thu, 03 Sep 2026 12:56 GMT"
+        },
+        {
+          "title": "Form 8.3 - Picton Property Income Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355932/0/en/form-8-3-picton-property-income-limited.html",
+          "published": "Thu, 03 Sep 2026 12:35 GMT"
+        },
+        {
+          "title": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355931/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
+          "published": "Thu, 03 Sep 2026 12:33 GMT"
+        },
+        {
+          "title": "HF Foods Group Completes Acquisition of Searay Foods",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355907/0/en/hf-foods-group-completes-acquisition-of-searay-foods.html",
+          "published": "Thu, 03 Sep 2026 12:30 GMT"
+        },
+        {
+          "title": "Morocco Strategic Minerals Corp. Completes Sale of Initial 51% Interest in Sakami Property in Québec",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355779/0/en/morocco-strategic-minerals-corp-completes-sale-of-initial-51-interest-in-sakami-property-in-qu%C3%A9bec.html",
+          "published": "Thu, 03 Sep 2026 11:30 GMT"
+        },
+        {
+          "title": "Corporation de Minéraux Stratégiques du Maroc réalise la vente d’une participation initiale de 51 % dans la propriété Sakami au Québec",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355779/0/fr/corporation-de-min%C3%A9raux-strat%C3%A9giques-du-maroc-r%C3%A9alise-la-vente-d-une-participation-initiale-de-51-dans-la-propri%C3%A9t%C3%A9-sakami-au-qu%C3%A9bec.html",
+          "published": "Thu, 03 Sep 2026 11:30 GMT"
+        },
+        {
+          "title": "Hillman Completes Acquisition of Kanebridge",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355780/0/en/hillman-completes-acquisition-of-kanebridge.html",
+          "published": "Thu, 03 Sep 2026 11:30 GMT"
+        },
+        {
+          "title": "ScottsMiracle-Gro to Acquire Black Kow in Alignment with SMG 2.0 Growth Strategy",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355740/33079/en/scottsmiracle-gro-to-acquire-black-kow-in-alignment-with-smg-2-0-growth-strategy.html",
+          "published": "Thu, 03 Sep 2026 10:55 GMT"
+        },
+        {
+          "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355725/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+          "published": "Thu, 03 Sep 2026 10:07 GMT"
+        },
+        {
+          "title": "Man Group PLC : Form 8.3 - Rotork plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355724/0/en/man-group-plc-form-8-3-rotork-plc.html",
+          "published": "Thu, 03 Sep 2026 10:04 GMT"
+        },
+        {
+          "title": "Man Group PLC : Form 8.3 - Senior plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355711/0/en/man-group-plc-form-8-3-senior-plc.html",
+          "published": "Thu, 03 Sep 2026 09:53 GMT"
+        }
+      ]
+    },
+    {
+      "id": "globenewswire-funds",
+      "name": "GlobeNewswire Investment Fund Information",
+      "kind": "feed",
+      "region": "GLOBAL",
+      "tier": 2,
+      "status": "ok",
+      "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "Cape Fear BioCapital Announces Final Close of Fund I",
+          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355972/0/en/cape-fear-biocapital-announces-final-close-of-fund-i.html",
+          "published": "Thu, 03 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces its Net Asset Value and Asset Coverage Ratios as of August 31, 2026",
+          "link": "https://www.globenewswire.com/news-release/2026/09/02/3355594/0/en/kayne-anderson-energy-infrastructure-fund-provides-unaudited-balance-sheet-information-and-announces-its-net-asset-value-and-asset-coverage-ratios-as-of-august-31-2026.html",
+          "published": "Wed, 02 Sep 2026 23:45 GMT"
+        },
+        {
+          "title": "Westwood Announces Monthly Income Distributions for Westwood Salient Enhanced Midstream Income ETF (MDST),Westwood Salient Enhanced Energy Income ETF (WEEI) and Westwood Enhanced Income Opportunity (YLDW)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/02/3355056/0/en/westwood-announces-monthly-income-distributions-for-westwood-salient-enhanced-midstream-income-etf-mdst-westwood-salient-enhanced-energy-income-etf-weei-and-westwood-enhanced-incom.html",
+          "published": "Wed, 02 Sep 2026 12:00 GMT"
+        },
+        {
+          "title": "Tema Photonics & Optical ETF (LAZR) Increases Anthropic Position Ahead of Highly Anticipated IPO",
+          "link": "https://www.globenewswire.com/news-release/2026/09/02/3355024/0/en/tema-photonics-optical-etf-lazr-increases-anthropic-position-ahead-of-highly-anticipated-ipo.html",
+          "published": "Wed, 02 Sep 2026 11:30 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/02/3354956/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-2-etfs.html",
+          "published": "Wed, 02 Sep 2026 10:55 GMT"
+        },
+        {
+          "title": "Endeavor Catalyst-Backed Companies in Europe Raise More Than $8.3 Billion Across 2025 and H1 2026",
+          "link": "https://www.globenewswire.com/news-release/2026/09/02/3354813/0/en/endeavor-catalyst-backed-companies-in-europe-raise-more-than-8-3-billion-across-2025-and-h1-2026.html",
+          "published": "Wed, 02 Sep 2026 04:00 GMT"
+        },
+        {
+          "title": "Hashdex Announces Addition of HYPE to NCIQ Multi-Asset Spot ETF",
+          "link": "https://www.globenewswire.com/news-release/2026/09/01/3354252/0/en/hashdex-announces-addition-of-hype-to-nciq-multi-asset-spot-etf.html",
+          "published": "Tue, 01 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "KSM, a Phoenix Investment House Company, Partners with Defiance to Launch ISRL, the Israel 120 ETF Tracking the Largest Israeli Companies Listed on the TASE",
+          "link": "https://www.globenewswire.com/news-release/2026/09/01/3354253/0/en/ksm-a-phoenix-investment-house-company-partners-with-defiance-to-launch-isrl-the-israel-120-etf-tracking-the-largest-israeli-companies-listed-on-the-tase.html",
+          "published": "Tue, 01 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "Kayne Anderson Energy Infrastructure Fund Announces Distribution of $0.09 Per Share for September 2026",
+          "link": "https://www.globenewswire.com/news-release/2026/09/01/3354035/0/en/kayne-anderson-energy-infrastructure-fund-announces-distribution-of-0-09-per-share-for-september-2026.html",
+          "published": "Tue, 01 Sep 2026 11:50 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/01/3353923/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
+          "published": "Tue, 01 Sep 2026 10:55 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Distributions on BIGY, RNTY and SOXY",
+          "link": "https://www.globenewswire.com/news-release/2026/09/01/3353924/0/en/yieldmax-etfs-announces-distributions-on-bigy-rnty-and-soxy.html",
+          "published": "Tue, 01 Sep 2026 10:55 GMT"
+        },
+        {
+          "title": "PenderFund Capital Management launches Global Small/Mid Cap Opportunities Fund",
+          "link": "https://www.globenewswire.com/news-release/2026/08/31/3353656/0/en/penderfund-capital-management-launches-global-small-mid-cap-opportunities-fund.html",
+          "published": "Mon, 31 Aug 2026 19:28 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Distributions on MSST, NVIT, and TEST",
+          "link": "https://www.globenewswire.com/news-release/2026/08/31/3353152/0/en/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test.html",
+          "published": "Mon, 31 Aug 2026 10:55 GMT"
+        },
+        {
+          "title": "Creative Capital Announces Appointment of Sam Keisner as Partner",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3352455/0/en/creative-capital-announces-appointment-of-sam-keisner-as-partner.html",
+          "published": "Thu, 27 Aug 2026 22:26 GMT"
+        },
+        {
+          "title": "Defiance Launches PRAM, the First U.S.-Listed ETF to Combine Memory and Photonics*",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3352056/0/en/defiance-launches-pram-the-first-u-s-listed-etf-to-combine-memory-and-photonics.html",
+          "published": "Thu, 27 Aug 2026 13:00 GMT"
+        },
+        {
+          "title": "Defiance ETFs 推出 CAPA：美国首只上市的电容器及 MLCC 主题ETF",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/zh-hans/defiance-etfs-%E6%8E%A8%E5%87%BA-capa-%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%8F%AA%E4%B8%8A%E5%B8%82%E7%9A%84%E7%94%B5%E5%AE%B9%E5%99%A8%E5%8F%8A-mlcc-%E4%B8%BB%E9%A2%98etf.html",
+          "published": "Thu, 27 Aug 2026 11:41 GMT"
+        },
+        {
+          "title": "Defiance ETFs Melancarkan CAPA, ETF Kapasitor dan MLCC Pertama yang Disenaraikan di A.S.",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/ms/defiance-etfs-melancarkan-capa-etf-kapasitor-dan-mlcc-pertama-yang-disenaraikan-di-a-s.html",
+          "published": "Thu, 27 Aug 2026 11:41 GMT"
+        },
+        {
+          "title": "Defiance ETFs 推出首隻在美國上市的電容器及多層陶瓷電容器交易所買賣基金 CAPA",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/zh-hant/defiance-etfs-%E6%8E%A8%E5%87%BA%E9%A6%96%E9%9A%BB%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%B8%8A%E5%B8%82%E7%9A%84%E9%9B%BB%E5%AE%B9%E5%99%A8%E5%8F%8A%E5%A4%9A%E5%B1%A4%E9%99%B6%E7%93%B7%E9%9B%BB%E5%AE%B9%E5%99%A8%E4%BA%A4%E6%98%93%E6%89%80%E8%B2%B7%E8%B3%A3%E5%9F%BA%E9%87%91-capa.html",
+          "published": "Thu, 27 Aug 2026 11:41 GMT"
+        },
+        {
+          "title": "ディファイアンスETFs、米国上場初のコンデンサ＆MLCC ETFであるCAPAをローンチ",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/ja/%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9etfs-%E7%B1%B3%E5%9B%BD%E4%B8%8A%E5%A0%B4%E5%88%9D%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5-mlcc-etf%E3%81%A7%E3%81%82%E3%82%8Bcapa%E3%82%92%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81.html",
+          "published": "Thu, 27 Aug 2026 11:41 GMT"
+        },
+        {
+          "title": "Defiance ETFs, 미국 최초 커패시터·MLCC ETF ‘CAPA’ 출시",
+          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/ko/defiance-etfs-%EB%AF%B8%EA%B5%AD-%EC%B5%9C%EC%B4%88-%EC%BB%A4%ED%8C%A8%EC%8B%9C%ED%84%B0-mlcc-etf-capa-%EC%B6%9C%EC%8B%9C.html",
+          "published": "Thu, 27 Aug 2026 11:41 GMT"
+        }
+      ]
     }
   ]
 }
