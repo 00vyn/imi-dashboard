@@ -1,0 +1,68 @@
+name: probe
+
+# Step 1 of the Phase 1 checklist.
+# Run this by hand from the Actions tab. It does not run on a schedule.
+#
+# GitHub Actions runners have unrestricted outbound internet, so this is where
+# the probe reaches Mauritian and central bank sites. It commits the report
+# back to the repository so you can read it in the browser.
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Optional: comma separated source ids to probe (blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r ingest/requirements.txt
+
+      - name: Run probe
+        run: |
+          if [ -n "${{ inputs.only }}" ]; then
+            python ingest/probe.py --only "${{ inputs.only }}"
+          else
+            python ingest/probe.py
+          fi
+
+      - name: Upload report as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: probe-report
+          path: |
+            docs/PROBE_REPORT.md
+            ingest/probe_results.json
+          retention-days: 30
+
+      - name: Commit report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/PROBE_REPORT.md ingest/probe_results.json
+          if git diff --staged --quiet; then
+            echo "No change in probe results."
+          else
+            git commit -m "probe: update source verification report"
+            git push
+          fi
