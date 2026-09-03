@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A personal investment-management intelligence dashboard for Mauritius and global markets.">
+    <title>IMI Dashboard</title>
+    <style>
+      :root { --ink:#17231f; --muted:#62716b; --paper:#f6f5ef; --panel:#ffffff; --line:#dce2dc; --forest:#164d43; --mint:#cbe8d8; --gold:#c99328; --red:#b64d45; --shadow:0 12px 32px rgba(20,45,37,.08); }
+      * { box-sizing:border-box; }
+      body { margin:0; color:var(--ink); background:linear-gradient(120deg,#edf4ed 0%,var(--paper) 42%,#f7f1e5 100%); font:16px/1.5 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      a { color:inherit; }
+      .shell { max-width:1240px; margin:auto; padding:32px 24px 64px; }
+      header { display:flex; justify-content:space-between; align-items:flex-start; gap:24px; padding:12px 0 32px; }
+      .eyebrow { color:var(--forest); font-size:.75rem; font-weight:800; letter-spacing:.13em; text-transform:uppercase; }
+      h1 { margin:.18rem 0 .3rem; font-family:Georgia,serif; font-size:clamp(2.1rem,5vw,4rem); line-height:1; letter-spacing:-.045em; }
+      .subtitle { margin:0; color:var(--muted); max-width:650px; }
+      .stamp { min-width:190px; padding:12px 14px; border:1px solid var(--line); border-radius:12px; background:#ffffffad; font-size:.8rem; color:var(--muted); }
+      .stamp strong { display:block; color:var(--ink); font-size:.9rem; }
+      .status { display:flex; gap:10px; flex-wrap:wrap; margin:0 0 28px; }
+      .badge { display:inline-flex; align-items:center; gap:7px; padding:7px 10px; border-radius:999px; background:var(--panel); border:1px solid var(--line); font-size:.82rem; font-weight:700; }
+      .dot { width:8px; height:8px; border-radius:50%; background:var(--muted); } .dot.ok { background:#29835d; } .dot.limited { background:var(--gold); } .dot.error,.dot.skipped { background:var(--red); }
+      main { display:grid; gap:28px; }
+      section > h2 { margin:0 0 12px; font-size:.82rem; text-transform:uppercase; letter-spacing:.12em; color:var(--muted); }
+      .grid { display:grid; gap:16px; grid-template-columns:repeat(4,minmax(0,1fr)); }
+      .card { background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:18px; box-shadow:var(--shadow); }
+      .card h3 { margin:0 0 12px; font-size:.9rem; color:var(--muted); font-weight:700; }
+      .metric { font-family:Georgia,serif; font-size:1.72rem; line-height:1.1; letter-spacing:-.03em; }
+      .metric small { font:700 .72rem/1.1 Inter,ui-sans-serif,sans-serif; letter-spacing:0; color:var(--muted); }
+      .two { display:grid; grid-template-columns:1.15fr .85fr; gap:24px; }
+      .headline-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+      .feed { padding:18px; background:var(--panel); border:1px solid var(--line); border-radius:16px; }
+      .feed h3 { margin:0 0 12px; font-size:1rem; } .feed ul { list-style:none; padding:0; margin:0; } .feed li { border-top:1px solid var(--line); padding:11px 0; } .feed li:first-child { border-top:0; padding-top:0; }
+      .feed a { font-weight:650; text-decoration:none; } .feed a:hover { color:var(--forest); text-decoration:underline; } .feed time { display:block; color:var(--muted); font-size:.75rem; margin-top:3px; }
+      .health { width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:16px; overflow:hidden; box-shadow:var(--shadow); }
+      .health th,.health td { padding:12px 14px; text-align:left; border-bottom:1px solid var(--line); font-size:.86rem; } .health th { color:var(--muted); font-size:.74rem; letter-spacing:.08em; text-transform:uppercase; } .health tr:last-child td { border:0; }
+      .empty { padding:28px; background:#ffffffa8; border:1px dashed #b7c3ba; border-radius:16px; color:var(--muted); }
+      footer { margin-top:34px; color:var(--muted); font-size:.78rem; } code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }
+      .intel-grid { display:grid; gap:14px; grid-template-columns:repeat(2,minmax(0,1fr)); }
+      .intel-card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:15px 16px; box-shadow:var(--shadow); }
+      .intel-top { display:flex; align-items:center; gap:6px; flex-wrap:wrap; margin-bottom:8px; }
+      .pill { display:inline-flex; align-items:center; padding:3px 9px; border-radius:999px; font-size:.7rem; font-weight:700; letter-spacing:.02em; border:1px solid var(--line); background:var(--paper); color:var(--muted); }
+      .pill.imp-critical { background:#f6e3e1; border-color:#e4b6b0; color:#8c332b; }
+      .pill.imp-high { background:#f7ecd2; border-color:#e8cb87; color:#8a660f; }
+      .pill.imp-medium { background:#e4eee8; border-color:#bcd6c7; color:#2f6350; }
+      .pill.imp-low { background:var(--paper); border-color:var(--line); color:var(--muted); }
+      .pill.score { font-variant-numeric:tabular-nums; }
+      .pill.mu { background:var(--mint); border-color:#a9d3bd; color:var(--forest); }
+      .intel-title { display:block; font-weight:650; text-decoration:none; line-height:1.35; margin-bottom:4px; }
+      .intel-title:hover { color:var(--forest); text-decoration:underline; }
+      .intel-meta { color:var(--muted); font-size:.78rem; margin-bottom:8px; }
+      .intel-why summary { cursor:pointer; font-size:.78rem; font-weight:700; color:var(--forest); list-style:none; }
+      .intel-why summary::-webkit-details-marker { display:none; }
+      .intel-why summary::before { content:"Why this matters ▸"; }
+      .intel-why[open] summary::before { content:"Why this matters ▾"; }
+      .intel-why dl { margin:10px 0 0; font-size:.82rem; }
+      .intel-why dt { font-weight:700; color:var(--ink); margin-top:8px; }
+      .intel-why dt:first-child { margin-top:0; }
+      .intel-why dd { margin:2px 0 0; color:var(--muted); }
+      .counts-row { display:flex; gap:8px; flex-wrap:wrap; margin:-6px 0 22px; }
+      @media (max-width:850px) { header,.two { display:block; } .stamp { margin-top:20px; } .grid { grid-template-columns:repeat(2,minmax(0,1fr)); } .headline-grid { margin-top:16px; } .intel-grid { grid-template-columns:1fr; } }
+      @media (max-width:560px) { .shell { padding:22px 15px 44px; } .grid,.headline-grid { grid-template-columns:1fr; } .health th:nth-child(3),.health td:nth-child(3) { display:none; } }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <header>
+        <div><div class="eyebrow">Mauritius + Global Markets</div><h1>Investment Management<br>Intelligence Hub</h1><p class="subtitle">A compact research view of official releases, market signals, exchange rates, and source reliability.</p></div>
+        <div class="stamp"><strong id="last-updated">Loading data…</strong><span>Static JSON • GitHub Pages</span></div>
+      </header>
+      <div class="status" id="summary" aria-live="polite"></div>
+      <main id="dashboard"><div class="empty">Loading the latest approved source data…</div></main>
+      <footer>Personal research dashboard. Data is collected from approved public sources; it is not investment advice.</footer>
+    </div>
+    <script>
+      const fmt = new Intl.NumberFormat(undefined,{maximumFractionDigits:2});
+      const byId = (list,id) => list.find(x => x.id === id);
+      const esc = value => String(value ?? "").replace(/[&<>"']/g,c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[c]));
+      const time = value => { const date = new Date(value); return Number.isNaN(date) ? "Date unavailable" : date.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}); };
+      const statusBadge = (state,count) => `<span class="badge"><i class="dot ${esc(state)}"></i>${esc(count)} ${esc(state)}</span>`;
+      const metricCard = (title, value, note="") => `<article class="card"><h3>${esc(title)}</h3><div class="metric">${value === undefined ? "—" : fmt.format(value)}</div>${note ? `<small>${esc(note)}</small>` : ""}</article>`;
+      const section = (title, body) => `<section><h2>${esc(title)}</h2>${body}</section>`;
+
+      async function loadJSON(path) {
+        const response = await fetch(path, {cache:"no-store"});
+        if (!response.ok) throw new Error(`${path} is not available`);
+        return response.json();
+      }
+
+      function intelCard(item) {
+        const imp = String(item.importance || "Low").toLowerCase();
+        const when = item.published ? time(item.published) : "Date unavailable";
+        return `<article class="intel-card">
+          <div class="intel-top">
+            <span class="pill">${esc(item.category_label)}</span>
+            <span class="pill imp-${esc(imp)}">${esc(item.importance)}</span>
+            <span class="pill score" title="Mechanical relevance score, 0-100">${esc(item.score)}</span>
+            ${item.mauritius_watch ? `<span class="pill mu">Mauritius</span>` : ""}
+          </div>
+          <a class="intel-title" href="${esc(item.link)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>
+          <div class="intel-meta">${esc(item.source_name)} · ${esc(when)}</div>
+          <details class="intel-why">
+            <summary></summary>
+            <dl>
+              <dt>Why it matters</dt><dd>${esc(item.why_it_matters)}</dd>
+              <dt>Investment-management angle</dt><dd>${esc(item.investment_management_angle)}</dd>
+              <dt>CFA connection</dt><dd>${esc(item.cfa_connection)}</dd>
+              <dt>Suggested action</dt><dd>${esc(item.suggested_action)}</dd>
+            </dl>
+          </details>
+        </article>`;
+      }
+
+      function intelSection(title, ids, itemsById) {
+        const cards = (ids || []).map(id => itemsById[id]).filter(Boolean).map(intelCard).join("");
+        return section(title, `<div class="intel-grid">${cards || `<div class="empty">No items in this bucket yet.</div>`}</div>`);
+      }
+
+      function render(latest, status, intel) {
+        const state = status.sources || [], data = latest.sources || [];
+        const counts = state.reduce((acc,item) => ((acc[item.status]=(acc[item.status]||0)+1),acc),{});
+        document.querySelector("#summary").innerHTML = Object.entries(counts).map(([name,count]) => statusBadge(name,count)).join("") || statusBadge("unavailable",0);
+        document.querySelector("#last-updated").textContent = latest.generated_at ? `Updated ${time(latest.generated_at)}` : "No generated data yet";
+        const sem = byId(data,"sem-indices")?.values || {}, bom = byId(data,"bom-rates")?.values || {};
+        const market = Object.entries({...sem,...bom}).map(([name,value]) => metricCard(name,value)).join("") || `<div class="empty">Market values will appear after a successful collection run.</div>`;
+        const fx = byId(data,"frankfurter")?.endpoints || {};
+        const currencyNames = Object.entries(fx.currencies || {}).map(([code,name]) => `<div class="card"><h3>${esc(code)}</h3><div class="metric"><small>${esc(name)}</small></div></div>`).join("");
+        const rates = (fx["usd-rates"] || []).map(rate => metricCard(`USD / ${rate.quote}`,rate.rate,rate.date)).join("");
+        const health = state.map(source => `<tr><td>${esc(source.name)}</td><td><span class="badge"><i class="dot ${esc(source.status)}"></i>${esc(source.status)}</span></td><td>${esc(source.message || source.robots || "Updated")}</td></tr>`).join("");
+
+        let countsRow = "", intelBlock;
+        if (intel && Array.isArray(intel.items)) {
+          const itemsById = Object.fromEntries(intel.items.map(item => [item.id, item]));
+          const byImportance = (intel.counts && intel.counts.by_importance) || {};
+          const chips = ["Critical","High","Medium","Low"].filter(k => byImportance[k]).map(k => `<span class="pill imp-${k.toLowerCase()}">${esc(byImportance[k])} ${esc(k)}</span>`).join("");
+          const total = intel.counts ? intel.counts.total : intel.items.length;
+          countsRow = `<div class="counts-row">${chips}<span class="pill">${esc(total)} stories tracked</span></div>`;
+          const sections = intel.sections || {};
+          intelBlock = intelSection("Top investment-management news", sections.top_investment_management, itemsById)
+            + intelSection("Mauritius Watch", sections.mauritius_watch, itemsById)
+            + intelSection("Global investment management", sections.global_investment_management, itemsById)
+            + intelSection("Deals and transactions", sections.deals_and_transactions, itemsById)
+            + intelSection("Central bank and macro watch", sections.central_bank_and_macro, itemsById);
+        } else {
+          const feeds = data.filter(source => Array.isArray(source.items)).map(source => `<article class="feed"><h3>${esc(source.name)}</h3><ul>${source.items.slice(0,5).map(item => `<li><a href="${esc(item.link)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>${item.published ? `<time>${esc(item.published)}</time>` : ""}</li>`).join("")}</ul></article>`).join("") || `<div class="empty">No headlines are available yet.</div>`;
+          intelBlock = section("Latest headlines", `<div class="headline-grid">${feeds}</div>`);
+        }
+
+        document.querySelector("#dashboard").innerHTML =
+          section("Mauritius market snapshot",`<div class="grid">${market}</div>`) +
+          section("Exchange-rate reference",`<div class="grid">${currencyNames || rates || `<div class="empty">Exchange-rate data will appear after collection.</div>`}${rates}</div>`) +
+          countsRow + intelBlock +
+          section("Source health",`<table class="health"><thead><tr><th>Source</th><th>Status</th><th>Note</th></tr></thead><tbody>${health || `<tr><td colspan="3">No status report yet.</td></tr>`}</tbody></table>`);
+      }
+
+      Promise.allSettled([loadJSON("data/latest.json"), loadJSON("data/status.json"), loadJSON("data/intelligence.json")])
+        .then(([latestR, statusR, intelR]) => {
+          if (latestR.status !== "fulfilled" || statusR.status !== "fulfilled") {
+            throw (latestR.reason || statusR.reason || new Error("Generated data is not available yet."));
+          }
+          render(latestR.value, statusR.value, intelR.status === "fulfilled" ? intelR.value : null);
+        })
+        .catch(error => { document.querySelector("#dashboard").innerHTML = `<div class="empty"><strong>Dashboard data is not available yet.</strong><br>${esc(error.message)} Run the <code>update dashboard data</code> workflow, then refresh this page.</div>`; document.querySelector("#last-updated").textContent="Waiting for generated data"; });
+    </script>
+  </body>
+</html>
