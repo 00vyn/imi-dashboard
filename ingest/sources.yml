@@ -1,8 +1,11 @@
 # Active source registry for the Investment Management Intelligence Hub.
 #
-# This file contains only sources that passed the Step 1 probe on 2026-09-03.
-# Weak, failed, and robots-disallowed sources are deliberately absent.  SEC
-# EDGAR is deferred until the company-research phase.
+# This file contains only sources that passed the Step 1 probe on 2026-09-03,
+# plus two GlobeNewswire feeds added 2026-09-04 to cover Investment
+# Management and Deals, checked live via web_fetch rather than probe.py's
+# own harness (see the comment above each entry). Weak, failed, and
+# robots-disallowed sources are deliberately absent. SEC EDGAR is deferred
+# until the company-research phase.
 #
 # It is configuration only: collectors and page rendering come in later steps.
 schema_version: 1
@@ -132,3 +135,29 @@ sources:
         - id: usd-rates
           url: https://api.frankfurter.dev/v2/rates?base=USD&quotes=EUR,GBP,JPY
           expect_keys: []
+
+  # Added 2026-09-04. Fills the two categories the original nine sources
+  # never touched: fund/asset-management news and M&A. Checked live
+  # (web_fetch, outside this collector's own robots.txt gate) on
+  # 2026-09-03: 20 entries each, newest same day, valid RSS. collect.py's
+  # own Fetcher.robots_allows() still gates every fetch at run time, so a
+  # disallowed path here is skipped and reported, not fetched.
+  - id: globenewswire-ma
+    name: GlobeNewswire Mergers and Acquisitions
+    kind: feed
+    region: GLOBAL
+    tier: 2
+    url: "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20and%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20and%20Acquisitions"
+    ingest:
+      mode: feed
+      item_limit: 20
+
+  - id: globenewswire-funds
+    name: GlobeNewswire Investment Fund Information
+    kind: feed
+    region: GLOBAL
+    tier: 2
+    url: "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information"
+    ingest:
+      mode: feed
+      item_limit: 20
