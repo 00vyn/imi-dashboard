@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Private research workspace: queue, notes, and reading list, stored locally in this browser.">
+    <title>Research Workspace — IMI Dashboard</title>
+    <style>
+      :root { --ink:#17231f; --muted:#62716b; --paper:#f6f5ef; --panel:#ffffff; --line:#dce2dc; --forest:#164d43; --mint:#cbe8d8; --gold:#c99328; --red:#b64d45; --shadow:0 12px 32px rgba(20,45,37,.08); }
+      * { box-sizing:border-box; }
+      body { margin:0; color:var(--ink); background:linear-gradient(120deg,#edf4ed 0%,var(--paper) 42%,#f7f1e5 100%); font:16px/1.5 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      a { color:inherit; }
+      .shell { max-width:1000px; margin:auto; padding:32px 24px 64px; }
+      header { display:flex; justify-content:space-between; align-items:flex-start; gap:20px; padding:12px 0 24px; flex-wrap:wrap; }
+      .eyebrow { color:var(--forest); font-size:.75rem; font-weight:800; letter-spacing:.13em; text-transform:uppercase; }
+      h1 { margin:.18rem 0 .3rem; font-family:Georgia,serif; font-size:clamp(1.8rem,4vw,2.7rem); line-height:1.05; letter-spacing:-.03em; }
+      .subtitle { margin:0; color:var(--muted); max-width:560px; font-size:.92rem; }
+      .backlink { display:inline-block; margin-bottom:10px; font-size:.82rem; color:var(--forest); text-decoration:none; font-weight:700; }
+      .backlink:hover { text-decoration:underline; }
+      .toolbar { display:flex; gap:8px; flex-wrap:wrap; align-items:flex-start; }
+      button, .btn { font:inherit; cursor:pointer; border:1px solid var(--line); background:var(--panel); color:var(--ink); padding:9px 14px; border-radius:10px; font-size:.85rem; font-weight:700; }
+      button:hover, .btn:hover { border-color:var(--forest); color:var(--forest); }
+      button.primary { background:var(--forest); border-color:var(--forest); color:#fff; }
+      button.primary:hover { opacity:.92; color:#fff; }
+      button.danger:hover { border-color:var(--red); color:var(--red); }
+      .tabs { display:flex; gap:6px; margin:8px 0 22px; border-bottom:1px solid var(--line); }
+      .tab { padding:10px 16px; font-weight:700; font-size:.88rem; color:var(--muted); background:none; border:none; border-bottom:2px solid transparent; border-radius:0; }
+      .tab.active { color:var(--forest); border-bottom-color:var(--forest); }
+      .panel { display:none; }
+      .panel.active { display:block; }
+      form.add-form { display:grid; gap:10px; grid-template-columns:repeat(2,minmax(0,1fr)); background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:16px; margin-bottom:20px; box-shadow:var(--shadow); }
+      form.add-form .full { grid-column:1 / -1; }
+      form.add-form label { display:block; font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin-bottom:4px; }
+      form.add-form input, form.add-form select, form.add-form textarea { width:100%; font:inherit; font-size:.9rem; padding:8px 10px; border:1px solid var(--line); border-radius:8px; background:var(--paper); color:var(--ink); }
+      form.add-form textarea { resize:vertical; min-height:52px; }
+      .cards { display:grid; gap:12px; }
+      .card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:14px 16px; box-shadow:var(--shadow); }
+      .card-top { display:flex; justify-content:space-between; align-items:flex-start; gap:10px; margin-bottom:6px; }
+      .card-title { font-weight:700; font-size:.98rem; }
+      .card-meta { color:var(--muted); font-size:.78rem; margin:2px 0 8px; }
+      .card-body { font-size:.88rem; color:var(--ink); white-space:pre-wrap; }
+      .card-actions { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; align-items:center; }
+      .pill { display:inline-flex; align-items:center; padding:3px 9px; border-radius:999px; font-size:.7rem; font-weight:700; border:1px solid var(--line); background:var(--paper); color:var(--muted); }
+      .pill.High, .pill.high { background:#f7ecd2; border-color:#e8cb87; color:#8a660f; }
+      .pill.Low, .pill.low { background:var(--paper); border-color:var(--line); color:var(--muted); }
+      .pill.Medium, .pill.medium { background:#e4eee8; border-color:#bcd6c7; color:#2f6350; }
+      select.status-select { font:inherit; font-size:.78rem; padding:5px 8px; border-radius:8px; border:1px solid var(--line); background:var(--paper); }
+      .empty { padding:26px; background:#ffffffa8; border:1px dashed #b7c3ba; border-radius:16px; color:var(--muted); text-align:center; }
+      .hint { color:var(--muted); font-size:.78rem; margin:-10px 0 18px; }
+      footer { margin-top:34px; color:var(--muted); font-size:.78rem; }
+      input[type=file] { display:none; }
+      @media (max-width:640px) { form.add-form { grid-template-columns:1fr; } header { flex-direction:column; } }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <a class="backlink" href="index.html">← Back to dashboard</a>
+      <header>
+        <div>
+          <div class="eyebrow">Private &middot; This Browser Only</div>
+          <h1>Research Workspace</h1>
+          <p class="subtitle">Your queue, notes, and reading list. Stored in this browser's IndexedDB — nothing here leaves your device unless you export it.</p>
+        </div>
+        <div class="toolbar">
+          <button id="export-btn" class="btn">Export JSON</button>
+          <button id="import-btn" class="btn">Import JSON</button>
+          <input type="file" id="import-file" accept="application/json">
+        </div>
+      </header>
+
+      <nav class="tabs" id="tabs">
+        <button class="tab active" data-tab="queue">Research Queue</button>
+        <button class="tab" data-tab="notes">Notes</button>
+        <button class="tab" data-tab="reading">Reading List</button>
+      </nav>
+
+      <section class="panel active" id="panel-queue">
+        <form class="add-form" id="queue-form">
+          <div><label>Title</label><input name="title" required></div>
+          <div><label>Category</label><input name="category" placeholder="e.g. Macro / Central Banks"></div>
+          <div><label>Source (URL or reference)</label><input name="source" placeholder="https://..."></div>
+          <div><label>Priority</label><select name="priority"><option>Low</option><option selected>Medium</option><option>High</option></select></div>
+          <div class="full"><label>Description</label><textarea name="description" placeholder="What is this and why does it matter?"></textarea></div>
+          <div class="full"><label>Notes</label><textarea name="notes"></textarea></div>
+          <div class="full"><button type="submit" class="primary">Add to queue</button></div>
+        </form>
+        <div class="cards" id="queue-list"></div>
+      </section>
+
+      <section class="panel" id="panel-notes">
+        <form class="add-form" id="notes-form">
+          <div class="full"><label>Title</label><input name="title" required></div>
+          <div class="full"><label>Note</label><textarea name="body" style="min-height:100px"></textarea></div>
+          <div class="full"><button type="submit" class="primary">Add note</button></div>
+        </form>
+        <div class="cards" id="notes-list"></div>
+      </section>
+
+      <section class="panel" id="panel-reading">
+        <form class="add-form" id="reading-form">
+          <div><label>Title</label><input name="title" required></div>
+          <div><label>Author</label><input name="author"></div>
+          <div><label>Importance</label><select name="importance"><option>Low</option><option selected>Medium</option><option>High</option></select></div>
+          <div><label>Difficulty</label><select name="difficulty"><option>Low</option><option selected>Medium</option><option>High</option></select></div>
+          <div><label>Priority</label><select name="priority"><option>Low</option><option selected>Medium</option><option>High</option></select></div>
+          <div><label>Expected learning</label><input name="expectedLearning" placeholder="What should this teach you?"></div>
+          <div class="full"><button type="submit" class="primary">Add to reading list</button></div>
+        </form>
+        <div class="cards" id="reading-list"></div>
+      </section>
+
+      <footer>Personal research workspace. All data above is stored locally in your browser via IndexedDB and is not sent anywhere.</footer>
+    </div>
+
+    <script src="db.js"></script>
+    <script>
+      const esc = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[c]));
+      const fmtDate = value => { const d = new Date(value); return Number.isNaN(d) ? "" : d.toLocaleDateString(undefined, { dateStyle: "medium" }); };
+
+      // ---- Tabs ----
+      document.querySelectorAll(".tab").forEach(tab => {
+        tab.addEventListener("click", () => {
+          document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+          document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+          tab.classList.add("active");
+          document.querySelector(`#panel-${tab.dataset.tab}`).classList.add("active");
+        });
+      });
+
+      // ---- Research queue ----
+      function queueCard(item) {
+        return `<article class="card" data-id="${esc(item.id)}">
+          <div class="card-top">
+            <div>
+              <div class="card-title">${esc(item.title)}</div>
+              <div class="card-meta">${item.category ? esc(item.category) + " · " : ""}Added ${esc(fmtDate(item.dateAdded))}${item.source ? ` · <a href="${esc(item.source)}" target="_blank" rel="noopener noreferrer">source</a>` : ""}</div>
+            </div>
+            <span class="pill ${esc(item.priority)}">${esc(item.priority)}</span>
+          </div>
+          ${item.description ? `<div class="card-body">${esc(item.description)}</div>` : ""}
+          ${item.notes ? `<div class="card-body" style="color:var(--muted);margin-top:6px">${esc(item.notes)}</div>` : ""}
+          <div class="card-actions">
+            <select class="status-select" data-action="status">
+              ${["todo", "in-progress", "done", "archived"].map(s => `<option value="${s}" ${s === item.status ? "selected" : ""}>${s}</option>`).join("")}
+            </select>
+            <button class="danger" data-action="delete">Delete</button>
+          </div>
+        </article>`;
+      }
+
+      async function renderQueue() {
+        const items = await ImiDB.listQueueItems();
+        items.sort((a, b) => (b.dateAdded || "").localeCompare(a.dateAdded || ""));
+        const list = document.querySelector("#queue-list");
+        list.innerHTML = items.map(queueCard).join("") || `<div class="empty">Nothing in your research queue yet.</div>`;
+        list.querySelectorAll(".card").forEach(card => {
+          const id = card.dataset.id;
+          card.querySelector('[data-action="status"]').addEventListener("change", async (e) => {
+            await ImiDB.updateQueueItem(id, { status: e.target.value });
+          });
+          card.querySelector('[data-action="delete"]').addEventListener("click", async () => {
+            await ImiDB.deleteQueueItem(id);
+            renderQueue();
+          });
+        });
+      }
+
+      document.querySelector("#queue-form").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const form = e.target;
+        const data = Object.fromEntries(new FormData(form).entries());
+        if (!data.title.trim()) return;
+        await ImiDB.addQueueItem(data);
+        form.reset();
+        renderQueue();
+      });
+
+      // ---- Notes ----
+      function noteCard(item) {
+        return `<article class="card" data-id="${esc(item.id)}">
+          <div class="card-top">
+            <div class="card-title">${esc(item.title)}</div>
+          </div>
+          <div class="card-meta">Updated ${esc(fmtDate(item.updatedAt))}</div>
+          <div class="card-body">${esc(item.body)}</div>
+          <div class="card-actions"><button class="danger" data-action="delete">Delete</button></div>
+        </article>`;
+      }
+
+      async function renderNotes() {
+        const items = await ImiDB.listNotes();
+        items.sort((a, b) => (b.updatedAt || "").localeCompare(a.updatedAt || ""));
+        const list = document.querySelector("#notes-list");
+        list.innerHTML = items.map(noteCard).join("") || `<div class="empty">No notes yet.</div>`;
+        list.querySelectorAll(".card").forEach(card => {
+          const id = card.dataset.id;
+          card.querySelector('[data-action="delete"]').addEventListener("click", async () => {
+            await ImiDB.deleteNote(id);
+            renderNotes();
+          });
+        });
+      }
+
+      document.querySelector("#notes-form").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const form = e.target;
+        const data = Object.fromEntries(new FormData(form).entries());
+        if (!data.title.trim()) return;
+        await ImiDB.addNote(data);
+        form.reset();
+        renderNotes();
+      });
+
+      // ---- Reading list ----
+      function readingCard(item) {
+        return `<article class="card" data-id="${esc(item.id)}">
+          <div class="card-top">
+            <div>
+              <div class="card-title">${esc(item.title)}</div>
+              <div class="card-meta">${item.author ? esc(item.author) + " · " : ""}Added ${esc(fmtDate(item.addedAt))}</div>
+            </div>
+            <span class="pill ${esc(item.priority)}">${esc(item.priority)}</span>
+          </div>
+          <div class="card-meta">Importance: ${esc(item.importance)} &middot; Difficulty: ${esc(item.difficulty)}</div>
+          ${item.expectedLearning ? `<div class="card-body">${esc(item.expectedLearning)}</div>` : ""}
+          <div class="card-actions">
+            <select class="status-select" data-action="status">
+              ${["unread", "reading", "done"].map(s => `<option value="${s}" ${s === item.status ? "selected" : ""}>${s}</option>`).join("")}
+            </select>
+            <button class="danger" data-action="delete">Delete</button>
+          </div>
+        </article>`;
+      }
+
+      async function renderReading() {
+        const items = await ImiDB.listReadingItems();
+        items.sort((a, b) => (b.addedAt || "").localeCompare(a.addedAt || ""));
+        const list = document.querySelector("#reading-list");
+        list.innerHTML = items.map(readingCard).join("") || `<div class="empty">Your reading list is empty.</div>`;
+        list.querySelectorAll(".card").forEach(card => {
+          const id = card.dataset.id;
+          card.querySelector('[data-action="status"]').addEventListener("change", async (e) => {
+            await ImiDB.updateReadingItem(id, { status: e.target.value });
+          });
+          card.querySelector('[data-action="delete"]').addEventListener("click", async () => {
+            await ImiDB.deleteReadingItem(id);
+            renderReading();
+          });
+        });
+      }
+
+      document.querySelector("#reading-form").addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const form = e.target;
+        const data = Object.fromEntries(new FormData(form).entries());
+        if (!data.title.trim()) return;
+        await ImiDB.addReadingItem(data);
+        form.reset();
+        renderReading();
+      });
+
+      // ---- Export / import ----
+      document.querySelector("#export-btn").addEventListener("click", async () => {
+        const data = await ImiDB.exportAllData();
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `imi-research-export-${new Date().toISOString().slice(0, 10)}.json`;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(url);
+      });
+
+      document.querySelector("#import-btn").addEventListener("click", () => {
+        document.querySelector("#import-file").click();
+      });
+
+      document.querySelector("#import-file").addEventListener("change", async (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+        const text = await file.text();
+        let data;
+        try {
+          data = JSON.parse(text);
+        } catch (err) {
+          alert("That file is not valid JSON.");
+          e.target.value = "";
+          return;
+        }
+        const proceed = confirm("Importing replaces everything currently in your queue, notes, and reading list with the contents of this file. Continue?");
+        e.target.value = "";
+        if (!proceed) return;
+        await ImiDB.importAllData(data, { mode: "replace" });
+        renderQueue();
+        renderNotes();
+        renderReading();
+      });
+
+      // ---- Boot ----
+      if (!("indexedDB" in window)) {
+        document.querySelector(".shell").innerHTML = `<div class="empty"><strong>Your browser does not support IndexedDB.</strong><br>This workspace needs it to store your data locally. Try a recent version of Chrome, Firefox, Safari, or Edge.</div>`;
+      } else {
+        renderQueue();
+        renderNotes();
+        renderReading();
+      }
+    </script>
+  </body>
+</html>
