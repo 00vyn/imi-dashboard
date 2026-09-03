@@ -69,6 +69,24 @@ feeds:
     tier: 1
     url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=8-K&dateb=&owner=include&count=40&output=atom
 
+  # Added 2026-09-04. The dashboard's Investment Management and Deals
+  # sections were consistently empty: none of the active sources cover
+  # fund industry or M&A news specifically. Checked live (outside this
+  # harness) on 2026-09-03: both returned 20 entries, newest same-day,
+  # valid RSS. Re-probe here for the formal robots.txt check and
+  # autodiscovery pass before promotion is re-confirmed.
+  - id: globenewswire-ma
+    name: GlobeNewswire Mergers and Acquisitions
+    region: GLOBAL
+    tier: 2
+    url: "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20and%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20and%20Acquisitions"
+
+  - id: globenewswire-funds
+    name: GlobeNewswire Investment Fund Information
+    region: GLOBAL
+    tier: 2
+    url: "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information"
+
 # ---------------------------------------------------------------------------
 # Mauritian news. NONE of these is confirmed. Feedspot lists feeds for the
 # first three without giving URLs. business-magazine.mu is confirmed WordPress
