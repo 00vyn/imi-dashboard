@@ -1,0 +1,208 @@
+# probe_targets.yml
+#
+# Candidate sources for the dashboard. NOTHING here is assumed to work.
+# probe.py tests every entry and reports what it actually observed.
+# Only entries that PASS get promoted into sources.yml later.
+#
+# tier: 1 = primary institution or wire, 2 = quality secondary, 3 = unverified candidate
+
+user_agent: "IMI-Dashboard/0.1 (personal finance study project; contact: 
+elvynsingh22@gmail.com"
+timeout_seconds: 25
+max_redirects: 5
+
+# ---------------------------------------------------------------------------
+# Feeds we expect to exist. Probe confirms format, volume and freshness.
+# ---------------------------------------------------------------------------
+feeds:
+  - id: fed-press
+    name: Federal Reserve press releases
+    region: US
+    tier: 1
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+
+  - id: ecb-press
+    name: European Central Bank press
+    region: EU
+    tier: 1
+    url: https://www.ecb.europa.eu/rss/press.html
+
+  - id: boe-news
+    name: Bank of England news
+    region: EU
+    tier: 1
+    url: https://www.bankofengland.co.uk/boeapps/rss/feeds.aspx?feed=News
+
+  - id: bis-press
+    name: Bank for International Settlements
+    region: GLOBAL
+    tier: 1
+    url: https://www.bis.org/list/press_rss.xml
+
+  - id: imf-news
+    name: IMF news
+    region: GLOBAL
+    tier: 1
+    url: https://www.imf.org/en/News/RSS?language=eng
+
+  - id: reuters-business
+    name: Reuters business
+    region: GLOBAL
+    tier: 1
+    url: https://feeds.reuters.com/reuters/businessNews
+
+  - id: cnbc-finance
+    name: CNBC finance
+    region: US
+    tier: 2
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+
+  - id: marketwatch-top
+    name: MarketWatch top stories
+    region: US
+    tier: 2
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+
+  - id: sec-8k
+    name: SEC EDGAR 8-K filings
+    region: US
+    tier: 1
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=8-K&dateb=&owner=include&count=40&output=atom
+
+# ---------------------------------------------------------------------------
+# Mauritian news. NONE of these is confirmed. Feedspot lists feeds for the
+# first three without giving URLs. business-magazine.mu is confirmed WordPress
+# by direct inspection on 2026-09-03, so /feed/ paths are plausible but untested.
+# Probe runs autodiscovery on the homepage before trying guessed paths.
+# ---------------------------------------------------------------------------
+discover:
+  - id: businessmag
+    name: Business Magazine (business-magazine.mu)
+    region: MU
+    tier: 3
+    priority: 1
+    homepage: https://www.business-magazine.mu/
+    platform_hint: wordpress
+    # /rubrique/actualites/ is the news category. The /tag/ archives are stale.
+    candidate_paths:
+      - /feed/
+      - /rubrique/actualites/feed/
+      - /?feed=rss2
+      - /rubrique/archives/finance/feed/
+
+  - id: ionnews
+    name: ION News
+    region: MU
+    tier: 3
+    priority: 2
+    homepage: https://ionnews.mu/
+    platform_hint: wordpress
+    candidate_paths:
+      - /feed/
+      - /?feed=rss2
+
+  - id: lexpress
+    name: l'express (lexpress.mu)
+    region: MU
+    tier: 3
+    priority: 3
+    homepage: https://www.lexpress.mu/
+    platform_hint: unknown
+    candidate_paths:
+      - /feed
+      - /rss
+      - /rss.xml
+      - /feed/rss
+
+  - id: defimedia
+    name: Defi Media
+    region: MU
+    tier: 3
+    priority: 4
+    homepage: https://defimedia.info/
+    platform_hint: drupal
+    candidate_paths:
+      - /rss.xml
+      - /feed
+      - /taxonomy/term/1/feed
+
+  - id: bom-feed
+    name: Bank of Mauritius (feed autodiscovery)
+    region: MU
+    tier: 1
+    priority: 5
+    homepage: https://www.bom.mu/
+    platform_hint: drupal7
+    # /publications-and-statistics/rss is confirmed NOT a feed. Drupal 7
+    # default is /rss.xml. Worth one attempt before falling back to HTML.
+    candidate_paths:
+      - /rss.xml
+      - /media/media-releases/feed
+
+# ---------------------------------------------------------------------------
+# HTML targets. No feed exists. Probe verifies the numbers are reachable in
+# the page text and fall inside a plausible range. Selectors get written
+# afterwards, from the probe output, not guessed in advance.
+# ---------------------------------------------------------------------------
+html_targets:
+  - id: sem-indices
+    name: SEM indices
+    region: MU
+    tier: 1
+    url: https://www.stockexchangeofmauritius.com/products-market-data/indices
+    checks:
+      - label: SEMDEX
+        anchor: "SEMDEX"
+        min: 500
+        max: 10000
+      - label: SEM-ASI
+        anchor: "SEM-ASI"
+        min: 200
+        max: 10000
+      - label: SEMTRI
+        anchor: "SEMTRI"
+        min: 1000
+        max: 100000
+      - label: SEM10
+        anchor: "SEM10"
+        min: 50
+        max: 5000
+
+  - id: sem-announcements
+    name: SEM announcements
+    region: MU
+    tier: 1
+    url: https://www.stockexchangeofmauritius.com/
+    checks: []
+
+  - id: bom-rates
+    name: Bank of Mauritius rates
+    region: MU
+    tier: 1
+    url: https://www.bom.mu/
+    checks:
+      - label: KeyRate
+        anchor: "Key Rate"
+        min: 0
+        max: 20
+      - label: OvernightInterbank
+        anchor: "Overnight Interbank Rate"
+        min: 0
+        max: 20
+
+# ---------------------------------------------------------------------------
+# Keyless JSON APIs. Probe checks reachability and, for Frankfurter,
+# whether MUR is actually covered. This was flagged unverified in the spec.
+# ---------------------------------------------------------------------------
+json_targets:
+  - id: frankfurter-currencies
+    name: Frankfurter currency list
+    url: https://api.frankfurter.dev/v2/currencies
+    expect_keys: ["USD", "EUR", "GBP"]
+    check_mur: true
+
+  - id: frankfurter-rates
+    name: Frankfurter latest rates (USD base)
+    url: https://api.frankfurter.dev/v2/rates?base=USD&quotes=EUR,GBP,JPY
+    expect_keys: []
+    check_mur: false
