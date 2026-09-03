@@ -63,6 +63,21 @@ class CategorizeTests(unittest.TestCase):
         self.assertEqual(category, "other")
         self.assertEqual(hits, 0)
 
+    def test_globenewswire_ma_defaults_to_deals(self) -> None:
+        # Real-world case: UK Takeover Code dealing disclosures carry no
+        # "acquisition"/"merger" keyword but are exactly what this feed is for.
+        category, hits = intel.categorize(
+            "Form 8.3 - Tate & Lyle plc", make_source(id="globenewswire-ma", region="GLOBAL"))
+        self.assertEqual(category, "corporate_finance_deals")
+        self.assertEqual(hits, 0)
+
+    def test_globenewswire_funds_defaults_to_investment_management(self) -> None:
+        category, hits = intel.categorize(
+            "Westwood Announces Monthly Income Distributions",
+            make_source(id="globenewswire-funds", region="GLOBAL"))
+        self.assertEqual(category, "investment_management")
+        self.assertEqual(hits, 0)
+
 
 class MauritiusTests(unittest.TestCase):
     def test_region_mu_is_flagged(self) -> None:
