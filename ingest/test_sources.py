@@ -18,7 +18,7 @@ class SourcesTests(unittest.TestCase):
 
     def test_active_registry_is_valid(self) -> None:
         self.assertEqual(sources.validate_sources(self.registry), [])
-        self.assertEqual(len(self.registry["sources"]), 9)
+        self.assertEqual(len(self.registry["sources"]), 11)
 
     def test_duplicate_ids_are_rejected(self) -> None:
         invalid = deepcopy(self.registry)
