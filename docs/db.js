@@ -20,6 +20,10 @@
  *   ImiDB.deleteCompany(id)         ImiDB.listCompanies()
  *   ImiDB.addReport(fields)         ImiDB.updateReport(id, patch)
  *   ImiDB.deleteReport(id)          ImiDB.listReports()
+ *   ImiDB.addSkill(fields)          ImiDB.updateSkill(id, patch)
+ *   ImiDB.deleteSkill(id)           ImiDB.listSkills()
+ *   ImiDB.ensureDefaultSkills()     -- seeds the 5 CFA gap subjects once,
+ *                                      only if the skills store is empty
  *   ImiDB.exportAllData()           ImiDB.importAllData(data, {mode})
  *
  * Schema is versioned (DB_VERSION). Adding a store bumps DB_VERSION and
@@ -32,14 +36,26 @@
   "use strict";
 
   const DB_NAME = "imi-research-db";
-  const DB_VERSION = 2;
+  const DB_VERSION = 3;
   const STORES = {
     queue: { name: "queue", keyPath: "id", indexes: ["status", "priority", "dateAdded"] },
     notes: { name: "notes", keyPath: "id", indexes: ["updatedAt"] },
     reading: { name: "reading", keyPath: "id", indexes: ["priority", "status"] },
     companies: { name: "companies", keyPath: "id", indexes: ["country", "sector", "ticker", "updatedAt"] },
     reports: { name: "reports", keyPath: "id", indexes: ["companyId", "updatedAt"] },
+    skills: { name: "skills", keyPath: "id", indexes: ["source", "proficiency", "updatedAt"] },
   };
+
+  // The five gap subjects from Elvyn's CFA Level I study plan, used to
+  // seed the skills store once. Editable/deletable afterward like any
+  // other skill -- this is a starting point, not a fixed list.
+  const DEFAULT_SKILLS = [
+    "Financial Reporting & Analysis",
+    "Fixed Income",
+    "Derivatives",
+    "Alternatives",
+    "Ethics",
+  ];
 
   let dbPromise = null;
 
@@ -290,15 +306,56 @@
     return storeGetAll("reports");
   }
 
+  // ---- Skills to build --------------------------------------------------
+
+  function addSkill(fields) {
+    const timestamp = nowISO();
+    const record = {
+      id: uid(),
+      name: fields.name || "",
+      source: fields.source || "custom",
+      proficiency: fields.proficiency || "Not started",
+      notes: fields.notes || "",
+      createdAt: fields.createdAt || timestamp,
+      updatedAt: timestamp,
+    };
+    return storeAdd("skills", record);
+  }
+
+  function updateSkill(id, patch) {
+    return updateRecord("skills", id, { ...patch, updatedAt: nowISO() });
+  }
+
+  function deleteSkill(id) {
+    return storeDelete("skills", id);
+  }
+
+  function listSkills() {
+    return storeGetAll("skills");
+  }
+
+  // Seeds the five CFA gap subjects as starter skills, but only the very
+  // first time -- if the store already has anything in it (including if
+  // the user deleted all the defaults on purpose), this is a no-op.
+  async function ensureDefaultSkills() {
+    const existing = await listSkills();
+    if (existing.length > 0) return { seeded: false, count: existing.length };
+    for (const name of DEFAULT_SKILLS) {
+      await addSkill({ name, source: "cfa-gap", proficiency: "Not started" });
+    }
+    return { seeded: true, count: DEFAULT_SKILLS.length };
+  }
+
   // ---- Export / import ------------------------------------------------
 
   async function exportAllData() {
-    const [queue, notes, reading, companies, reports] = await Promise.all([
+    const [queue, notes, reading, companies, reports, skills] = await Promise.all([
       listQueueItems(),
       listNotes(),
       listReadingItems(),
       listCompanies(),
       listReports(),
+      listSkills(),
     ]);
     return {
       schema_version: DB_VERSION,
@@ -308,6 +365,7 @@
       reading,
       companies,
       reports,
+      skills,
     };
   }
 
@@ -319,6 +377,7 @@
     const reading = Array.isArray(data.reading) ? data.reading : [];
     const companies = Array.isArray(data.companies) ? data.companies : [];
     const reports = Array.isArray(data.reports) ? data.reports : [];
+    const skills = Array.isArray(data.skills) ? data.skills : [];
 
     if (mode === "replace") {
       await Promise.all([
@@ -327,6 +386,7 @@
         storeClear("reading"),
         storeClear("companies"),
         storeClear("reports"),
+        storeClear("skills"),
       ]);
     }
     await Promise.all([
@@ -335,6 +395,7 @@
       ...reading.map((record) => storePut("reading", { ...record, id: record.id || uid() })),
       ...companies.map((record) => storePut("companies", { ...record, id: record.id || uid() })),
       ...reports.map((record) => storePut("reports", { ...record, id: record.id || uid() })),
+      ...skills.map((record) => storePut("skills", { ...record, id: record.id || uid() })),
     ]);
     return {
       queue: queue.length,
@@ -342,6 +403,7 @@
       reading: reading.length,
       companies: companies.length,
       reports: reports.length,
+      skills: skills.length,
       mode,
     };
   }
@@ -367,6 +429,11 @@
     updateReport,
     deleteReport,
     listReports,
+    addSkill,
+    updateSkill,
+    deleteSkill,
+    listSkills,
+    ensureDefaultSkills,
     exportAllData,
     importAllData,
   };
