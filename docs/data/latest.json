@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T08:51:54+00:00",
+  "generated_at": "2026-09-04T18:27:51+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -12,6 +12,11 @@
       "fetched_url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "robots": "robots.txt unavailable",
       "items": [
+        {
+          "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+          "published": "Fri, 4 Sep 2026 15:00:00 GMT"
+        },
         {
           "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
@@ -28,13 +33,13 @@
           "published": "Thu, 20 Aug 2026 20:00:00 GMT"
         },
         {
-          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
           "published": "Thu, 20 Aug 2026 15:00:00 GMT"
         },
         {
-          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
           "published": "Thu, 20 Aug 2026 15:00:00 GMT"
         },
         {
@@ -106,11 +111,6 @@
           "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
           "published": "Thu, 9 Jul 2026 19:00:00 GMT"
-        },
-        {
-          "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
-          "published": "Thu, 9 Jul 2026 15:00:00 GMT"
         }
       ]
     },
@@ -124,6 +124,11 @@
       "fetched_url": "https://www.ecb.europa.eu/rss/press.html",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Philip R. Lane: Diversity at the European Central Bank",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+          "published": "Fri, 04 Sep 2026 11:10:00 +0200"
+        },
         {
           "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
@@ -193,11 +198,6 @@
           "title": "Philip R. Lane: Outlook for the euro area economy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
           "published": "Fri, 24 Jul 2026 17:30:00 +0200"
-        },
-        {
-          "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-          "published": "Fri, 24 Jul 2026 15:00:00 +0200"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-          "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-          "published": "Fri, 04 Sep 2026 00:35:00 GMT"
-        },
-        {
-          "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-          "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-          "published": "Fri, 04 Sep 2026 00:31:00 GMT"
-        },
-        {
-          "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
-          "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
-          "published": "Fri, 04 Sep 2026 00:25:00 GMT"
-        },
-        {
-          "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
-          "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
-          "published": "Fri, 04 Sep 2026 00:24:00 GMT"
-        },
-        {
           "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
           "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-          "published": "Fri, 04 Sep 2026 00:00:00 GMT"
+          "published": "Fri, 04 Sep 2026 18:01:00 GMT"
         },
         {
-          "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
-          "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 23:45:00 GMT"
+          "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+          "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 18:00:00 GMT"
         },
         {
           "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
           "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 23:36:00 GMT"
+          "published": "Fri, 04 Sep 2026 17:30:00 GMT"
         },
         {
-          "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
-          "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 21:54:00 GMT"
+          "title": "‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.",
+          "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 17:15:00 GMT"
         },
         {
-          "title": "Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors",
-          "link": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 21:52:00 GMT"
+          "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
+          "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 16:19:00 GMT"
         },
         {
-          "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
-          "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
-          "published": "Thu, 03 Sep 2026 21:49:00 GMT"
+          "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
+          "link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 15:57:00 GMT"
+        },
+        {
+          "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+          "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 15:48:00 GMT"
+        },
+        {
+          "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
+          "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 15:39:00 GMT"
+        },
+        {
+          "title": "Rising interest rates pose a major threat to stock prices and other assets",
+          "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 15:05:00 GMT"
+        },
+        {
+          "title": "A Democratic midterm sweep could make bonds the fourth-quarter contrarian play, says B. of A.’s Hartnett",
+          "link": "https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories",
+          "published": "Fri, 04 Sep 2026 14:53:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "BRP : Les personnes atteignant 61 ans en 2026 appelées à s’enregistrer",
-          "link": "https://ionnews.mu/brp-les-personnes-atteignant-61-ans-en-2026-appelees-a-senregistrer/",
-          "published": "Fri, 04 Sep 2026 08:30:16 +0000"
+          "title": "Journée internationale : Les personnes âgées à l’honneur le 1er octobre au J&J Auditorium",
+          "link": "https://ionnews.mu/journee-internationale-les-personnes-agees-a-lhonneur-le-1er-octobre-au-jj-auditorium/",
+          "published": "Fri, 04 Sep 2026 17:56:55 +0000"
         },
         {
-          "title": "[Noor Hussenee] : « Erer li pa touletan fatal, sinon Navin Ramgoolam pa ti pou vinn Premier ministre apre 10 an»",
-          "link": "https://ionnews.mu/noor-hussenee-erer-li-pa-touletan-fatal-sinon-navin-ramgoolam-pa-ti-pou-vinn-premier-ministre-apre-10-an/",
-          "published": "Fri, 04 Sep 2026 03:13:52 +0000"
+          "title": "Baisse des demandes de licences de pêche : L’interdiction de stockage de fuel dans les cales à poissons levée",
+          "link": "https://ionnews.mu/baisse-des-demandes-de-licences-de-peche-linterdiction-de-stockage-de-fuel-dans-les-cales-a-poissons-levee/",
+          "published": "Fri, 04 Sep 2026 17:50:08 +0000"
         },
         {
-          "title": "Dr Jagutpal : « Le Dr Sookha est Chairman du Cardiac Trust à Pamplemousses »",
-          "link": "https://ionnews.mu/dr-jagutpal-le-dr-sookha-est-chairman-du-cardiac-trust-a-pamplemousses/",
-          "published": "Fri, 04 Sep 2026 02:53:49 +0000"
+          "title": "https://ionnews.mu/wp-content/uploads/2026/09/Eshan-noor-240×300.png",
+          "link": "https://ionnews.mu/https-ionnews-mu-wp-content-uploads-2026-09-eshan-noor-240x300-png/",
+          "published": "Fri, 04 Sep 2026 17:31:48 +0000"
         },
         {
-          "title": "[Scandale FCC] Fuites de documents confidentiels : Un suspect arrêté",
-          "link": "https://ionnews.mu/scandale-fcc-fuites-de-documents-confidentiels-un-suspect-arrete/",
-          "published": "Fri, 04 Sep 2026 02:39:16 +0000"
+          "title": "Patrick Belcourt : « Non selman zot amater me osi inkonpetan »",
+          "link": "https://ionnews.mu/patrick-belcourt-non-selman-zot-amater-me-osi-inkonpetan/",
+          "published": "Fri, 04 Sep 2026 16:57:28 +0000"
         },
         {
-          "title": "Protection de la couche d’ozone : Maurice doit apprendre à moins réchauffer la planète",
-          "link": "https://ionnews.mu/protection-de-la-couche-dozone-maurice-doit-apprendre-a-moins-rechauffer-la-planete/",
-          "published": "Fri, 04 Sep 2026 02:26:56 +0000"
+          "title": "Quatre-Cocos : Un policier blessé lors d’une arrestation",
+          "link": "https://ionnews.mu/quatre-cocos-un-policier-blesse-lors-dune-arrestation/",
+          "published": "Fri, 04 Sep 2026 16:20:04 +0000"
         },
         {
-          "title": "Érosion côtière : Le paradis de Mark Twain est-il en train de disparaître sous nos yeux ?",
-          "link": "https://ionnews.mu/erosion-cotiere-le-paradis-de-mark-twain-est-il-en-train-de-disparaitre-sous-nos-yeux/",
-          "published": "Fri, 04 Sep 2026 02:22:08 +0000"
+          "title": "Scooters sous-marins, réalité virtuelle et théâtres : Le nouveau catalogue des sorties mauriciennes",
+          "link": "https://ionnews.mu/scooters-sous-marins-realite-virtuelle-et-theatres-le-nouveau-catalogue-des-sorties-mauriciennes/",
+          "published": "Fri, 04 Sep 2026 15:21:35 +0000"
         },
         {
-          "title": "Jhakri : Depuis trois mois, Ganadhyaksha se prépare pour faire vivre la tradition",
-          "link": "https://ionnews.mu/jhakri-depuis-trois-mois-ganadhyaksha-se-prepare-pour-faire-vivre-la-tradition/",
-          "published": "Thu, 03 Sep 2026 18:32:20 +0000"
+          "title": "Island Container Terminal : Inquiétudes sur son impact sur les emplois existants",
+          "link": "https://ionnews.mu/island-container-terminal-inquietudes-sur-son-impact-sur-les-emplois-existants/",
+          "published": "Fri, 04 Sep 2026 14:46:47 +0000"
         },
         {
-          "title": "[La voix des internautes] TVA : « Tou bann ti biznes pe mor avek sa »",
-          "link": "https://ionnews.mu/la-voix-des-internautes-tva-tou-bann-ti-biznes-pe-mor-avek-sa/",
-          "published": "Thu, 03 Sep 2026 14:25:16 +0000"
+          "title": "AGOA 2028 : Le temps de préparer l’après",
+          "link": "https://ionnews.mu/agoa-2028-le-temps-de-preparer-lapres/",
+          "published": "Fri, 04 Sep 2026 14:34:41 +0000"
         },
         {
-          "title": "Du cannabis dans un colis en provenance du Canada",
-          "link": "https://ionnews.mu/du-cannabis-dans-un-colis-en-provenance-du-canada/",
-          "published": "Thu, 03 Sep 2026 14:03:00 +0000"
+          "title": "582 798 tonnes de déchets enfouies en 2025 : Peut-on attendre jusqu’en 2028 pour les Integrated Waste Processing Facilities ?",
+          "link": "https://ionnews.mu/582-798-tonnes-de-dechets-enfouies-en-2025-peut-on-attendre-jusquen-2028-pour-les-integrated-waste-processing-facilities/",
+          "published": "Fri, 04 Sep 2026 14:31:29 +0000"
         },
         {
-          "title": "Rivière-Noire : 13 000 foyers face à une distribution d’eau réduite",
-          "link": "https://ionnews.mu/riviere-noire-13-000-foyers-face-a-une-distribution-deau-reduite/",
-          "published": "Thu, 03 Sep 2026 13:51:36 +0000"
+          "title": "[FCC] Deepak Balgobin : « Est-ce que Bachoo était sur une liste d’attente ? »",
+          "link": "https://ionnews.mu/fcc-deepak-balgobin-est-ce-que-bachoo-etait-sur-une-liste-dattente/",
+          "published": "Fri, 04 Sep 2026 12:51:57 +0000"
         },
         {
-          "title": "Accident à Vacoas : Une femme de 32 ans dans un état critique",
-          "link": "https://ionnews.mu/accident-a-vacoas-une-femme-de-32-ans-dans-un-etat-critique/",
-          "published": "Thu, 03 Sep 2026 11:40:45 +0000"
+          "title": "Écoles primaires payantes : Jusqu’à Rs 30 000 par mois pour scolariser un enfa",
+          "link": "https://ionnews.mu/ecoles-primaires-payantes-jusqua-rs-30-000-par-mois-pour-scolariser-un-enfa/",
+          "published": "Fri, 04 Sep 2026 12:29:57 +0000"
         },
         {
-          "title": "[La baguette à Rs 10 à Mahébourg] Les commerçants : « Dipin baget la inpe pli long »",
-          "link": "https://ionnews.mu/la-baguette-a-rs-10-a-mahebourg-les-commercants-dipin-baget-la-inpe-pli-long/",
-          "published": "Thu, 03 Sep 2026 11:34:31 +0000"
+          "title": "FCC : Une fuite qui ébranle l’institution de l’intérieur",
+          "link": "https://ionnews.mu/fcc-une-fuite-qui-ebranle-linstitution-de-linterieur/",
+          "published": "Fri, 04 Sep 2026 12:24:01 +0000"
         }
       ]
     },
@@ -435,7 +435,7 @@
       "robots": "allowed by robots.txt",
       "values": {
         "KeyRate": 4.75,
-        "OvernightInterbank": 3.45
+        "OvernightInterbank": 3.48
       }
     },
     {
@@ -457,19 +457,19 @@
             "date": "2026-09-04",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86149
+            "rate": 0.86012
           },
           {
             "date": "2026-09-04",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74081
+            "rate": 0.73966
           },
           {
             "date": "2026-09-04",
             "base": "USD",
             "quote": "JPY",
-            "rate": 157.75
+            "rate": 156.66
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 03 09 2026 - (CGWL)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356412/0/en/form-8-3-advanced-medical-solutions-group-plc-03-09-2026-cgwl.html",
-          "published": "Fri, 04 Sep 2026 08:50 GMT"
+          "title": "Danone completes its acquisition of Huel, extending its portfolio in Functional Nutrition",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/en/danone-completes-its-acquisition-of-huel-extending-its-portfolio-in-functional-nutrition.html",
+          "published": "Fri, 04 Sep 2026 15:59 GMT"
         },
         {
-          "title": "Form 8.5 (EPT/RI) - Kore Potash Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356395/0/en/form-8-5-ept-ri-kore-potash-plc.html",
-          "published": "Fri, 04 Sep 2026 07:56 GMT"
-        },
-        {
-          "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356394/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
-          "published": "Fri, 04 Sep 2026 07:52 GMT"
-        },
-        {
-          "title": "Lumberworld, located in Victoria, BC, has been acquired by Central Builders’ Supply, a Regimen Equity Partners portfolio company",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356280/0/en/lumberworld-located-in-victoria-bc-has-been-acquired-by-central-builders-supply-a-regimen-equity-partners-portfolio-company.html",
-          "published": "Thu, 03 Sep 2026 20:24 GMT"
-        },
-        {
-          "title": "FG Communities Completes Acquisition in Easley, SC",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356186/0/en/fg-communities-completes-acquisition-in-easley-sc.html",
-          "published": "Thu, 03 Sep 2026 17:02 GMT"
-        },
-        {
-          "title": "Following National Advertising Division Challenge, DREO Voluntarily Discontinues Pedestal and Tower Fan Claims",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356103/0/en/following-national-advertising-division-challenge-dreo-voluntarily-discontinues-pedestal-and-tower-fan-claims.html",
-          "published": "Thu, 03 Sep 2026 15:00 GMT"
-        },
-        {
-          "title": "Equivu Capital Announces Sale of S2 to LEFORT",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356097/0/en/equivu-capital-announces-sale-of-s2-to-lefort.html",
-          "published": "Thu, 03 Sep 2026 14:57 GMT"
+          "title": "Danone finalise l’acquisition de Huel et étend son portefeuille dans la Nutrition fonctionnelle",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/fr/danone-finalise-l-acquisition-de-huel-et-%C3%A9tend-son-portefeuille-dans-la-nutrition-fonctionnelle.html",
+          "published": "Fri, 04 Sep 2026 15:59 GMT"
         },
         {
           "title": "Form 8.3 - DCC plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356026/0/en/form-8-3-dcc-plc.html",
-          "published": "Thu, 03 Sep 2026 13:41 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356647/0/en/form-8-3-dcc-plc.html",
+          "published": "Fri, 04 Sep 2026 14:33 GMT"
         },
         {
-          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355994/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
-          "published": "Thu, 03 Sep 2026 13:13 GMT"
+          "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356634/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+          "published": "Fri, 04 Sep 2026 14:20 GMT"
+        },
+        {
+          "title": "Hawthorn Bancshares, Inc. Completes Merger with FSC Bancshares, Inc.",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356613/0/en/hawthorn-bancshares-inc-completes-merger-with-fsc-bancshares-inc.html",
+          "published": "Fri, 04 Sep 2026 13:55 GMT"
+        },
+        {
+          "title": "SoundHound AI Completes Acquisition of LivePerson, Creating a World-Leading Omnichannel Conversational AI Powerhouse",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html",
+          "published": "Fri, 04 Sep 2026 13:26 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356545/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+          "published": "Fri, 04 Sep 2026 12:21 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356544/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+          "published": "Fri, 04 Sep 2026 12:19 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356542/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+          "published": "Fri, 04 Sep 2026 12:16 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356535/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+          "published": "Fri, 04 Sep 2026 12:04 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356514/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+          "published": "Fri, 04 Sep 2026 11:52 GMT"
         },
         {
           "title": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355993/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
-          "published": "Thu, 03 Sep 2026 13:11 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356513/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+          "published": "Fri, 04 Sep 2026 11:51 GMT"
         },
         {
-          "title": "Opti9 Technologies Acquires Hut 8’s Canadian Managed Cloud Business, Further Expanding Its Canadian Cloud Platform",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355989/0/en/opti9-technologies-acquires-hut-8-s-canadian-managed-cloud-business-further-expanding-its-canadian-cloud-platform.html",
-          "published": "Thu, 03 Sep 2026 13:05 GMT"
-        },
-        {
-          "title": "Anortech Receives US$1.0 Million Cash and Shares from Sarfartoq Ree Project Transaction",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355965/0/en/anortech-receives-us-1-0-million-cash-and-shares-from-sarfartoq-ree-project-transaction.html",
-          "published": "Thu, 03 Sep 2026 13:00 GMT"
-        },
-        {
-          "title": "Kaleris Acquires Newport Systems to Automate Maintenance and Repair Across the Intermodal Supply Chain",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355946/0/en/kaleris-acquires-newport-systems-to-automate-maintenance-and-repair-across-the-intermodal-supply-chain.html",
-          "published": "Thu, 03 Sep 2026 12:59 GMT"
-        },
-        {
-          "title": "GreetEat Corporation Highlights ChefKart’s 224% Revenue Growth and Expansion Opportunity Across India",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355943/0/en/greeteat-corporation-highlights-chefkart-s-224-revenue-growth-and-expansion-opportunity-across-india.html",
-          "published": "Thu, 03 Sep 2026 12:56 GMT"
+          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356512/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+          "published": "Fri, 04 Sep 2026 11:49 GMT"
         },
         {
           "title": "Form 8.3 - Picton Property Income Limited",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355932/0/en/form-8-3-picton-property-income-limited.html",
-          "published": "Thu, 03 Sep 2026 12:35 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356498/0/en/form-8-3-picton-property-income-limited.html",
+          "published": "Fri, 04 Sep 2026 11:15 GMT"
         },
         {
-          "title": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355931/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
-          "published": "Thu, 03 Sep 2026 12:33 GMT"
+          "title": "Form 8.3 - LondonMetric Property Plc & Schroder European Real Estate Investment Trust PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356497/0/en/form-8-3-londonmetric-property-plc-schroder-european-real-estate-investment-trust-plc.html",
+          "published": "Fri, 04 Sep 2026 11:12 GMT"
         },
         {
-          "title": "HF Foods Group Completes Acquisition of Searay Foods",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355907/0/en/hf-foods-group-completes-acquisition-of-searay-foods.html",
-          "published": "Thu, 03 Sep 2026 12:30 GMT"
+          "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356430/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+          "published": "Fri, 04 Sep 2026 09:23 GMT"
         },
         {
-          "title": "Morocco Strategic Minerals Corp. Completes Sale of Initial 51% Interest in Sakami Property in Québec",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355779/0/en/morocco-strategic-minerals-corp-completes-sale-of-initial-51-interest-in-sakami-property-in-qu%C3%A9bec.html",
-          "published": "Thu, 03 Sep 2026 11:30 GMT"
+          "title": "Form 8.3 - Rotork PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356417/0/en/form-8-3-rotork-plc.html",
+          "published": "Fri, 04 Sep 2026 09:09 GMT"
         },
         {
-          "title": "Corporation de Minéraux Stratégiques du Maroc réalise la vente d’une participation initiale de 51 % dans la propriété Sakami au Québec",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355779/0/fr/corporation-de-min%C3%A9raux-strat%C3%A9giques-du-maroc-r%C3%A9alise-la-vente-d-une-participation-initiale-de-51-dans-la-propri%C3%A9t%C3%A9-sakami-au-qu%C3%A9bec.html",
-          "published": "Thu, 03 Sep 2026 11:30 GMT"
+          "title": "Man Group PLC : Form 8.3 - Rotork plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356416/0/en/man-group-plc-form-8-3-rotork-plc.html",
+          "published": "Fri, 04 Sep 2026 09:09 GMT"
         },
         {
-          "title": "Hillman Completes Acquisition of Kanebridge",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355780/0/en/hillman-completes-acquisition-of-kanebridge.html",
-          "published": "Thu, 03 Sep 2026 11:30 GMT"
+          "title": "Man Group PLC : Form 8.3 - Senior plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356415/0/en/man-group-plc-form-8-3-senior-plc.html",
+          "published": "Fri, 04 Sep 2026 09:07 GMT"
+        },
+        {
+          "title": "Entrepreneurship Through Acquisition: Club M&A and McGill's Dobson Centre Open Registration for First Cohort",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356414/0/en/entrepreneurship-through-acquisition-club-m-a-and-mcgill-s-dobson-centre-open-registration-for-first-cohort.html",
+          "published": "Fri, 04 Sep 2026 09:00 GMT"
         }
       ]
     },
@@ -596,6 +596,11 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Guardian Capital Announces Fund Maturity Date",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356491/0/en/guardian-capital-announces-fund-maturity-date.html",
+          "published": "Fri, 04 Sep 2026 11:00 GMT"
+        },
         {
           "title": "Purpose Investments Announces Changes to Certain Investment Funds",
           "link": "https://www.globenewswire.com/news-release/2026/09/03/3356326/0/en/purpose-investments-announces-changes-to-certain-investment-funds.html",
@@ -689,11 +694,6 @@
         {
           "title": "Defiance ETFs Melancarkan CAPA, ETF Kapasitor dan MLCC Pertama yang Disenaraikan di A.S.",
           "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/ms/defiance-etfs-melancarkan-capa-etf-kapasitor-dan-mlcc-pertama-yang-disenaraikan-di-a-s.html",
-          "published": "Thu, 27 Aug 2026 11:41 GMT"
-        },
-        {
-          "title": "Defiance ETFs 推出首隻在美國上市的電容器及多層陶瓷電容器交易所買賣基金 CAPA",
-          "link": "https://www.globenewswire.com/news-release/2026/08/27/3351925/0/zh-hant/defiance-etfs-%E6%8E%A8%E5%87%BA%E9%A6%96%E9%9A%BB%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%B8%8A%E5%B8%82%E7%9A%84%E9%9B%BB%E5%AE%B9%E5%99%A8%E5%8F%8A%E5%A4%9A%E5%B1%A4%E9%99%B6%E7%93%B7%E9%9B%BB%E5%AE%B9%E5%99%A8%E4%BA%A4%E6%98%93%E6%89%80%E8%B2%B7%E8%B3%A3%E5%9F%BA%E9%87%91-capa.html",
           "published": "Thu, 27 Aug 2026 11:41 GMT"
         }
       ]

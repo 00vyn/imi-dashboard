@@ -1,101 +1,1375 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T08:52:18+00:00",
-  "based_on_collection_at": "2026-09-04T08:51:54+00:00",
+  "generated_at": "2026-09-04T18:28:07+00:00",
+  "based_on_collection_at": "2026-09-04T18:27:51+00:00",
   "retention": {
     "max_age_days": 30,
     "max_items": 400
   },
   "counts": {
-    "total": 105,
+    "total": 148,
     "by_category": {
-      "corporate_finance_deals": 25,
-      "other": 19,
-      "markets": 19,
-      "investment_management": 21,
-      "macro_central_banks": 18,
+      "markets": 32,
+      "other": 31,
+      "corporate_finance_deals": 41,
+      "investment_management": 22,
+      "macro_central_banks": 19,
       "regulation": 3
     },
     "by_importance": {
-      "Medium": 82,
-      "Low": 19,
-      "High": 4
+      "Medium": 111,
+      "Low": 31,
+      "High": 6
     }
   },
   "sections": {
     "top_investment_management": [
+      "e4f8cdf800e35dfb",
       "3ac645e23eacb942",
       "5541900f1f44b7c5",
       "72dc317eea04d048",
+      "8e50e86f77c26bb3",
       "07949dd271af21c9",
-      "1b13b818cd1f3670",
       "f48681be97f292e1",
       "83e7ca69b8e01b29",
       "1458ce3d0a030fb8",
-      "42aa786d6696d49a",
-      "28f13f1f34da5f93"
+      "1b13b818cd1f3670"
     ],
     "mauritius_watch": [
       "3ac645e23eacb942",
       "5541900f1f44b7c5",
       "72dc317eea04d048",
-      "b2d217b2a13b20fc",
-      "ccf09baaa535a2c0",
-      "0853f5ba40984b88",
-      "ee85508360488d3a",
-      "64c1713e55d1742b",
-      "c628aedf0ecb6398",
-      "3ab578e23d1bdc68",
-      "aa7b58580b1a561b",
-      "703964ee05dd0979",
-      "a29f820b6073ed50",
-      "fad05161b27193a2",
-      "6dcc7135b334842e"
+      "89d37ef8d9400f24",
+      "b435e06b716bc4c9",
+      "79abb5b2551204a5",
+      "45e3f53d3dd24df4",
+      "6a70f041b208ba59",
+      "ca5c94b58ed8b65f",
+      "da2e3c481162880f",
+      "4d5f061ac8ce4ac6",
+      "f7153683b8dece42",
+      "7a9306c5b7151595",
+      "ac54224ac9eb35c1",
+      "264f3ca265be3ef6"
     ],
     "global_investment_management": [
+      "6aefc265206130bc",
       "b6ebdb0378f1b4e6",
       "7e96bba10719fcd6",
-      "48d7c61a5865e2ed",
       "b712a5fa2d070bdb",
       "1e5068e98e031721",
       "80fd616480ce0204",
+      "48d7c61a5865e2ed",
       "e92c2bac9fe3084c",
       "bebcea0f408d2a4a",
       "3081294731e66509",
       "6b6c10e030b388ad",
-      "9876d08b9a001f2d",
-      "712e646eda567d13"
+      "9876d08b9a001f2d"
     ],
     "deals_and_transactions": [
+      "8e50e86f77c26bb3",
+      "614c1ade71280941",
+      "96e05b15e0a4b59c",
+      "b03214be8f0a1952",
+      "80d3d93581810df2",
+      "a73ceb8981c9ab07",
       "86740ee829140faf",
       "d7b2bef44bf64cf6",
       "b233cff6e5e9b0ec",
       "c265f74d187c9e2d",
       "890f5c6a70a5a4a8",
-      "f38c0babc30244f9",
-      "2fd65b36f395a09e",
-      "bb64a9739efd16f3",
-      "70d8828ca95c9c33",
-      "d93c46eef63fbb8e",
-      "951472f380e61006",
-      "87d7f80c125edec1"
+      "f38c0babc30244f9"
     ],
     "central_bank_and_macro": [
+      "e4f8cdf800e35dfb",
       "3ac645e23eacb942",
       "5541900f1f44b7c5",
       "72dc317eea04d048",
       "07949dd271af21c9",
-      "1b13b818cd1f3670",
       "f48681be97f292e1",
       "83e7ca69b8e01b29",
       "1458ce3d0a030fb8",
+      "1b13b818cd1f3670",
       "28f13f1f34da5f93",
       "eaa78faf3639a098",
-      "f7ee997e5aae39a4",
-      "157f8b145352e193"
+      "f7ee997e5aae39a4"
     ]
   },
   "items": [
+    {
+      "id": "adda96186caadcbe",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+      "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "published": "2026-09-04T18:01:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 18:01:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-03T18:07:31+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "359b7dcaeef6a177",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "published": "2026-09-04T18:00:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 18:00:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "89d37ef8d9400f24",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Journée internationale : Les personnes âgées à l’honneur le 1er octobre au J&J Auditorium",
+      "link": "https://ionnews.mu/journee-internationale-les-personnes-agees-a-lhonneur-le-1er-octobre-au-jj-auditorium/",
+      "canonical_link": "https://ionnews.mu/journee-internationale-les-personnes-agees-a-lhonneur-le-1er-octobre-au-jj-auditorium",
+      "published": "2026-09-04T17:56:55+00:00",
+      "published_raw": "Fri, 04 Sep 2026 17:56:55 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "b435e06b716bc4c9",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Baisse des demandes de licences de pêche : L’interdiction de stockage de fuel dans les cales à poissons levée",
+      "link": "https://ionnews.mu/baisse-des-demandes-de-licences-de-peche-linterdiction-de-stockage-de-fuel-dans-les-cales-a-poissons-levee/",
+      "canonical_link": "https://ionnews.mu/baisse-des-demandes-de-licences-de-peche-linterdiction-de-stockage-de-fuel-dans-les-cales-a-poissons-levee",
+      "published": "2026-09-04T17:50:08+00:00",
+      "published_raw": "Fri, 04 Sep 2026 17:50:08 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "79abb5b2551204a5",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "https://ionnews.mu/wp-content/uploads/2026/09/Eshan-noor-240×300.png",
+      "link": "https://ionnews.mu/https-ionnews-mu-wp-content-uploads-2026-09-eshan-noor-240x300-png/",
+      "canonical_link": "https://ionnews.mu/https-ionnews-mu-wp-content-uploads-2026-09-eshan-noor-240x300-png",
+      "published": "2026-09-04T17:31:48+00:00",
+      "published_raw": "Fri, 04 Sep 2026 17:31:48 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "e6d8491cadf16502",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "published": "2026-09-04T17:30:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 17:30:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-03T18:07:31+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "36b1a72a9e74fc62",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "published": "2026-09-04T17:15:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 17:15:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "45e3f53d3dd24df4",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Patrick Belcourt : « Non selman zot amater me osi inkonpetan »",
+      "link": "https://ionnews.mu/patrick-belcourt-non-selman-zot-amater-me-osi-inkonpetan/",
+      "canonical_link": "https://ionnews.mu/patrick-belcourt-non-selman-zot-amater-me-osi-inkonpetan",
+      "published": "2026-09-04T16:57:28+00:00",
+      "published_raw": "Fri, 04 Sep 2026 16:57:28 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "6a70f041b208ba59",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Quatre-Cocos : Un policier blessé lors d’une arrestation",
+      "link": "https://ionnews.mu/quatre-cocos-un-policier-blesse-lors-dune-arrestation/",
+      "canonical_link": "https://ionnews.mu/quatre-cocos-un-policier-blesse-lors-dune-arrestation",
+      "published": "2026-09-04T16:20:04+00:00",
+      "published_raw": "Fri, 04 Sep 2026 16:20:04 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "d45146471d116d5c",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
+      "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+      "published": "2026-09-04T16:19:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 16:19:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "614c1ade71280941",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Danone completes its acquisition of Huel, extending its portfolio in Functional Nutrition",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/en/danone-completes-its-acquisition-of-huel-extending-its-portfolio-in-functional-nutrition.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/en/danone-completes-its-acquisition-of-huel-extending-its-portfolio-in-functional-nutrition.html",
+      "published": "2026-09-04T15:59:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:59 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "96e05b15e0a4b59c",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Danone finalise l’acquisition de Huel et étend son portefeuille dans la Nutrition fonctionnelle",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/fr/danone-finalise-l-acquisition-de-huel-et-%C3%A9tend-son-portefeuille-dans-la-nutrition-fonctionnelle.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356691/0/fr/danone-finalise-l-acquisition-de-huel-et-%C3%A9tend-son-portefeuille-dans-la-nutrition-fonctionnelle.html",
+      "published": "2026-09-04T15:59:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:59 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "04b833966f324171",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
+      "link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
+      "published": "2026-09-04T15:57:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:57:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "fde72443f3091e70",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+      "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+      "published": "2026-09-04T15:48:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:48:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "c1baf4657fbb8d1b",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
+      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "published": "2026-09-04T15:39:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:39:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 2 category keyword(s) (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "ca5c94b58ed8b65f",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Scooters sous-marins, réalité virtuelle et théâtres : Le nouveau catalogue des sorties mauriciennes",
+      "link": "https://ionnews.mu/scooters-sous-marins-realite-virtuelle-et-theatres-le-nouveau-catalogue-des-sorties-mauriciennes/",
+      "canonical_link": "https://ionnews.mu/scooters-sous-marins-realite-virtuelle-et-theatres-le-nouveau-catalogue-des-sorties-mauriciennes",
+      "published": "2026-09-04T15:21:35+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:21:35 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "f817bdbb97ce1a71",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "Rising interest rates pose a major threat to stock prices and other assets",
+      "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+      "published": "2026-09-04T15:05:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 15:05:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "8e50e86f77c26bb3",
+      "source_id": "fed-press",
+      "source_name": "Federal Reserve press releases",
+      "region": "US",
+      "tier": 1,
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "canonical_link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "published": "2026-09-04T15:00:00+00:00",
+      "published_raw": "Fri, 4 Sep 2026 15:00:00 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 60,
+      "score_reasons": [
+        "Tier 1 source (+30)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "High",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "78ef3363e7db09e5",
+      "source_id": "marketwatch-top",
+      "source_name": "MarketWatch top stories",
+      "region": "US",
+      "tier": 2,
+      "title": "A Democratic midterm sweep could make bonds the fourth-quarter contrarian play, says B. of A.’s Hartnett",
+      "link": "https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories",
+      "published": "2026-09-04T14:53:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:53:00 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 35,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "da2e3c481162880f",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Island Container Terminal : Inquiétudes sur son impact sur les emplois existants",
+      "link": "https://ionnews.mu/island-container-terminal-inquietudes-sur-son-impact-sur-les-emplois-existants/",
+      "canonical_link": "https://ionnews.mu/island-container-terminal-inquietudes-sur-son-impact-sur-les-emplois-existants",
+      "published": "2026-09-04T14:46:47+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:46:47 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "4d5f061ac8ce4ac6",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "AGOA 2028 : Le temps de préparer l’après",
+      "link": "https://ionnews.mu/agoa-2028-le-temps-de-preparer-lapres/",
+      "canonical_link": "https://ionnews.mu/agoa-2028-le-temps-de-preparer-lapres",
+      "published": "2026-09-04T14:34:41+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:34:41 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "12ad7bb21ac97c17",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - DCC plc",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356647/0/en/form-8-3-dcc-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356647/0/en/form-8-3-dcc-plc.html",
+      "published": "2026-09-04T14:33:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:33 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "f7153683b8dece42",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "582 798 tonnes de déchets enfouies en 2025 : Peut-on attendre jusqu’en 2028 pour les Integrated Waste Processing Facilities ?",
+      "link": "https://ionnews.mu/582-798-tonnes-de-dechets-enfouies-en-2025-peut-on-attendre-jusquen-2028-pour-les-integrated-waste-processing-facilities/",
+      "canonical_link": "https://ionnews.mu/582-798-tonnes-de-dechets-enfouies-en-2025-peut-on-attendre-jusquen-2028-pour-les-integrated-waste-processing-facilities",
+      "published": "2026-09-04T14:31:29+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:31:29 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "1ebf36d1fe1a079b",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356634/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356634/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+      "published": "2026-09-04T14:20:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 14:20 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "b03214be8f0a1952",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Hawthorn Bancshares, Inc. Completes Merger with FSC Bancshares, Inc.",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356613/0/en/hawthorn-bancshares-inc-completes-merger-with-fsc-bancshares-inc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356613/0/en/hawthorn-bancshares-inc-completes-merger-with-fsc-bancshares-inc.html",
+      "published": "2026-09-04T13:55:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 13:55 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "80d3d93581810df2",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "SoundHound AI Completes Acquisition of LivePerson, Creating a World-Leading Omnichannel Conversational AI Powerhouse",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html",
+      "published": "2026-09-04T13:26:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 13:26 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "7a9306c5b7151595",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "[FCC] Deepak Balgobin : « Est-ce que Bachoo était sur une liste d’attente ? »",
+      "link": "https://ionnews.mu/fcc-deepak-balgobin-est-ce-que-bachoo-etait-sur-une-liste-dattente/",
+      "canonical_link": "https://ionnews.mu/fcc-deepak-balgobin-est-ce-que-bachoo-etait-sur-une-liste-dattente",
+      "published": "2026-09-04T12:51:57+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:51:57 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "ac54224ac9eb35c1",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "Écoles primaires payantes : Jusqu’à Rs 30 000 par mois pour scolariser un enfa",
+      "link": "https://ionnews.mu/ecoles-primaires-payantes-jusqua-rs-30-000-par-mois-pour-scolariser-un-enfa/",
+      "canonical_link": "https://ionnews.mu/ecoles-primaires-payantes-jusqua-rs-30-000-par-mois-pour-scolariser-un-enfa",
+      "published": "2026-09-04T12:29:57+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:29:57 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "264f3ca265be3ef6",
+      "source_id": "ionnews",
+      "source_name": "ION News",
+      "region": "MU",
+      "tier": 3,
+      "title": "FCC : Une fuite qui ébranle l’institution de l’intérieur",
+      "link": "https://ionnews.mu/fcc-une-fuite-qui-ebranle-linstitution-de-linterieur/",
+      "canonical_link": "https://ionnews.mu/fcc-une-fuite-qui-ebranle-linstitution-de-linterieur",
+      "published": "2026-09-04T12:24:01+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:24:01 +0000",
+      "category": "other",
+      "category_label": "Other",
+      "mauritius_watch": true,
+      "score": 30,
+      "score_reasons": [
+        "Tier 3 source (+5)",
+        "Mauritius-linked (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Low",
+      "why_it_matters": "No category keyword matched. Kept for context, mainly because of its source. Also tagged for Mauritius Watch because it concerns Mauritius directly.",
+      "investment_management_angle": "This bucket is a catch-all, not a curated signal. Skim only if the headline itself looks relevant.",
+      "cfa_connection": "No direct CFA curriculum link identified by keyword.",
+      "suggested_action": "Skip unless the headline itself catches your attention.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "930f4cff41f9fa59",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356545/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356545/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "published": "2026-09-04T12:21:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:21 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "1a3c272500be8b0c",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356544/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356544/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "published": "2026-09-04T12:19:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:19 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "aa26f19760760dec",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356542/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356542/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+      "published": "2026-09-04T12:16:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:16 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "3e63685625a88054",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356535/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356535/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+      "published": "2026-09-04T12:04:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:04 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "7be75dde95447711",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356514/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356514/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "published": "2026-09-04T11:52:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:52 GMT",
+      "category": "markets",
+      "category_label": "Markets",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Markets (+10)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
+      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
+      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
+      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "3dee9811523b94ba",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356513/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356513/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+      "published": "2026-09-04T11:51:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:51 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "3d02f4a06bb440db",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356512/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356512/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+      "published": "2026-09-04T11:49:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:49 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "64eea8a7ba69f344",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - Picton Property Income Limited",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356498/0/en/form-8-3-picton-property-income-limited.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356498/0/en/form-8-3-picton-property-income-limited.html",
+      "published": "2026-09-04T11:15:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:15 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "c0e26f6386d827cd",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - LondonMetric Property Plc & Schroder European Real Estate Investment Trust PLC",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356497/0/en/form-8-3-londonmetric-property-plc-schroder-european-real-estate-investment-trust-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356497/0/en/form-8-3-londonmetric-property-plc-schroder-european-real-estate-investment-trust-plc.html",
+      "published": "2026-09-04T11:12:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:12 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "6aefc265206130bc",
+      "source_id": "globenewswire-funds",
+      "source_name": "GlobeNewswire Investment Fund Information",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Guardian Capital Announces Fund Maturity Date",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356491/0/en/guardian-capital-announces-fund-maturity-date.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356491/0/en/guardian-capital-announces-fund-maturity-date.html",
+      "published": "2026-09-04T11:00:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:00 GMT",
+      "category": "investment_management",
+      "category_label": "Investment Management",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Investment Management (+20)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as investment management: it concerns how funds, portfolios, or asset managers operate or are positioned.",
+      "investment_management_angle": "Read it for what it implies about flows, positioning, or strategy among professional investors, not only the headline fact.",
+      "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
+      "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "2929872693f76926",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356430/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356430/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "published": "2026-09-04T09:23:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 09:23 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "e4f8cdf800e35dfb",
+      "source_id": "ecb-press",
+      "source_name": "European Central Bank press",
+      "region": "EU",
+      "tier": 1,
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "canonical_link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "published": "2026-09-04T09:10:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 11:10:00 +0200",
+      "category": "macro_central_banks",
+      "category_label": "Macro / Central Banks",
+      "mauritius_watch": false,
+      "score": 70,
+      "score_reasons": [
+        "Tier 1 source (+30)",
+        "Category: Macro / Central Banks (+20)",
+        "Matched 2 category keyword(s) (+10)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "High",
+      "why_it_matters": "Categorised as macro / central banks: it is a policy release or macro data point that can move rates, currencies, and broad asset prices.",
+      "investment_management_angle": "Central-bank language and rate decisions set the discount rate every valuation in your coverage ultimately depends on.",
+      "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
+      "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "ac9f6b67458c7a0f",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Form 8.3 - Rotork PLC",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356417/0/en/form-8-3-rotork-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356417/0/en/form-8-3-rotork-plc.html",
+      "published": "2026-09-04T09:09:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 09:09 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "f8061eea74b45589",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Man Group PLC : Form 8.3 - Rotork plc",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356416/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356416/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "published": "2026-09-04T09:09:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 09:09 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "4eb1acd10498173f",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Man Group PLC : Form 8.3 - Senior plc",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356415/0/en/man-group-plc-form-8-3-senior-plc.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356415/0/en/man-group-plc-form-8-3-senior-plc.html",
+      "published": "2026-09-04T09:07:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 09:07 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 40,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
+    {
+      "id": "a73ceb8981c9ab07",
+      "source_id": "globenewswire-ma",
+      "source_name": "GlobeNewswire Mergers and Acquisitions",
+      "region": "GLOBAL",
+      "tier": 2,
+      "title": "Entrepreneurship Through Acquisition: Club M&A and McGill's Dobson Centre Open Registration for First Cohort",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356414/0/en/entrepreneurship-through-acquisition-club-m-a-and-mcgill-s-dobson-centre-open-registration-for-first-cohort.html",
+      "canonical_link": "https://www.globenewswire.com/news-release/2026/09/04/3356414/0/en/entrepreneurship-through-acquisition-club-m-a-and-mcgill-s-dobson-centre-open-registration-for-first-cohort.html",
+      "published": "2026-09-04T09:00:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 09:00 GMT",
+      "category": "corporate_finance_deals",
+      "category_label": "Corporate Finance / Deals",
+      "mauritius_watch": false,
+      "score": 45,
+      "score_reasons": [
+        "Tier 2 source (+15)",
+        "Category: Corporate Finance / Deals (+15)",
+        "Matched 1 category keyword(s) (+5)",
+        "Published within last 24 hours (+10)"
+      ],
+      "importance": "Medium",
+      "why_it_matters": "Categorised as corporate finance / deals: it concerns a transaction, acquisition, buyback, listing, or other corporate-finance event.",
+      "investment_management_angle": "Deals show how companies are being priced and financed right now, a live input for valuation work.",
+      "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
+      "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
+      "first_seen": "2026-09-04T18:28:07+00:00",
+      "last_seen": "2026-09-04T18:28:07+00:00"
+    },
     {
       "id": "bb64a9739efd16f3",
       "source_id": "globenewswire-ma",
@@ -461,34 +1735,6 @@
       "last_seen": "2026-09-04T08:52:18+00:00"
     },
     {
-      "id": "adda96186caadcbe",
-      "source_id": "marketwatch-top",
-      "source_name": "MarketWatch top stories",
-      "region": "US",
-      "tier": 2,
-      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-      "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "published": "2026-09-04T00:00:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 00:00:00 GMT",
-      "category": "markets",
-      "category_label": "Markets",
-      "mauritius_watch": false,
-      "score": 35,
-      "score_reasons": [
-        "Tier 2 source (+15)",
-        "Category: Markets (+10)",
-        "Published within last 24 hours (+10)"
-      ],
-      "importance": "Medium",
-      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
-      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
-      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
-      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
-      "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
-    },
-    {
       "id": "d01da31458a3fe0a",
       "source_id": "marketwatch-top",
       "source_name": "MarketWatch top stories",
@@ -499,34 +1745,6 @@
       "canonical_link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
       "published": "2026-09-03T23:45:00+00:00",
       "published_raw": "Thu, 03 Sep 2026 23:45:00 GMT",
-      "category": "markets",
-      "category_label": "Markets",
-      "mauritius_watch": false,
-      "score": 35,
-      "score_reasons": [
-        "Tier 2 source (+15)",
-        "Category: Markets (+10)",
-        "Published within last 24 hours (+10)"
-      ],
-      "importance": "Medium",
-      "why_it_matters": "Categorised as markets: it reports a market move or trading update, an index level, a share price, or trading activity.",
-      "investment_management_angle": "A short-term move matters less on its own than the reason behind it, so look past the headline number.",
-      "cfa_connection": "Relates to CFA Equity Investments and market organisation.",
-      "suggested_action": "Check what is driving the move before treating it as a signal worth acting on.",
-      "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
-    },
-    {
-      "id": "e6d8491cadf16502",
-      "source_id": "marketwatch-top",
-      "source_name": "MarketWatch top stories",
-      "region": "US",
-      "tier": 2,
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "published": "2026-09-03T23:36:00+00:00",
-      "published_raw": "Thu, 03 Sep 2026 23:36:00 GMT",
       "category": "markets",
       "category_label": "Markets",
       "mauritius_watch": false,
@@ -570,7 +1788,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-04T05:06:28+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "7e96bba10719fcd6",
@@ -598,7 +1816,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-04T05:06:28+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "09ceef19c384badf",
@@ -1318,11 +2536,11 @@
       "category": "investment_management",
       "category_label": "Investment Management",
       "mauritius_watch": false,
-      "score": 45,
+      "score": 40,
       "score_reasons": [
         "Tier 2 source (+15)",
         "Category: Investment Management (+20)",
-        "Published within last 24 hours (+10)"
+        "Published within last 7 days (+5)"
       ],
       "importance": "Medium",
       "why_it_matters": "Categorised as investment management: it concerns how funds, portfolios, or asset managers operate or are positioned.",
@@ -1330,7 +2548,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "c265f74d187c9e2d",
@@ -1950,7 +3168,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "b712a5fa2d070bdb",
@@ -1979,7 +3197,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "15bb7700987abf43",
@@ -2008,7 +3226,7 @@
       "cfa_connection": "Relates to CFA Corporate Issuers: capital structure, M&A, and corporate actions.",
       "suggested_action": "Log the parties, structure, and stated valuation in your research queue for later comparison.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "bebcea0f408d2a4a",
@@ -2036,7 +3254,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "3081294731e66509",
@@ -2064,7 +3282,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "07949dd271af21c9",
@@ -2093,7 +3311,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "1e5068e98e031721",
@@ -2122,7 +3340,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "80fd616480ce0204",
@@ -2151,7 +3369,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "6b6c10e030b388ad",
@@ -2179,7 +3397,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "9876d08b9a001f2d",
@@ -2207,7 +3425,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "712e646eda567d13",
@@ -2235,7 +3453,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "c7145c988830f5d8",
@@ -2263,7 +3481,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "acc554bf55087971",
@@ -2291,7 +3509,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "3ac645e23eacb942",
@@ -2320,7 +3538,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "5541900f1f44b7c5",
@@ -2349,7 +3567,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "1b13b818cd1f3670",
@@ -2365,11 +3583,10 @@
       "category": "macro_central_banks",
       "category_label": "Macro / Central Banks",
       "mauritius_watch": false,
-      "score": 55,
+      "score": 50,
       "score_reasons": [
         "Tier 1 source (+30)",
-        "Category: Macro / Central Banks (+20)",
-        "Published within last 7 days (+5)"
+        "Category: Macro / Central Banks (+20)"
       ],
       "importance": "Medium",
       "why_it_matters": "Categorised as macro / central banks: it is a policy release or macro data point that can move rates, currencies, and broad asset prices.",
@@ -2377,7 +3594,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "2ab51b2b0bba26b5",
@@ -2404,7 +3621,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "42aa786d6696d49a",
@@ -2432,7 +3649,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "e81ddf6b4eb154ae",
@@ -2460,7 +3677,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "3236b0b979b6cfa5",
@@ -2487,7 +3704,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "aea446ec5be8ef7b",
@@ -2515,7 +3732,7 @@
       "cfa_connection": "Relates to CFA Portfolio Management and Wealth Planning.",
       "suggested_action": "Note the fund, manager, or strategy named here and add it to your research queue if you do not already track it.",
       "first_seen": "2026-09-03T18:37:18+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "1503d6d80704d107",
@@ -2624,7 +3841,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "eaa78faf3639a098",
@@ -2651,7 +3868,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "f48681be97f292e1",
@@ -2679,7 +3896,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "f7ee997e5aae39a4",
@@ -2706,7 +3923,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "157f8b145352e193",
@@ -2733,7 +3950,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "83e7ca69b8e01b29",
@@ -2761,7 +3978,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "1458ce3d0a030fb8",
@@ -2789,7 +4006,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "694ce1badfaf5f2f",
@@ -2817,7 +4034,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "dfdf8d18c6f010c7",
@@ -2844,7 +4061,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "b252439642e6df41",
@@ -2871,7 +4088,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "f5241fc2d678e76e",
@@ -2898,7 +4115,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "86b112d22257464b",
@@ -2926,7 +4143,7 @@
       "cfa_connection": "Relates to CFA Ethical and Professional Standards, and to industry regulation more broadly.",
       "suggested_action": "Identify the rule or standard being enforced and check whether it applies to a firm already in your research queue.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "ac00651c0093d6f9",
@@ -2953,7 +4170,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "72dc317eea04d048",
@@ -2981,7 +4198,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "737e4fff6a05c09d",
@@ -3008,7 +4225,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     },
     {
       "id": "19a6ebb8b8b9eadd",
@@ -3035,7 +4252,7 @@
       "cfa_connection": "Relates to CFA Economics: monetary policy, business cycles, and macroeconomic analysis.",
       "suggested_action": "Note the policy rate or stance mentioned and compare it against the previous reading.",
       "first_seen": "2026-09-03T18:07:31+00:00",
-      "last_seen": "2026-09-04T08:52:18+00:00"
+      "last_seen": "2026-09-04T18:28:07+00:00"
     }
   ],
   "source_health": [
