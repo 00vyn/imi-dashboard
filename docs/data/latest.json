@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T05:06:12+00:00",
+  "generated_at": "2026-09-04T08:51:54+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -274,6 +274,11 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "BRP : Les personnes atteignant 61 ans en 2026 appelées à s’enregistrer",
+          "link": "https://ionnews.mu/brp-les-personnes-atteignant-61-ans-en-2026-appelees-a-senregistrer/",
+          "published": "Fri, 04 Sep 2026 08:30:16 +0000"
+        },
+        {
           "title": "[Noor Hussenee] : « Erer li pa touletan fatal, sinon Navin Ramgoolam pa ti pou vinn Premier ministre apre 10 an»",
           "link": "https://ionnews.mu/noor-hussenee-erer-li-pa-touletan-fatal-sinon-navin-ramgoolam-pa-ti-pou-vinn-premier-ministre-apre-10-an/",
           "published": "Fri, 04 Sep 2026 03:13:52 +0000"
@@ -327,11 +332,6 @@
           "title": "[La baguette à Rs 10 à Mahébourg] Les commerçants : « Dipin baget la inpe pli long »",
           "link": "https://ionnews.mu/la-baguette-a-rs-10-a-mahebourg-les-commercants-dipin-baget-la-inpe-pli-long/",
           "published": "Thu, 03 Sep 2026 11:34:31 +0000"
-        },
-        {
-          "title": "Patrick Belcourt : « Personn pa pe fouti dir ki sa lepep la pe pase »",
-          "link": "https://ionnews.mu/patrick-belcourt-personn-pa-pe-fouti-dir-ki-sa-lepep-la-pe-pase/",
-          "published": "Thu, 03 Sep 2026 09:16:15 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2299.81,
-        "SEM-ASI": 2050.6,
-        "SEMTRI": 11323.77,
-        "SEM10": 437.65
+        "SEMDEX": 2295.51,
+        "SEM-ASI": 2046.61,
+        "SEMTRI": 11302.61,
+        "SEM10": 437.21
       }
     },
     {
@@ -457,19 +457,19 @@
             "date": "2026-09-04",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86169
+            "rate": 0.86149
           },
           {
             "date": "2026-09-04",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74085
+            "rate": 0.74081
           },
           {
             "date": "2026-09-04",
             "base": "USD",
             "quote": "JPY",
-            "rate": 158.0
+            "rate": 157.75
           }
         ]
       }
@@ -484,6 +484,21 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20and%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20and%20Acquisitions",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 03 09 2026 - (CGWL)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356412/0/en/form-8-3-advanced-medical-solutions-group-plc-03-09-2026-cgwl.html",
+          "published": "Fri, 04 Sep 2026 08:50 GMT"
+        },
+        {
+          "title": "Form 8.5 (EPT/RI) - Kore Potash Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356395/0/en/form-8-5-ept-ri-kore-potash-plc.html",
+          "published": "Fri, 04 Sep 2026 07:56 GMT"
+        },
+        {
+          "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356394/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+          "published": "Fri, 04 Sep 2026 07:52 GMT"
+        },
         {
           "title": "Lumberworld, located in Victoria, BC, has been acquired by Central Builders’ Supply, a Regimen Equity Partners portfolio company",
           "link": "https://www.globenewswire.com/news-release/2026/09/03/3356280/0/en/lumberworld-located-in-victoria-bc-has-been-acquired-by-central-builders-supply-a-regimen-equity-partners-portfolio-company.html",
@@ -568,21 +583,6 @@
           "title": "Hillman Completes Acquisition of Kanebridge",
           "link": "https://www.globenewswire.com/news-release/2026/09/03/3355780/0/en/hillman-completes-acquisition-of-kanebridge.html",
           "published": "Thu, 03 Sep 2026 11:30 GMT"
-        },
-        {
-          "title": "ScottsMiracle-Gro to Acquire Black Kow in Alignment with SMG 2.0 Growth Strategy",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355740/33079/en/scottsmiracle-gro-to-acquire-black-kow-in-alignment-with-smg-2-0-growth-strategy.html",
-          "published": "Thu, 03 Sep 2026 10:55 GMT"
-        },
-        {
-          "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355725/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
-          "published": "Thu, 03 Sep 2026 10:07 GMT"
-        },
-        {
-          "title": "Man Group PLC : Form 8.3 - Rotork plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355724/0/en/man-group-plc-form-8-3-rotork-plc.html",
-          "published": "Thu, 03 Sep 2026 10:04 GMT"
         }
       ]
     },
