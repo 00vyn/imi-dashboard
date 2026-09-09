@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T08:53:21+00:00",
+  "generated_at": "2026-09-09T08:59:03+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -125,6 +125,11 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "Frank Elderson: Fireside chat",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+          "published": "Tue, 08 Sep 2026 17:00:00 +0200"
+        },
+        {
           "title": "Philip R. Lane: Diversity at the European Central Bank",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
           "published": "Fri, 04 Sep 2026 11:10:00 +0200"
@@ -193,11 +198,6 @@
           "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
           "published": "Wed, 29 Jul 2026 10:00:00 +0200"
-        },
-        {
-          "title": "Philip R. Lane: Outlook for the euro area economy",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-          "published": "Fri, 24 Jul 2026 17:30:00 +0200"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "Why the Dow is being dragged down by a Swiss company’s bad news",
-          "link": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 08:15:00 GMT"
+          "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
+          "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 08:31:00 GMT"
         },
         {
-          "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-          "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 03:09:00 GMT"
+          "title": "Brent crude reaches $100 as war in Iran intensifies",
+          "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 08:27:00 GMT"
         },
         {
-          "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-          "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 22:00:00 GMT"
+          "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
+          "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 07:42:00 GMT"
+        },
+        {
+          "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+          "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 02:20:00 GMT"
+        },
+        {
+          "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+          "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 00:17:00 GMT"
+        },
+        {
+          "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+          "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+          "published": "Tue, 08 Sep 2026 22:50:00 GMT"
         },
         {
           "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
           "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 22:00:00 GMT"
+          "published": "Tue, 08 Sep 2026 22:00:00 GMT"
         },
         {
-          "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-          "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 19:30:00 GMT"
+          "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
+          "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
+          "published": "Tue, 08 Sep 2026 21:51:00 GMT"
         },
         {
-          "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-          "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 16:30:00 GMT"
+          "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
+          "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
+          "published": "Tue, 08 Sep 2026 21:38:00 GMT"
         },
         {
-          "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-          "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-          "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 16:00:00 GMT"
-        },
-        {
-          "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-          "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
-          "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-          "published": "Mon, 07 Sep 2026 11:36:00 GMT"
+          "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
+          "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
+          "published": "Tue, 08 Sep 2026 21:32:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "[Affaire Shakeel Mohamed] Problème technique : Le document n’apparaissait pas sur le site, mais il était sur le serveur, selon Storm Guidance",
-          "link": "https://ionnews.mu/affaire-shakeel-mohamed-un-probleme-technique-le-document-napparaissait-pas-sur-le-site-mais-il-etait-sur-le-serveur-selon-storm-guidance/",
-          "published": "Tue, 08 Sep 2026 08:21:39 +0000"
+          "title": "Présumé réseau de trafic de cannabis entre Maurice et La Réunion : Kerly L’Intelligent arrêté",
+          "link": "https://ionnews.mu/presume-reseau-de-trafic-de-cannabis-entre-maurice-et-la-reunion-kerly-lintelligent-arrete/",
+          "published": "Wed, 09 Sep 2026 08:47:23 +0000"
         },
         {
-          "title": "Deux messages en un jour : La jeunesse et Berlin",
-          "link": "https://ionnews.mu/deux-messages-en-un-jour-la-jeunesse-et-berlin/",
-          "published": "Tue, 08 Sep 2026 07:56:49 +0000"
+          "title": "Vol spectaculaire de tableaux de Renoir sur la Côte d’Azur : la police française traque les cambrioleurs",
+          "link": "https://ionnews.mu/vol-spectaculaire-de-tableaux-de-renoir-sur-la-cote-dazur-la-police-francaise-traque-les-cambrioleurs/",
+          "published": "Wed, 09 Sep 2026 05:43:29 +0000"
         },
         {
-          "title": "Fonction publique : Réformer ou d’abord réconcilier ?",
-          "link": "https://ionnews.mu/fonction-publique-reformer-ou-dabord-reconcilier/",
-          "published": "Tue, 08 Sep 2026 07:50:24 +0000"
+          "title": "Des informations clés sur la toxicité de l’air après le 11-Septembre gardées secrètes pendant 25 ans",
+          "link": "https://ionnews.mu/des-informations-cles-sur-la-toxicite-de-lair-apres-le-11-septembre-gardees-secretes-pendant-25-ans/",
+          "published": "Wed, 09 Sep 2026 05:40:30 +0000"
         },
         {
-          "title": "L’ex-chef de la justice indienne reçu par Navin Ramgoolam",
-          "link": "https://ionnews.mu/lex-chef-de-la-justice-indienne-recu-par-navin-ramgoolam/",
-          "published": "Tue, 08 Sep 2026 07:43:51 +0000"
+          "title": "Le conflit entre les États-Unis et le Canada s’envenime : Trump interdit des produits canadiens Éco/Tech",
+          "link": "https://ionnews.mu/le-conflit-entre-les-etats-unis-et-le-canada-senvenime-trump-interdit-des-produits-canadiens-eco-tech/",
+          "published": "Wed, 09 Sep 2026 05:36:37 +0000"
         },
         {
-          "title": "Climat : La jeunesse mauricienne prend la parole avant la COP31",
-          "link": "https://ionnews.mu/climat-la-jeunesse-mauricienne-prend-la-parole-avant-la-cop31/",
-          "published": "Tue, 08 Sep 2026 07:33:38 +0000"
+          "title": "Ballon d’or : Mbappé, Messi, Dembélé nommés, Bonmati absente de la sélection",
+          "link": "https://ionnews.mu/ballon-dor-mbappe-messi-dembele-nommes-bonmati-absente-de-la-selection/",
+          "published": "Wed, 09 Sep 2026 05:31:12 +0000"
         },
         {
-          "title": "Inflation : La hausse des carburants relance la pression sur le panier ménager",
-          "link": "https://ionnews.mu/inflation-la-hausse-des-carburants-relance-la-pression-sur-le-panier-menager/",
-          "published": "Tue, 08 Sep 2026 07:23:41 +0000"
+          "title": "Ligue des Champions : le Betis renverse Lille dans un match fou, Manchester City dompte Porto, Dortmund s’offre Villarreal",
+          "link": "https://ionnews.mu/ligue-des-champions-le-betis-renverse-lille-dans-un-match-fou-manchester-city-dompte-porto-dortmund-soffre-villarreal/",
+          "published": "Wed, 09 Sep 2026 05:21:23 +0000"
         },
         {
-          "title": "« Bullying » dans une école privée : Danser sur « Barbie Girl » pour les garçons, push-ups forcés pour les filles",
-          "link": "https://ionnews.mu/bullying-dans-une-ecole-privee-danser-sur-barbie-girl-pour-les-garcons-push-ups-forces-pour-les-filles/",
-          "published": "Mon, 07 Sep 2026 17:01:20 +0000"
+          "title": "De la suspicion à la détention : Où est la limite ?",
+          "link": "https://ionnews.mu/de-la-suspicion-a-la-detention-ou-est-la-limite/",
+          "published": "Wed, 09 Sep 2026 02:36:20 +0000"
         },
         {
-          "title": "Lucien Finette est le nouvel ambassadeur de Maurice en Allemagne",
-          "link": "https://ionnews.mu/lucien-finette-est-le-nouvel-ambassadeur-de-maurice-en-allemagne/",
-          "published": "Mon, 07 Sep 2026 16:46:31 +0000"
+          "title": "Maurice : Nos jeunes s’apprêtent-ils vraiment à partir ?",
+          "link": "https://ionnews.mu/maurice-nos-jeunes-sappretent-ils-vraiment-a-partir/",
+          "published": "Wed, 09 Sep 2026 01:00:52 +0000"
         },
         {
-          "title": "Pont de Souillac : Un feu de signalisation toujours pas réparé",
-          "link": "https://ionnews.mu/pont-de-souillac-un-feu-de-signalisation-toujours-pas-repare/",
-          "published": "Mon, 07 Sep 2026 16:38:38 +0000"
+          "title": "[Surdosage d’intrants chimiques] V. P. N., consommatrice : « Legim la fini vinn bouyon dan 2-3 zour »",
+          "link": "https://ionnews.mu/surdosage-dintrants-chimiques-v-p-n-consommatrice-legim-la-fini-vinn-bouyon-dan-2-3-zour/",
+          "published": "Wed, 09 Sep 2026 01:00:18 +0000"
         },
         {
-          "title": "Pèlerinage du Père Laval : Le caveau restera ouvert jusqu’à minuit ce mardi",
-          "link": "https://ionnews.mu/pelerinage-du-pere-laval-le-caveau-restera-ouvert-jusqua-minuit-ce-mardi/",
-          "published": "Mon, 07 Sep 2026 16:31:25 +0000"
+          "title": "Abel Thesée : workshops et challenge autour de l’armwrestling",
+          "link": "https://ionnews.mu/abel-thesee-workshops-et-challenge-autour-de-larmwrestling/",
+          "published": "Tue, 08 Sep 2026 18:47:59 +0000"
         },
         {
-          "title": "Excellence académique : 73 lauréats du HSC 2025 mis à l’honneur à la State House",
-          "link": "https://ionnews.mu/excellence-academique-73-laureats-du-hsc-2025-mis-a-lhonneur-a-la-state-house/",
-          "published": "Mon, 07 Sep 2026 16:20:27 +0000"
+          "title": "Déjeuner des enfants : Le casse-tête des parents",
+          "link": "https://ionnews.mu/dejeuner-des-enfants-le-casse-tete-des-parents/",
+          "published": "Tue, 08 Sep 2026 18:15:02 +0000"
         },
         {
-          "title": "[Pêche] Judex Rampaul : « Lakal pann fer pou met diezel me pou met pwason »",
-          "link": "https://ionnews.mu/peche-judex-rampaul-lakal-pann-fer-pou-met-diezel-me-pou-met-pwason/",
-          "published": "Mon, 07 Sep 2026 13:33:16 +0000"
+          "title": "Travailler jusqu’au burn-out : La nouvelle normalité ?",
+          "link": "https://ionnews.mu/travailler-jusquau-burn-out-la-nouvelle-normalite/",
+          "published": "Tue, 08 Sep 2026 18:06:41 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2294.02,
-        "SEM-ASI": 2044.99,
-        "SEMTRI": 11295.31,
-        "SEM10": 437.42
+        "SEMDEX": 2295.49,
+        "SEM-ASI": 2046.12,
+        "SEMTRI": 11302.5,
+        "SEM10": 437.64
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-08",
+            "date": "2026-09-09",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86045
+            "rate": 0.86023
           },
           {
-            "date": "2026-09-08",
+            "date": "2026-09-09",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.73924
+            "rate": 0.73864
           },
           {
-            "date": "2026-09-08",
+            "date": "2026-09-09",
             "base": "USD",
             "quote": "JPY",
-            "rate": 155.52
+            "rate": 154.38
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357397/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-          "published": "Tue, 08 Sep 2026 08:47 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357396/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
-          "published": "Tue, 08 Sep 2026 08:46 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357395/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
-          "published": "Tue, 08 Sep 2026 08:45 GMT"
+          "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 08 09 2026] - (CGWL)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358377/0/en/form-8-3-advanced-medical-solutions-group-plc-08-09-2026-cgwl.html",
+          "published": "Wed, 09 Sep 2026 08:57 GMT"
         },
         {
           "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357388/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Tue, 08 Sep 2026 08:32 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358357/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Wed, 09 Sep 2026 08:20 GMT"
         },
         {
           "title": "Form 8.5 (EPT/RI) - Alternative Income REIT Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357384/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
-          "published": "Tue, 08 Sep 2026 08:30 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358354/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+          "published": "Wed, 09 Sep 2026 08:18 GMT"
         },
         {
-          "title": "Aktsiaselts Infortar tütarühing omandab 100%-lise osaluse Leedu põllumajandusettevõttes Litagra",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357317/0/et/aktsiaselts-infortar-t%C3%BCtar%C3%BChing-omandab-100-lise-osaluse-leedu-p%C3%B5llumajandusettev%C3%B5ttes-litagra.html",
-          "published": "Tue, 08 Sep 2026 06:00 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358341/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+          "published": "Wed, 09 Sep 2026 07:39 GMT"
         },
         {
-          "title": "Aktsiaselts Infortar subsidiary OÜ Infortar Agro to acquire a 100% shareholding in Lithuanian agricultural company Litagra",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357317/0/en/aktsiaselts-infortar-subsidiary-o%C3%BC-infortar-agro-to-acquire-a-100-shareholding-in-lithuanian-agricultural-company-litagra.html",
-          "published": "Tue, 08 Sep 2026 06:00 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358340/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+          "published": "Wed, 09 Sep 2026 07:37 GMT"
         },
         {
-          "title": "Correction: Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357191/0/en/correction-form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
-          "published": "Mon, 07 Sep 2026 15:47 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358339/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+          "published": "Wed, 09 Sep 2026 07:36 GMT"
         },
         {
-          "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357152/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-          "published": "Mon, 07 Sep 2026 14:20 GMT"
+          "title": "Finch Completes Strategic Merger to Build AI Commercialization Infrastructure Simultaneously Announces Close of Pre-A Funding Round",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358323/0/en/finch-completes-strategic-merger-to-build-ai-commercialization-infrastructure-simultaneously-announces-close-of-pre-a-funding-round.html",
+          "published": "Wed, 09 Sep 2026 06:58 GMT"
         },
         {
-          "title": "Schouw & Co. share buy-back programme, week 36 2026",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357126/0/en/schouw-co-share-buy-back-programme-week-36-2026.html",
-          "published": "Mon, 07 Sep 2026 13:32 GMT"
+          "title": "Cimplifi Expands UK Presence with Appointment of Cheza Ross as Director, Business Development",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358309/0/en/cimplifi-expands-uk-presence-with-appointment-of-cheza-ross-as-director-business-development.html",
+          "published": "Wed, 09 Sep 2026 06:00 GMT"
         },
         {
-          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357091/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
-          "published": "Mon, 07 Sep 2026 11:54 GMT"
+          "title": "Early Warning Press Release Regarding Acquisition of Common Shares in Carbon Streaming Corporation by Marin Katusa",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358268/0/en/early-warning-press-release-regarding-acquisition-of-common-shares-in-carbon-streaming-corporation-by-marin-katusa.html",
+          "published": "Wed, 09 Sep 2026 00:50 GMT"
         },
         {
-          "title": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357090/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
-          "published": "Mon, 07 Sep 2026 11:52 GMT"
+          "title": "ISP Global Capital: Fort Technology Reports Record Revenue Growth and Closes Logia USA Acquisition",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358238/0/en/isp-global-capital-fort-technology-reports-record-revenue-growth-and-closes-logia-usa-acquisition.html",
+          "published": "Tue, 08 Sep 2026 22:02 GMT"
         },
         {
-          "title": "S-Pankki Oyj täydentää 16.7.2026 päivättyä tarjousasiakirjaa koskien tekemäänsä vapaaehtoista julkista käteisostotarjousta kaikista Oma Säästöpankki Oyj:n osakkeista",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357080/0/fi/s-pankki-oyj-t%C3%A4ydent%C3%A4%C3%A4-16-7-2026-p%C3%A4iv%C3%A4tty%C3%A4-tarjousasiakirjaa-koskien-tekem%C3%A4%C3%A4ns%C3%A4-vapaaehtoista-julkista-k%C3%A4teisostotarjousta-kaikista-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista.html",
-          "published": "Mon, 07 Sep 2026 11:05 GMT"
+          "title": "Concentrix Strengthens Enterprise Risk and Compliance Capabilities with Acquisition of CastleHill",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358136/0/en/concentrix-strengthens-enterprise-risk-and-compliance-capabilities-with-acquisition-of-castlehill.html",
+          "published": "Tue, 08 Sep 2026 20:30 GMT"
         },
         {
-          "title": "S-Bank Plc supplements the tender offer document dated 16 July 2026 regarding its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357080/0/en/s-bank-plc-supplements-the-tender-offer-document-dated-16-july-2026-regarding-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
-          "published": "Mon, 07 Sep 2026 11:05 GMT"
+          "title": "Korsana Biosciences Completes Closing of Merger with Cyclerion Therapeutics and Previously Announced Private Placement of $380 Million",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358102/0/en/korsana-biosciences-completes-closing-of-merger-with-cyclerion-therapeutics-and-previously-announced-private-placement-of-380-million.html",
+          "published": "Tue, 08 Sep 2026 20:05 GMT"
         },
         {
-          "title": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 04 09 2026 - (CGWL)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357062/0/en/form-8-3-advanced-medical-solutions-group-plc-04-09-2026-cgwl.html",
-          "published": "Mon, 07 Sep 2026 10:22 GMT"
+          "title": "Wawanesa receives regulatory approval to acquire Everest Insurance Company of Canada",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357992/0/en/wawanesa-receives-regulatory-approval-to-acquire-everest-insurance-company-of-canada.html",
+          "published": "Tue, 08 Sep 2026 16:22 GMT"
         },
         {
-          "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357061/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
-          "published": "Mon, 07 Sep 2026 10:22 GMT"
+          "title": "Wawanesa reçoit l’approbation réglementaire pour finaliser l’acquisition de La Compagnie d’assurance Everest du Canada",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357992/0/fr/wawanesa-re%C3%A7oit-l-approbation-r%C3%A9glementaire-pour-finaliser-l-acquisition-de-la-compagnie-d-assurance-everest-du-canada.html",
+          "published": "Tue, 08 Sep 2026 16:22 GMT"
         },
         {
-          "title": "Man Group PLC : Form 8.3 - Rotork plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357060/0/en/man-group-plc-form-8-3-rotork-plc.html",
-          "published": "Mon, 07 Sep 2026 10:20 GMT"
+          "title": "KIC Realty Announces Merger with AI Technology Company Brewpilot",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357926/0/en/kic-realty-announces-merger-with-ai-technology-company-brewpilot.html",
+          "published": "Tue, 08 Sep 2026 15:01 GMT"
         },
         {
-          "title": "Man Group PLC : Form 8.3 - Senior plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357059/0/en/man-group-plc-form-8-3-senior-plc.html",
-          "published": "Mon, 07 Sep 2026 10:18 GMT"
+          "title": "Cloud5 Communications Acquiring interTouch CALA",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357923/0/en/cloud5-communications-acquiring-intertouch-cala.html",
+          "published": "Tue, 08 Sep 2026 15:00 GMT"
         },
         {
-          "title": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357032/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
-          "published": "Mon, 07 Sep 2026 09:20 GMT"
+          "title": "Zaigo Launches Engineering-Led AI Due Diligence for Private Equity Investors",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357816/0/en/zaigo-launches-engineering-led-ai-due-diligence-for-private-equity-investors.html",
+          "published": "Tue, 08 Sep 2026 14:00 GMT"
         },
         {
-          "title": "International Petroleum Corporation Announces Results of  Normal Course Issuer Bid",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3357026/0/en/international-petroleum-corporation-announces-results-of-normal-course-issuer-bid.html",
-          "published": "Mon, 07 Sep 2026 09:00 GMT"
+          "title": "Form 8.3 -DCC plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357810/0/en/form-8-3-dcc-plc.html",
+          "published": "Tue, 08 Sep 2026 13:57 GMT"
+        },
+        {
+          "title": "QEP Acquires Spray-Lock®, Expanding Its Adhesives Manufacturing Platform",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357748/9111/en/qep-acquires-spray-lock-expanding-its-adhesives-manufacturing-platform.html",
+          "published": "Tue, 08 Sep 2026 13:13 GMT"
+        },
+        {
+          "title": "Decisiv Closes KEA Advisors Acquisition, Expanding Performance as a Platform",
+          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357734/0/en/decisiv-closes-kea-advisors-acquisition-expanding-performance-as-a-platform.html",
+          "published": "Tue, 08 Sep 2026 13:00 GMT"
         }
       ]
     },
