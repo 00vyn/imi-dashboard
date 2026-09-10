@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T08:59:03+00:00",
+  "generated_at": "2026-09-10T08:58:08+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -125,6 +125,11 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "Christine Lagarde: The choice facing Europeans",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+          "published": "Wed, 09 Sep 2026 19:00:00 +0200"
+        },
+        {
           "title": "Frank Elderson: Fireside chat",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
           "published": "Tue, 08 Sep 2026 17:00:00 +0200"
@@ -193,11 +198,6 @@
           "title": "Digital euro app to incorporate highest accessibility standards",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
           "published": "Thu, 30 Jul 2026 10:00:00 +0200"
-        },
-        {
-          "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-          "published": "Wed, 29 Jul 2026 10:00:00 +0200"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
-          "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-          "published": "Wed, 09 Sep 2026 08:31:00 GMT"
+          "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+          "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+          "published": "Thu, 10 Sep 2026 08:47:00 GMT"
         },
         {
-          "title": "Brent crude reaches $100 as war in Iran intensifies",
-          "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-          "published": "Wed, 09 Sep 2026 08:27:00 GMT"
+          "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+          "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+          "published": "Thu, 10 Sep 2026 07:29:00 GMT"
         },
         {
-          "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
-          "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-          "published": "Wed, 09 Sep 2026 07:42:00 GMT"
+          "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+          "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+          "published": "Thu, 10 Sep 2026 03:00:00 GMT"
         },
         {
-          "title": "How to create a ‘forever paycheck’ without paying for an annuity",
-          "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-          "published": "Wed, 09 Sep 2026 02:20:00 GMT"
+          "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+          "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+          "published": "Thu, 10 Sep 2026 02:04:00 GMT"
         },
         {
-          "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
-          "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-          "published": "Wed, 09 Sep 2026 00:17:00 GMT"
+          "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+          "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 22:51:00 GMT"
         },
         {
-          "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
-          "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 22:50:00 GMT"
+          "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+          "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 22:30:00 GMT"
+        },
+        {
+          "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
+          "link": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 22:21:00 GMT"
+        },
+        {
+          "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+          "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 22:00:00 GMT"
+        },
+        {
+          "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
+          "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+          "published": "Wed, 09 Sep 2026 21:17:00 GMT"
         },
         {
           "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
           "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 22:00:00 GMT"
-        },
-        {
-          "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
-          "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 21:51:00 GMT"
-        },
-        {
-          "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-          "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 21:38:00 GMT"
-        },
-        {
-          "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
-          "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-          "published": "Tue, 08 Sep 2026 21:32:00 GMT"
+          "published": "Wed, 09 Sep 2026 21:16:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Présumé réseau de trafic de cannabis entre Maurice et La Réunion : Kerly L’Intelligent arrêté",
-          "link": "https://ionnews.mu/presume-reseau-de-trafic-de-cannabis-entre-maurice-et-la-reunion-kerly-lintelligent-arrete/",
-          "published": "Wed, 09 Sep 2026 08:47:23 +0000"
+          "title": "[Curepipe] « Ti Lakaz », « baz kas poz » pour les jeunes et les drogués",
+          "link": "https://ionnews.mu/curepipe-ti-lakaz-baz-kas-poz-pour-les-jeunes-et-les-drogues/",
+          "published": "Thu, 10 Sep 2026 01:30:24 +0000"
         },
         {
-          "title": "Vol spectaculaire de tableaux de Renoir sur la Côte d’Azur : la police française traque les cambrioleurs",
-          "link": "https://ionnews.mu/vol-spectaculaire-de-tableaux-de-renoir-sur-la-cote-dazur-la-police-francaise-traque-les-cambrioleurs/",
-          "published": "Wed, 09 Sep 2026 05:43:29 +0000"
+          "title": "Inflation : Quand la hausse des carburants fait grimper l’IPC à 113.4",
+          "link": "https://ionnews.mu/inflation-quand-la-hausse-des-carburants-fait-grimper-lipc-a-113-4/",
+          "published": "Thu, 10 Sep 2026 01:00:05 +0000"
         },
         {
-          "title": "Des informations clés sur la toxicité de l’air après le 11-Septembre gardées secrètes pendant 25 ans",
-          "link": "https://ionnews.mu/des-informations-cles-sur-la-toxicite-de-lair-apres-le-11-septembre-gardees-secretes-pendant-25-ans/",
-          "published": "Wed, 09 Sep 2026 05:40:30 +0000"
+          "title": "Un ex-employé de BlueConnect Ltd arrêté par la FCC pour un préjudice de Rs 3,5 millions",
+          "link": "https://ionnews.mu/un-ex-employe-de-blueconnect-ltd-arrete-par-la-fcc-pour-un-prejudice-de-rs-35-millions/",
+          "published": "Wed, 09 Sep 2026 19:19:50 +0000"
         },
         {
-          "title": "Le conflit entre les États-Unis et le Canada s’envenime : Trump interdit des produits canadiens Éco/Tech",
-          "link": "https://ionnews.mu/le-conflit-entre-les-etats-unis-et-le-canada-senvenime-trump-interdit-des-produits-canadiens-eco-tech/",
-          "published": "Wed, 09 Sep 2026 05:36:37 +0000"
+          "title": "Shrinkflation : Gato Dinosaur, Cheese Curls, La Gomme Burger… Nos snacks préférés ont-ils rétréci ?",
+          "link": "https://ionnews.mu/shrinkflation-gato-dinosaur-cheese-curls-la-gomme-burger-nos-snacks-preferes-ont-ils-retreci/",
+          "published": "Wed, 09 Sep 2026 17:38:00 +0000"
         },
         {
-          "title": "Ballon d’or : Mbappé, Messi, Dembélé nommés, Bonmati absente de la sélection",
-          "link": "https://ionnews.mu/ballon-dor-mbappe-messi-dembele-nommes-bonmati-absente-de-la-selection/",
-          "published": "Wed, 09 Sep 2026 05:31:12 +0000"
+          "title": "Le rapport de la NADC soumis à Navin Ramgoolam",
+          "link": "https://ionnews.mu/le-rapport-de-la-nadc-soumis-a-navin-ramgoolam/",
+          "published": "Wed, 09 Sep 2026 17:19:35 +0000"
         },
         {
-          "title": "Ligue des Champions : le Betis renverse Lille dans un match fou, Manchester City dompte Porto, Dortmund s’offre Villarreal",
-          "link": "https://ionnews.mu/ligue-des-champions-le-betis-renverse-lille-dans-un-match-fou-manchester-city-dompte-porto-dortmund-soffre-villarreal/",
-          "published": "Wed, 09 Sep 2026 05:21:23 +0000"
+          "title": "Danger du deepfake : Quand l’IA usurpe l’identité des capitaines d’industrie",
+          "link": "https://ionnews.mu/danger-du-deepfake-quand-lia-usurpe-lidentite-des-capitaines-dindustrie/",
+          "published": "Wed, 09 Sep 2026 17:04:42 +0000"
         },
         {
-          "title": "De la suspicion à la détention : Où est la limite ?",
-          "link": "https://ionnews.mu/de-la-suspicion-a-la-detention-ou-est-la-limite/",
-          "published": "Wed, 09 Sep 2026 02:36:20 +0000"
+          "title": "Arrestation d’un peintre : Saisie de 18,5 g et 220 graines de cannabis",
+          "link": "https://ionnews.mu/arrestation-dun-peintre-saisie-de-185-g-et-220-graines-de-cannabis/",
+          "published": "Wed, 09 Sep 2026 15:49:15 +0000"
         },
         {
-          "title": "Maurice : Nos jeunes s’apprêtent-ils vraiment à partir ?",
-          "link": "https://ionnews.mu/maurice-nos-jeunes-sappretent-ils-vraiment-a-partir/",
-          "published": "Wed, 09 Sep 2026 01:00:52 +0000"
+          "title": "En 2025 : L’exportation des primates vivants chiffrée à Rs 5,6 milliards",
+          "link": "https://ionnews.mu/en-2025-lexportation-des-primates-vivants-chiffree-a-rs-56-milliards/",
+          "published": "Wed, 09 Sep 2026 15:38:10 +0000"
         },
         {
-          "title": "[Surdosage d’intrants chimiques] V. P. N., consommatrice : « Legim la fini vinn bouyon dan 2-3 zour »",
-          "link": "https://ionnews.mu/surdosage-dintrants-chimiques-v-p-n-consommatrice-legim-la-fini-vinn-bouyon-dan-2-3-zour/",
-          "published": "Wed, 09 Sep 2026 01:00:18 +0000"
+          "title": "Face aux scandales, la FCC plaide sa cause",
+          "link": "https://ionnews.mu/face-aux-scandales-la-fcc-plaide-sa-cause/",
+          "published": "Wed, 09 Sep 2026 15:16:45 +0000"
         },
         {
-          "title": "Abel Thesée : workshops et challenge autour de l’armwrestling",
-          "link": "https://ionnews.mu/abel-thesee-workshops-et-challenge-autour-de-larmwrestling/",
-          "published": "Tue, 08 Sep 2026 18:47:59 +0000"
+          "title": "Le textile face à la crise : Défis structurels et impératifs de transformation stratégique",
+          "link": "https://ionnews.mu/le-textile-face-a-la-crise-defis-structurels-et-imperatifs-de-transformation-strategique/",
+          "published": "Wed, 09 Sep 2026 14:46:16 +0000"
         },
         {
-          "title": "Déjeuner des enfants : Le casse-tête des parents",
-          "link": "https://ionnews.mu/dejeuner-des-enfants-le-casse-tete-des-parents/",
-          "published": "Tue, 08 Sep 2026 18:15:02 +0000"
+          "title": "486 grammes de cannabis saisis dans un colis postal : Un suspect arrêté",
+          "link": "https://ionnews.mu/486-grammes-de-cannabis-saisis-dans-un-colis-postal-un-suspect-arrete/",
+          "published": "Wed, 09 Sep 2026 11:49:26 +0000"
         },
         {
-          "title": "Travailler jusqu’au burn-out : La nouvelle normalité ?",
-          "link": "https://ionnews.mu/travailler-jusquau-burn-out-la-nouvelle-normalite/",
-          "published": "Tue, 08 Sep 2026 18:06:41 +0000"
+          "title": "Tamarin : « Devil » arrêté avec du cannabis et de la drogue de synthèse",
+          "link": "https://ionnews.mu/tamarin-devil-arrete-avec-du-cannabis-et-de-la-drogue-de-synthese/",
+          "published": "Wed, 09 Sep 2026 11:41:45 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2295.49,
-        "SEM-ASI": 2046.12,
-        "SEMTRI": 11302.5,
-        "SEM10": 437.64
+        "SEMDEX": 2294.86,
+        "SEM-ASI": 2045.56,
+        "SEMTRI": 11299.44,
+        "SEM10": 437.67
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-09",
+            "date": "2026-09-10",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86023
+            "rate": 0.85925
           },
           {
-            "date": "2026-09-09",
+            "date": "2026-09-10",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.73864
+            "rate": 0.73729
           },
           {
-            "date": "2026-09-09",
+            "date": "2026-09-10",
             "base": "USD",
             "quote": "JPY",
-            "rate": 154.38
+            "rate": 153.8
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 08 09 2026] - (CGWL)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358377/0/en/form-8-3-advanced-medical-solutions-group-plc-08-09-2026-cgwl.html",
-          "published": "Wed, 09 Sep 2026 08:57 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - STHREE PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359244/0/en/dimensional-fund-advisors-ltd-form-8-3-sthree-plc-ordinary-shares.html",
+          "published": "Thu, 10 Sep 2026 08:48 GMT"
         },
         {
-          "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358357/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Wed, 09 Sep 2026 08:20 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359243/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+          "published": "Thu, 10 Sep 2026 08:45 GMT"
         },
         {
-          "title": "Form 8.5 (EPT/RI) - Alternative Income REIT Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358354/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
-          "published": "Wed, 09 Sep 2026 08:18 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359242/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+          "published": "Thu, 10 Sep 2026 08:44 GMT"
         },
         {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358341/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-          "published": "Wed, 09 Sep 2026 07:39 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359241/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+          "published": "Thu, 10 Sep 2026 08:43 GMT"
         },
         {
           "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358340/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
-          "published": "Wed, 09 Sep 2026 07:37 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359240/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+          "published": "Thu, 10 Sep 2026 08:41 GMT"
         },
         {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358339/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-          "published": "Wed, 09 Sep 2026 07:36 GMT"
+          "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 09 09 2026] - (CGWL)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359237/0/en/form-8-3-advanced-medical-solutions-group-plc-09-09-2026-cgwl.html",
+          "published": "Thu, 10 Sep 2026 08:07 GMT"
         },
         {
-          "title": "Finch Completes Strategic Merger to Build AI Commercialization Infrastructure Simultaneously Announces Close of Pre-A Funding Round",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358323/0/en/finch-completes-strategic-merger-to-build-ai-commercialization-infrastructure-simultaneously-announces-close-of-pre-a-funding-round.html",
-          "published": "Wed, 09 Sep 2026 06:58 GMT"
+          "title": "Form 8.3 - [APTITUDE SOFTWARE GROUP PLC - 09 09 2026] - (CGAML)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359236/0/en/form-8-3-aptitude-software-group-plc-09-09-2026-cgaml.html",
+          "published": "Thu, 10 Sep 2026 08:04 GMT"
         },
         {
-          "title": "Cimplifi Expands UK Presence with Appointment of Cheza Ross as Director, Business Development",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358309/0/en/cimplifi-expands-uk-presence-with-appointment-of-cheza-ross-as-director-business-development.html",
-          "published": "Wed, 09 Sep 2026 06:00 GMT"
+          "title": "ISMG Acquires INE to Advance Global Cyber Readiness Across Every Discipline and Role",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358916/0/en/ismg-acquires-ine-to-advance-global-cyber-readiness-across-every-discipline-and-role.html",
+          "published": "Wed, 09 Sep 2026 15:51 GMT"
         },
         {
-          "title": "Early Warning Press Release Regarding Acquisition of Common Shares in Carbon Streaming Corporation by Marin Katusa",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358268/0/en/early-warning-press-release-regarding-acquisition-of-common-shares-in-carbon-streaming-corporation-by-marin-katusa.html",
-          "published": "Wed, 09 Sep 2026 00:50 GMT"
+          "title": "Zenta Group Company Limited Announces Agreement to Acquire ZentoAI Intelligent Technology Company Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358895/0/en/zenta-group-company-limited-announces-agreement-to-acquire-zentoai-intelligent-technology-company-limited.html",
+          "published": "Wed, 09 Sep 2026 15:30 GMT"
         },
         {
-          "title": "ISP Global Capital: Fort Technology Reports Record Revenue Growth and Closes Logia USA Acquisition",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358238/0/en/isp-global-capital-fort-technology-reports-record-revenue-growth-and-closes-logia-usa-acquisition.html",
-          "published": "Tue, 08 Sep 2026 22:02 GMT"
+          "title": "Accumulus Technologies annonce son acquisition par Eir Partners pour accélérer sa prochaine phase de croissance",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358893/0/fr/accumulus-technologies-annonce-son-acquisition-par-eir-partners-pour-acc%C3%A9l%C3%A9rer-sa-prochaine-phase-de-croissance.html",
+          "published": "Wed, 09 Sep 2026 15:23 GMT"
         },
         {
-          "title": "Concentrix Strengthens Enterprise Risk and Compliance Capabilities with Acquisition of CastleHill",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358136/0/en/concentrix-strengthens-enterprise-risk-and-compliance-capabilities-with-acquisition-of-castlehill.html",
-          "published": "Tue, 08 Sep 2026 20:30 GMT"
+          "title": "Accumulus Technologies gibt Übernahme durch Eir Partners zur Beschleunigung der nächsten Wachstumsphase bekannt",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358893/0/de/accumulus-technologies-gibt-%C3%BCbernahme-durch-eir-partners-zur-beschleunigung-der-n%C3%A4chsten-wachstumsphase-bekannt.html",
+          "published": "Wed, 09 Sep 2026 15:23 GMT"
         },
         {
-          "title": "Korsana Biosciences Completes Closing of Merger with Cyclerion Therapeutics and Previously Announced Private Placement of $380 Million",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3358102/0/en/korsana-biosciences-completes-closing-of-merger-with-cyclerion-therapeutics-and-previously-announced-private-placement-of-380-million.html",
-          "published": "Tue, 08 Sep 2026 20:05 GMT"
+          "title": "アキュミュラス・テクノロジーズ、次の成長段階に向けた、アイア・パートナーズによる買収を発表",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358893/0/ja/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%9F%E3%83%A5%E3%83%A9%E3%82%B9-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA-%E6%AC%A1%E3%81%AE%E6%88%90%E9%95%B7%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F-%E3%82%A2%E3%82%A4%E3%82%A2-%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA%E3%81%AB%E3%82%88%E3%82%8B%E8%B2%B7%E5%8F%8E%E3%82%92%E7%99%BA%E8%A1%A8.html",
+          "published": "Wed, 09 Sep 2026 15:23 GMT"
         },
         {
-          "title": "Wawanesa receives regulatory approval to acquire Everest Insurance Company of Canada",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357992/0/en/wawanesa-receives-regulatory-approval-to-acquire-everest-insurance-company-of-canada.html",
-          "published": "Tue, 08 Sep 2026 16:22 GMT"
-        },
-        {
-          "title": "Wawanesa reçoit l’approbation réglementaire pour finaliser l’acquisition de La Compagnie d’assurance Everest du Canada",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357992/0/fr/wawanesa-re%C3%A7oit-l-approbation-r%C3%A9glementaire-pour-finaliser-l-acquisition-de-la-compagnie-d-assurance-everest-du-canada.html",
-          "published": "Tue, 08 Sep 2026 16:22 GMT"
-        },
-        {
-          "title": "KIC Realty Announces Merger with AI Technology Company Brewpilot",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357926/0/en/kic-realty-announces-merger-with-ai-technology-company-brewpilot.html",
-          "published": "Tue, 08 Sep 2026 15:01 GMT"
-        },
-        {
-          "title": "Cloud5 Communications Acquiring interTouch CALA",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357923/0/en/cloud5-communications-acquiring-intertouch-cala.html",
-          "published": "Tue, 08 Sep 2026 15:00 GMT"
-        },
-        {
-          "title": "Zaigo Launches Engineering-Led AI Due Diligence for Private Equity Investors",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357816/0/en/zaigo-launches-engineering-led-ai-due-diligence-for-private-equity-investors.html",
-          "published": "Tue, 08 Sep 2026 14:00 GMT"
+          "title": "FG Communities Completes Acquisition in Hendersonville, NC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358869/0/en/fg-communities-completes-acquisition-in-hendersonville-nc.html",
+          "published": "Wed, 09 Sep 2026 14:53 GMT"
         },
         {
           "title": "Form 8.3 -DCC plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357810/0/en/form-8-3-dcc-plc.html",
-          "published": "Tue, 08 Sep 2026 13:57 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358852/0/en/form-8-3-dcc-plc.html",
+          "published": "Wed, 09 Sep 2026 14:30 GMT"
         },
         {
-          "title": "QEP Acquires Spray-Lock®, Expanding Its Adhesives Manufacturing Platform",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357748/9111/en/qep-acquires-spray-lock-expanding-its-adhesives-manufacturing-platform.html",
-          "published": "Tue, 08 Sep 2026 13:13 GMT"
+          "title": "H1 Acquires Defacto Health to Strengthen Provider Network Intelligence",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358701/0/en/h1-acquires-defacto-health-to-strengthen-provider-network-intelligence.html",
+          "published": "Wed, 09 Sep 2026 13:00 GMT"
         },
         {
-          "title": "Decisiv Closes KEA Advisors Acquisition, Expanding Performance as a Platform",
-          "link": "https://www.globenewswire.com/news-release/2026/09/08/3357734/0/en/decisiv-closes-kea-advisors-acquisition-expanding-performance-as-a-platform.html",
-          "published": "Tue, 08 Sep 2026 13:00 GMT"
+          "title": "Traver Strategic Holdings Acquires Apprio and Launches Varetis, Inc.",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358725/0/en/traver-strategic-holdings-acquires-apprio-and-launches-varetis-inc.html",
+          "published": "Wed, 09 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "DCG Identifies and Unlocks Off-Market Dealership Acquisitions That Fit Buyers’ Growth Strategies, Even in the Most Competitive Markets",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358740/0/en/dcg-identifies-and-unlocks-off-market-dealership-acquisitions-that-fit-buyers-growth-strategies-even-in-the-most-competitive-markets.html",
+          "published": "Wed, 09 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "Danforth Health Acquires Ambit, Expanding its Integrated Capabilities Across the Rare and Specialty Disease Product Lifecycle",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358634/0/en/danforth-health-acquires-ambit-expanding-its-integrated-capabilities-across-the-rare-and-specialty-disease-product-lifecycle.html",
+          "published": "Wed, 09 Sep 2026 12:30 GMT"
+        },
+        {
+          "title": "Form 8.3 - Brave Bison Group Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358629/0/en/form-8-3-brave-bison-group-plc.html",
+          "published": "Wed, 09 Sep 2026 12:23 GMT"
+        },
+        {
+          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358620/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+          "published": "Wed, 09 Sep 2026 12:12 GMT"
         }
       ]
     },
@@ -596,6 +596,16 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Recover™ Names Enes Adak and Fehmi Yüksel as Co-CEOs to Accelerate Its Next Growth Phase",
+          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359201/0/en/recover-names-enes-adak-and-fehmi-y%C3%BCksel-as-co-ceos-to-accelerate-its-next-growth-phase.html",
+          "published": "Thu, 10 Sep 2026 06:41 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358455/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-2-etfs.html",
+          "published": "Wed, 09 Sep 2026 10:55 GMT"
+        },
         {
           "title": "Infrastructure the Digital Economy Cannot Replace: US Capital Global Securities Announces $41 Million Offering for Willamette Intermodal Group",
           "link": "https://www.globenewswire.com/news-release/2026/09/07/3356939/0/en/infrastructure-the-digital-economy-cannot-replace-us-capital-global-securities-announces-41-million-offering-for-willamette-intermodal-group.html",
@@ -685,16 +695,6 @@
           "title": "YieldMax® ETFs Announces Distributions on MSST, NVIT, and TEST",
           "link": "https://www.globenewswire.com/news-release/2026/08/31/3353152/0/en/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test.html",
           "published": "Mon, 31 Aug 2026 10:55 GMT"
-        },
-        {
-          "title": "Creative Capital Announces Appointment of Sam Keisner as Partner",
-          "link": "https://www.globenewswire.com/news-release/2026/08/27/3352455/0/en/creative-capital-announces-appointment-of-sam-keisner-as-partner.html",
-          "published": "Thu, 27 Aug 2026 22:26 GMT"
-        },
-        {
-          "title": "Defiance Launches PRAM, the First U.S.-Listed ETF to Combine Memory and Photonics*",
-          "link": "https://www.globenewswire.com/news-release/2026/08/27/3352056/0/en/defiance-launches-pram-the-first-u-s-listed-etf-to-combine-memory-and-photonics.html",
-          "published": "Thu, 27 Aug 2026 13:00 GMT"
         }
       ]
     }
