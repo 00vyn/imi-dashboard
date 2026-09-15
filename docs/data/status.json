@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T09:54:25+00:00",
+  "generated_at": "2026-09-15T09:28:57+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -38,9 +38,8 @@
       "kind": "feed",
       "region": "MU",
       "tier": 3,
-      "status": "ok",
-      "fetched_url": "https://ionnews.mu/feed/",
-      "robots": "allowed by robots.txt"
+      "status": "error",
+      "message": "HTTP 403"
     },
     {
       "id": "bom-feed",
@@ -58,9 +57,8 @@
       "kind": "html",
       "region": "MU",
       "tier": 1,
-      "status": "ok",
-      "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
-      "robots": "allowed by robots.txt"
+      "status": "error",
+      "message": "invalid or missing values: SEMDEX, SEM-ASI, SEMTRI"
     },
     {
       "id": "sem-announcements",
