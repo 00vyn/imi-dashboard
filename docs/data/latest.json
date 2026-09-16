@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T09:28:57+00:00",
+  "generated_at": "2026-09-16T09:19:22+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -125,6 +125,11 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+          "published": "Wed, 16 Sep 2026 10:00:00 +0200"
+        },
+        {
           "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
           "published": "Mon, 14 Sep 2026 17:15:00 +0200"
@@ -193,11 +198,6 @@
           "title": "Meeting of 22-23 July 2026",
           "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
           "published": "Thu, 27 Aug 2026 13:30:00 +0200"
-        },
-        {
-          "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-          "published": "Wed, 26 Aug 2026 12:15:00 +0200"
         }
       ]
     },
@@ -212,54 +212,126 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-          "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 09:15:00 GMT"
+          "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+          "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 09:15:00 GMT"
         },
         {
-          "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
-          "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 09:05:00 GMT"
+          "title": "What history says about longer-term bond yields after the first Fed hike",
+          "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 09:11:00 GMT"
         },
         {
-          "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-          "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 07:29:00 GMT"
+          "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+          "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 08:26:00 GMT"
         },
         {
-          "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-          "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 00:15:00 GMT"
+          "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+          "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 23:09:00 GMT"
         },
         {
           "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
           "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 00:01:00 GMT"
+          "published": "Tue, 15 Sep 2026 22:15:00 GMT"
         },
         {
-          "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-          "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-          "published": "Mon, 14 Sep 2026 23:19:00 GMT"
+          "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+          "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 22:00:00 GMT"
         },
         {
-          "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-          "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-          "published": "Mon, 14 Sep 2026 21:57:00 GMT"
+          "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+          "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 21:40:00 GMT"
         },
         {
-          "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-          "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-          "published": "Mon, 14 Sep 2026 21:31:00 GMT"
+          "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+          "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 21:34:00 GMT"
         },
         {
-          "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-          "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-          "published": "Mon, 14 Sep 2026 21:11:00 GMT"
+          "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+          "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 21:15:00 GMT"
         },
         {
-          "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-          "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-          "published": "Mon, 14 Sep 2026 21:11:00 GMT"
+          "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+          "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+          "published": "Tue, 15 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "ionnews",
+      "name": "ION News",
+      "kind": "feed",
+      "region": "MU",
+      "tier": 3,
+      "status": "ok",
+      "fetched_url": "https://ionnews.mu/feed/",
+      "robots": "allowed by robots.txt",
+      "items": [
+        {
+          "title": "Goodlands : Agressé, un mécanicien de 21 ans finit nu devant un supermarché",
+          "link": "https://ionnews.mu/goodlands-agresse-un-mecanicien-de-21-ans-finit-nu-devant-un-supermarche/",
+          "published": "Wed, 16 Sep 2026 09:16:10 +0000"
+        },
+        {
+          "title": "La-Gaulette : 243 plantes de cannabis saisies sur un terrain abandonné",
+          "link": "https://ionnews.mu/la-gaulette-243-plantes-de-cannabis-saisies-sur-un-terrain-abandonne/",
+          "published": "Wed, 16 Sep 2026 09:09:46 +0000"
+        },
+        {
+          "title": "Batterie-Cassée : Un homme de 24 ans arrêté avec du cannabis et de l’héroïne",
+          "link": "https://ionnews.mu/batterie-cassee-un-homme-de-24-ans-arrete-avec-du-cannabis-et-de-lheroine/",
+          "published": "Wed, 16 Sep 2026 09:03:14 +0000"
+        },
+        {
+          "title": "DBM : coup de massue à 4,75 % C’est un coup de massue pour les femmes chefs d’entreprise à Maurice",
+          "link": "https://ionnews.mu/dbm-coup-de-massue-a-475-cest-un-coup-de-massue-pour-les-femmes-chefs-dentreprise-a-maurice/",
+          "published": "Wed, 16 Sep 2026 08:14:46 +0000"
+        },
+        {
+          "title": "Diversification économique : entre opportunités high-tech et risques d’exclusion sociale",
+          "link": "https://ionnews.mu/diversification-economique-entre-opportunites-high-tech-et-risques-dexclusion-sociale/",
+          "published": "Wed, 16 Sep 2026 01:00:29 +0000"
+        },
+        {
+          "title": "Ganesh Chaturthi : la tradition de couper les cocos, les mélanger avec du sucre et les partager",
+          "link": "https://ionnews.mu/ganesh-chaturthi-la-tradition-de-couper-les-cocos-les-melanger-avec-du-sucre-et-les-partager/",
+          "published": "Tue, 15 Sep 2026 10:34:45 +0000"
+        },
+        {
+          "title": "Voiture : combien coûte vraiment une année au volant ?",
+          "link": "https://ionnews.mu/voiture-combien-coute-vraiment-une-annee-au-volant/",
+          "published": "Tue, 15 Sep 2026 10:24:28 +0000"
+        },
+        {
+          "title": "Galaxy ferme à Vacoas Square : une enseigne baisse le rideau",
+          "link": "https://ionnews.mu/galaxy-ferme-a-vacoas-square-une-enseigne-baisse-le-rideau/",
+          "published": "Tue, 15 Sep 2026 10:06:29 +0000"
+        },
+        {
+          "title": "Thaïlande : de 60 jours à 15 jours sans visa pour les Mauriciens",
+          "link": "https://ionnews.mu/thailande-de-60-jours-a-15-jours-sans-visa-pour-les-mauriciens/",
+          "published": "Tue, 15 Sep 2026 08:33:45 +0000"
+        },
+        {
+          "title": "Brain drain, brain gain, brain circulation : où vont les cerveaux mauriciens ?",
+          "link": "https://ionnews.mu/brain-drain-brain-gain-brain-circulation-ou-vont-les-cerveaux-mauriciens/",
+          "published": "Tue, 15 Sep 2026 08:25:34 +0000"
+        },
+        {
+          "title": "[FCC-Scandale PMO 350 M]  Un comité parlementaire aux abonnés absents ?",
+          "link": "https://ionnews.mu/fcc-scandale-pmo-350-m-un-comite-parlementaire-aux-abonnes-absents/",
+          "published": "Tue, 15 Sep 2026 02:19:34 +0000"
+        },
+        {
+          "title": "Pensions record vs Écoles en panne : Maurice fait-elle fausse route pour son avenir ?",
+          "link": "https://ionnews.mu/pensions-record-vs-ecoles-en-panne-maurice-fait-elle-fausse-route-pour-son-avenir/",
+          "published": "Tue, 15 Sep 2026 01:00:53 +0000"
         }
       ]
     },
@@ -326,6 +398,22 @@
       ]
     },
     {
+      "id": "sem-indices",
+      "name": "SEM indices",
+      "kind": "html",
+      "region": "MU",
+      "tier": 1,
+      "status": "ok",
+      "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
+      "robots": "allowed by robots.txt",
+      "values": {
+        "SEMDEX": 2305.37,
+        "SEM-ASI": 2054.61,
+        "SEMTRI": 11351.18,
+        "SEM10": 440.12
+      }
+    },
+    {
       "id": "sem-announcements",
       "name": "SEM announcements",
       "kind": "html",
@@ -366,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-15",
+            "date": "2026-09-16",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86447
+            "rate": 0.86582
           },
           {
-            "date": "2026-09-15",
+            "date": "2026-09-16",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74021
+            "rate": 0.74111
           },
           {
-            "date": "2026-09-15",
+            "date": "2026-09-16",
             "base": "USD",
             "quote": "JPY",
-            "rate": 154.38
+            "rate": 154.85
           }
         ]
       }
@@ -397,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Nordic Climate Group expands Dutch offering with Bakker Vakkeuken",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361775/0/en/nordic-climate-group-expands-dutch-offering-with-bakker-vakkeuken.html",
-          "published": "Tue, 15 Sep 2026 08:59 GMT"
+          "title": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 15 09 2026 - (CGWL)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362954/0/en/form-8-3-advanced-medical-solutions-group-plc-15-09-2026-cgwl.html",
+          "published": "Wed, 16 Sep 2026 09:08 GMT"
         },
         {
-          "title": "Nordic Climate Group breidt Nederlands aanbod uit met Bakker Vakkeuken",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361775/0/nl/nordic-climate-group-breidt-nederlands-aanbod-uit-met-bakker-vakkeuken.html",
-          "published": "Tue, 15 Sep 2026 08:59 GMT"
-        },
-        {
-          "title": "Nordic Climate Group växer i Nederländerna med Bakker Vakkeuken",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361775/0/sv/nordic-climate-group-v%C3%A4xer-i-nederl%C3%A4nderna-med-bakker-vakkeuken.html",
-          "published": "Tue, 15 Sep 2026 08:59 GMT"
-        },
-        {
-          "title": "Form 8.3 - Sthree Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361770/0/en/form-8-3-sthree-plc.html",
-          "published": "Tue, 15 Sep 2026 08:58 GMT"
-        },
-        {
-          "title": "Form 8.3 - Rotork plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361765/0/en/form-8-3-rotork-plc.html",
-          "published": "Tue, 15 Sep 2026 08:53 GMT"
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362928/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+          "published": "Wed, 16 Sep 2026 08:47 GMT"
         },
         {
           "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361744/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
-          "published": "Tue, 15 Sep 2026 08:36 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362926/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+          "published": "Wed, 16 Sep 2026 08:46 GMT"
         },
         {
           "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361742/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-          "published": "Tue, 15 Sep 2026 08:35 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362923/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+          "published": "Wed, 16 Sep 2026 08:45 GMT"
         },
         {
-          "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 14 09 2026] - (CGWL)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361717/0/en/form-8-3-advanced-medical-solutions-group-plc-14-09-2026-cgwl.html",
-          "published": "Tue, 15 Sep 2026 08:16 GMT"
+          "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362916/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+          "published": "Wed, 16 Sep 2026 08:40 GMT"
         },
         {
           "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361713/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Tue, 15 Sep 2026 08:15 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362913/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Wed, 16 Sep 2026 08:38 GMT"
         },
         {
-          "title": "Increase of share capital in connection with the share option programme and subscription results",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361680/0/en/increase-of-share-capital-in-connection-with-the-share-option-programme-and-subscription-results.html",
-          "published": "Tue, 15 Sep 2026 07:15 GMT"
+          "title": "S-Pankki Oyj täydentää 16.7.2026 päivättyä tarjousasiakirjaa koskien tekemäänsä vapaaehtoista julkista käteisostotarjousta kaikista Oma Säästöpankki Oyj:n osakkeista",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362864/0/fi/s-pankki-oyj-t%C3%A4ydent%C3%A4%C3%A4-16-7-2026-p%C3%A4iv%C3%A4tty%C3%A4-tarjousasiakirjaa-koskien-tekem%C3%A4%C3%A4ns%C3%A4-vapaaehtoista-julkista-k%C3%A4teisostotarjousta-kaikista-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista.html",
+          "published": "Wed, 16 Sep 2026 07:35 GMT"
         },
         {
-          "title": "Aktsiakapitali suurendamine seoses optsiooniprogrammiga ning märkimistulemused",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361680/0/et/aktsiakapitali-suurendamine-seoses-optsiooniprogrammiga-ning-m%C3%A4rkimistulemused.html",
-          "published": "Tue, 15 Sep 2026 07:15 GMT"
+          "title": "S-Bank Plc supplements the tender offer document dated 16 July 2026 regarding its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362864/0/en/s-bank-plc-supplements-the-tender-offer-document-dated-16-july-2026-regarding-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
+          "published": "Wed, 16 Sep 2026 07:35 GMT"
         },
         {
-          "title": "S-Pankki Oyj on saanut kaikki tarvittavat viranomaishyväksynnät Oma Säästöpankki Oyj:n osakkeista tehdylle vapaaehtoiselle julkiselle käteisostotarjoukselle",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361640/0/fi/s-pankki-oyj-on-saanut-kaikki-tarvittavat-viranomaishyv%C3%A4ksynn%C3%A4t-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista-tehdylle-vapaaehtoiselle-julkiselle-k%C3%A4teisostotarjoukselle.html",
-          "published": "Tue, 15 Sep 2026 05:35 GMT"
+          "title": "ForFarmers expands operations in Poland with acquisition of STW SA",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362830/0/en/forfarmers-expands-operations-in-poland-with-acquisition-of-stw-sa.html",
+          "published": "Wed, 16 Sep 2026 05:30 GMT"
         },
         {
-          "title": "S-Bank Plc has received all necessary regulatory approvals for its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361640/0/en/s-bank-plc-has-received-all-necessary-regulatory-approvals-for-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
-          "published": "Tue, 15 Sep 2026 05:35 GMT"
+          "title": "ForFarmers breidt activiteiten in Polen uit met overname STW SA",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362830/0/nl/forfarmers-breidt-activiteiten-in-polen-uit-met-overname-stw-sa.html",
+          "published": "Wed, 16 Sep 2026 05:30 GMT"
         },
         {
-          "title": "Kitron ASA - Initiation of share buyback program",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361639/0/en/kitron-asa-initiation-of-share-buyback-program.html",
-          "published": "Tue, 15 Sep 2026 05:30 GMT"
+          "title": "Brookfield Agrees to Acquire Reliance Worldwide Corporation",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362788/0/en/brookfield-agrees-to-acquire-reliance-worldwide-corporation.html",
+          "published": "Tue, 15 Sep 2026 23:31 GMT"
         },
         {
-          "title": "Veracyte Acquires Convergent Genomics, Expanding its Urology Diagnostics Portfolio with a Urinary Tumor DNA Testing Platform",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361535/0/en/veracyte-acquires-convergent-genomics-expanding-its-urology-diagnostics-portfolio-with-a-urinary-tumor-dna-testing-platform.html",
-          "published": "Mon, 14 Sep 2026 20:05 GMT"
+          "title": "Signature Aviation Expands Operations at Van Nuys Airport with Acquisition of Castle & Cooke Aviation Services LLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362690/0/en/signature-aviation-expands-operations-at-van-nuys-airport-with-acquisition-of-castle-cooke-aviation-services-llc.html",
+          "published": "Tue, 15 Sep 2026 20:45 GMT"
         },
         {
-          "title": "CTO Realty Growth Expands Into Kansas City Market With Acquisition of Zona Rosa for $63.3 Million",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361537/0/en/cto-realty-growth-expands-into-kansas-city-market-with-acquisition-of-zona-rosa-for-63-3-million.html",
-          "published": "Mon, 14 Sep 2026 20:05 GMT"
+          "title": "Cadillac Mines Corporation Completes Acquisition of Larder Property from Pan American Silver",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362661/0/en/cadillac-mines-corporation-completes-acquisition-of-larder-property-from-pan-american-silver.html",
+          "published": "Tue, 15 Sep 2026 20:25 GMT"
         },
         {
-          "title": "Fnac Darty: Filing with the European Commission of the takeover bid initiated by EP Group for merger control purposes",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361335/0/en/fnac-darty-filing-with-the-european-commission-of-the-takeover-bid-initiated-by-ep-group-for-merger-control-purposes.html",
-          "published": "Mon, 14 Sep 2026 15:45 GMT"
+          "title": "Cadillac Mines Corporation réalise l’acquisition de la propriété Larder auprès de Pan American",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362661/0/fr/cadillac-mines-corporation-r%C3%A9alise-l-acquisition-de-la-propri%C3%A9t%C3%A9-larder-aupr%C3%A8s-de-pan-american.html",
+          "published": "Tue, 15 Sep 2026 20:25 GMT"
         },
         {
-          "title": "Fnac Darty : Notification auprès de la Commission Européenne du projet d'offre publique d'achat initiée par EP Group au titre du contrôle des concentrations",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361335/0/fr/fnac-darty-notification-aupr%C3%A8s-de-la-commission-europ%C3%A9enne-du-projet-d-offre-publique-d-achat-initi%C3%A9e-par-ep-group-au-titre-du-contr%C3%B4le-des-concentrations.html",
-          "published": "Mon, 14 Sep 2026 15:45 GMT"
+          "title": "ZenaTech cierra la 29.ª adquisición de Drones como Servicio, incorporando clientes de los sectores solar y ferroviario con la adquisición de una empresa de topografía de tierras con sede en Georgia y licencias en 17 estados de Estados Unidos",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362597/0/es/zenatech-cierra-la-29-%C2%AA-adquisici%C3%B3n-de-drones-como-servicio-incorporando-clientes-de-los-sectores-solar-y-ferroviario-con-la-adquisici%C3%B3n-de-una-empresa-de-topograf%C3%ADa-de-tierras-con.html",
+          "published": "Tue, 15 Sep 2026 18:43 GMT"
         },
         {
-          "title": "Wellthy Acquires Cleo as Two Leaders Come Together to Create the Singular Platform for Family Care",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361281/0/en/wellthy-acquires-cleo-as-two-leaders-come-together-to-create-the-singular-platform-for-family-care.html",
-          "published": "Mon, 14 Sep 2026 14:45 GMT"
+          "title": "Azuria Water Solutions Announces the Acquisition of Cured-in-Place Pipe (CIPP) Division of Nor-Cal Pipeline Services",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362459/0/en/azuria-water-solutions-announces-the-acquisition-of-cured-in-place-pipe-cipp-division-of-nor-cal-pipeline-services.html",
+          "published": "Tue, 15 Sep 2026 15:19 GMT"
+        },
+        {
+          "title": "Form 8.3 - Brave Bison Group Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362444/0/en/form-8-3-brave-bison-group-plc.html",
+          "published": "Tue, 15 Sep 2026 15:05 GMT"
+        },
+        {
+          "title": "Form 8.3 - Ramsdens Holdings Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362438/0/en/form-8-3-ramsdens-holdings-plc.html",
+          "published": "Tue, 15 Sep 2026 15:03 GMT"
         },
         {
           "title": "Davidson Kempner Capital Management LP : Form 8.3 - DCC plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/14/3361253/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-plc.html",
-          "published": "Mon, 14 Sep 2026 14:20 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362349/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-plc.html",
+          "published": "Tue, 15 Sep 2026 14:20 GMT"
+        },
+        {
+          "title": "GTIA Acquires The ASCII Group, Broadening its Industry Reach and Impact Across the IT Channel",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362322/0/en/gtia-acquires-the-ascii-group-broadening-its-industry-reach-and-impact-across-the-it-channel.html",
+          "published": "Tue, 15 Sep 2026 14:03 GMT"
         }
       ]
     },
@@ -508,6 +596,11 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/15/3361879/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
+          "published": "Tue, 15 Sep 2026 10:55 GMT"
+        },
         {
           "title": "Circular, the new independent firm founded by Spanish fund managers Pablo Cano and Álvaro Sanmartín, launches with more than 175 million euros under management",
           "link": "https://www.globenewswire.com/news-release/2026/09/15/3361667/0/en/circular-the-new-independent-firm-founded-by-spanish-fund-managers-pablo-cano-and-%C3%A1lvaro-sanmart%C3%ADn-launches-with-more-than-175-million-euros-under-management.html",
@@ -602,11 +695,6 @@
           "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces its Net Asset Value and Asset Coverage Ratios as of August 31, 2026",
           "link": "https://www.globenewswire.com/news-release/2026/09/02/3355594/0/en/kayne-anderson-energy-infrastructure-fund-provides-unaudited-balance-sheet-information-and-announces-its-net-asset-value-and-asset-coverage-ratios-as-of-august-31-2026.html",
           "published": "Wed, 02 Sep 2026 23:45 GMT"
-        },
-        {
-          "title": "Westwood Announces Monthly Income Distributions for Westwood Salient Enhanced Midstream Income ETF (MDST),Westwood Salient Enhanced Energy Income ETF (WEEI) and Westwood Enhanced Income Opportunity (YLDW)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/02/3355056/0/en/westwood-announces-monthly-income-distributions-for-westwood-salient-enhanced-midstream-income-etf-mdst-westwood-salient-enhanced-energy-income-etf-weei-and-westwood-enhanced-incom.html",
-          "published": "Wed, 02 Sep 2026 12:00 GMT"
         }
       ]
     }
