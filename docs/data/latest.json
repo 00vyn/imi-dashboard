@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T09:19:22+00:00",
+  "generated_at": "2026-09-17T09:28:01+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -12,6 +12,16 @@
       "fetched_url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "robots": "robots.txt unavailable",
       "items": [
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+          "published": "Wed, 16 Sep 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+          "published": "Wed, 16 Sep 2026 18:00:00 GMT"
+        },
         {
           "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
@@ -101,16 +111,6 @@
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
           "published": "Wed, 29 Jul 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-          "published": "Thu, 16 Jul 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
-          "published": "Thu, 16 Jul 2026 15:00:00 GMT"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
-          "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 09:15:00 GMT"
+          "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
+          "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 09:16:00 GMT"
         },
         {
-          "title": "What history says about longer-term bond yields after the first Fed hike",
-          "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 09:11:00 GMT"
+          "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+          "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 09:15:00 GMT"
         },
         {
-          "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
-          "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 08:26:00 GMT"
+          "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+          "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 07:50:00 GMT"
         },
         {
-          "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-          "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 23:09:00 GMT"
+          "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+          "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 07:08:00 GMT"
         },
         {
-          "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-          "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 22:15:00 GMT"
+          "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+          "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 23:51:00 GMT"
+        },
+        {
+          "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+          "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 22:25:00 GMT"
+        },
+        {
+          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 22:16:00 GMT"
         },
         {
           "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
           "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 22:00:00 GMT"
+          "published": "Wed, 16 Sep 2026 22:15:00 GMT"
         },
         {
-          "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-          "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 21:40:00 GMT"
+          "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+          "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 21:56:00 GMT"
         },
         {
-          "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-          "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 21:34:00 GMT"
-        },
-        {
-          "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-          "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 21:15:00 GMT"
-        },
-        {
-          "title": "Inflation killed the penny. Now it’s coming for your dollar.",
-          "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-          "published": "Tue, 15 Sep 2026 21:00:00 GMT"
+          "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+          "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+          "published": "Wed, 16 Sep 2026 21:40:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Goodlands : Agressé, un mécanicien de 21 ans finit nu devant un supermarché",
-          "link": "https://ionnews.mu/goodlands-agresse-un-mecanicien-de-21-ans-finit-nu-devant-un-supermarche/",
-          "published": "Wed, 16 Sep 2026 09:16:10 +0000"
+          "title": "Sustainability Bootcamp : Made in Moris lance une formation de cinq jours pour le secteur manufacturier",
+          "link": "https://ionnews.mu/sustainability-bootcamp-made-in-moris-lance-une-formation-de-cinq-jours-pour-le-secteur-manufacturier/",
+          "published": "Thu, 17 Sep 2026 08:49:31 +0000"
         },
         {
-          "title": "La-Gaulette : 243 plantes de cannabis saisies sur un terrain abandonné",
-          "link": "https://ionnews.mu/la-gaulette-243-plantes-de-cannabis-saisies-sur-un-terrain-abandonne/",
-          "published": "Wed, 16 Sep 2026 09:09:46 +0000"
+          "title": "Cour suprême : Condamné à 21 ans de prison pour meurtre, Ricardo Atchiane conteste sa peine",
+          "link": "https://ionnews.mu/cour-supreme-condamne-a-21-ans-de-prison-pour-meurtre-ricardo-atchiane-conteste-sa-peine/",
+          "published": "Thu, 17 Sep 2026 08:49:27 +0000"
         },
         {
-          "title": "Batterie-Cassée : Un homme de 24 ans arrêté avec du cannabis et de l’héroïne",
-          "link": "https://ionnews.mu/batterie-cassee-un-homme-de-24-ans-arrete-avec-du-cannabis-et-de-lheroine/",
-          "published": "Wed, 16 Sep 2026 09:03:14 +0000"
+          "title": "Dans l’enceinte de la Mediclinic de L’Escalier : Un trentenaire arrêté avec 29 doses de drogue synthétique",
+          "link": "https://ionnews.mu/dans-lenceinte-de-la-mediclinic-de-lescalier-un-trentenaire-arrete-avec-29-doses-de-drogue-synthetique/",
+          "published": "Thu, 17 Sep 2026 08:47:59 +0000"
         },
         {
-          "title": "DBM : coup de massue à 4,75 % C’est un coup de massue pour les femmes chefs d’entreprise à Maurice",
-          "link": "https://ionnews.mu/dbm-coup-de-massue-a-475-cest-un-coup-de-massue-pour-les-femmes-chefs-dentreprise-a-maurice/",
-          "published": "Wed, 16 Sep 2026 08:14:46 +0000"
+          "title": "Cambridge : Plus de 21 000 candidats sur la ligne de départ",
+          "link": "https://ionnews.mu/cambridge-plus-de-21-000-candidats-sur-la-ligne-de-depart/",
+          "published": "Thu, 17 Sep 2026 08:44:54 +0000"
         },
         {
-          "title": "Diversification économique : entre opportunités high-tech et risques d’exclusion sociale",
-          "link": "https://ionnews.mu/diversification-economique-entre-opportunites-high-tech-et-risques-dexclusion-sociale/",
-          "published": "Wed, 16 Sep 2026 01:00:29 +0000"
+          "title": "Visa en Australie : Les étudiants ne pourront plus être accompagnés du conjoint ou des enfants",
+          "link": "https://ionnews.mu/visa-en-australie-les-etudiants-ne-pourront-plus-etre-accompagnes-du-conjoint-ou-des-enfants/",
+          "published": "Thu, 17 Sep 2026 08:41:32 +0000"
         },
         {
-          "title": "Ganesh Chaturthi : la tradition de couper les cocos, les mélanger avec du sucre et les partager",
-          "link": "https://ionnews.mu/ganesh-chaturthi-la-tradition-de-couper-les-cocos-les-melanger-avec-du-sucre-et-les-partager/",
-          "published": "Tue, 15 Sep 2026 10:34:45 +0000"
+          "title": "La-Bastille : Trois colis suspects parachutés par-dessus l’enceinte",
+          "link": "https://ionnews.mu/la-bastille-trois-colis-suspects-parachutes-par-dessus-lenceinte/",
+          "published": "Thu, 17 Sep 2026 08:26:22 +0000"
         },
         {
-          "title": "Voiture : combien coûte vraiment une année au volant ?",
-          "link": "https://ionnews.mu/voiture-combien-coute-vraiment-une-annee-au-volant/",
-          "published": "Tue, 15 Sep 2026 10:24:28 +0000"
+          "title": "[FMI] Croissance, dette, inflation : Les finances mauriciennes décortiquées",
+          "link": "https://ionnews.mu/fmi-croissance-dette-inflation-les-finances-mauriciennes-decortiquees/",
+          "published": "Thu, 17 Sep 2026 08:19:28 +0000"
         },
         {
-          "title": "Galaxy ferme à Vacoas Square : une enseigne baisse le rideau",
-          "link": "https://ionnews.mu/galaxy-ferme-a-vacoas-square-une-enseigne-baisse-le-rideau/",
-          "published": "Tue, 15 Sep 2026 10:06:29 +0000"
+          "title": "[PMO] Gopalsingh, 75 ans, rappelé 18 ans après : l’expérience contre la crise",
+          "link": "https://ionnews.mu/pmo-gopalsingh-75-ans-rappele-18-ans-apres-lexperience-contre-la-crise/",
+          "published": "Thu, 17 Sep 2026 05:24:47 +0000"
         },
         {
-          "title": "Thaïlande : de 60 jours à 15 jours sans visa pour les Mauriciens",
-          "link": "https://ionnews.mu/thailande-de-60-jours-a-15-jours-sans-visa-pour-les-mauriciens/",
-          "published": "Tue, 15 Sep 2026 08:33:45 +0000"
+          "title": "PISA 2025 : Maurice affiche des résultats préoccupants en sciences, lecture et mathématiques",
+          "link": "https://ionnews.mu/pisa-2025-maurice-affiche-des-resultats-preoccupants-en-sciences-lecture-et-mathematiques/",
+          "published": "Thu, 17 Sep 2026 02:55:15 +0000"
         },
         {
-          "title": "Brain drain, brain gain, brain circulation : où vont les cerveaux mauriciens ?",
-          "link": "https://ionnews.mu/brain-drain-brain-gain-brain-circulation-ou-vont-les-cerveaux-mauriciens/",
-          "published": "Tue, 15 Sep 2026 08:25:34 +0000"
+          "title": "[Scandale FCC PMO Rs350m] : « La mafia », dit le PM — mais qui a remis la bande ?",
+          "link": "https://ionnews.mu/scandale-fcc-pmo-rs350m-la-mafia-dit-le-pm-mais-qui-a-remis-la-bande/",
+          "published": "Thu, 17 Sep 2026 02:39:01 +0000"
         },
         {
-          "title": "[FCC-Scandale PMO 350 M]  Un comité parlementaire aux abonnés absents ?",
-          "link": "https://ionnews.mu/fcc-scandale-pmo-350-m-un-comite-parlementaire-aux-abonnes-absents/",
-          "published": "Tue, 15 Sep 2026 02:19:34 +0000"
+          "title": "Ken Arian–Sithanen : Les accusations explosives d’Aditi Boolell",
+          "link": "https://ionnews.mu/ken-arian-sithanen-les-accusations-explosives-daditi-boolell/",
+          "published": "Thu, 17 Sep 2026 02:32:13 +0000"
         },
         {
-          "title": "Pensions record vs Écoles en panne : Maurice fait-elle fausse route pour son avenir ?",
-          "link": "https://ionnews.mu/pensions-record-vs-ecoles-en-panne-maurice-fait-elle-fausse-route-pour-son-avenir/",
-          "published": "Tue, 15 Sep 2026 01:00:53 +0000"
+          "title": "CIEL Ferney Trail 2026 : 4 200 participants entre boue, soleil et dépassement de soi",
+          "link": "https://ionnews.mu/ciel-ferney-trail-2026-4-200-participants-entre-boue-soleil-et-depassement-de-soi/",
+          "published": "Wed, 16 Sep 2026 17:04:48 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2305.37,
-        "SEM-ASI": 2054.61,
-        "SEMTRI": 11351.18,
-        "SEM10": 440.12
+        "SEMDEX": 2302.01,
+        "SEM-ASI": 2052.18,
+        "SEMTRI": 11334.61,
+        "SEM10": 439.22
       }
     },
     {
@@ -435,7 +435,7 @@
       "robots": "allowed by robots.txt",
       "values": {
         "KeyRate": 4.75,
-        "OvernightInterbank": 3.4
+        "OvernightInterbank": 16.0
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-16",
+            "date": "2026-09-17",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86582
+            "rate": 0.86632
           },
           {
-            "date": "2026-09-16",
+            "date": "2026-09-17",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74111
+            "rate": 0.74197
           },
           {
-            "date": "2026-09-16",
+            "date": "2026-09-17",
             "base": "USD",
             "quote": "JPY",
-            "rate": 154.85
+            "rate": 155.26
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 15 09 2026 - (CGWL)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362954/0/en/form-8-3-advanced-medical-solutions-group-plc-15-09-2026-cgwl.html",
-          "published": "Wed, 16 Sep 2026 09:08 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362928/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-          "published": "Wed, 16 Sep 2026 08:47 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362926/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
-          "published": "Wed, 16 Sep 2026 08:46 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362923/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-          "published": "Wed, 16 Sep 2026 08:45 GMT"
-        },
-        {
-          "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362916/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-          "published": "Wed, 16 Sep 2026 08:40 GMT"
-        },
-        {
           "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362913/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Wed, 16 Sep 2026 08:38 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363718/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Thu, 17 Sep 2026 07:32 GMT"
         },
         {
-          "title": "S-Pankki Oyj täydentää 16.7.2026 päivättyä tarjousasiakirjaa koskien tekemäänsä vapaaehtoista julkista käteisostotarjousta kaikista Oma Säästöpankki Oyj:n osakkeista",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362864/0/fi/s-pankki-oyj-t%C3%A4ydent%C3%A4%C3%A4-16-7-2026-p%C3%A4iv%C3%A4tty%C3%A4-tarjousasiakirjaa-koskien-tekem%C3%A4%C3%A4ns%C3%A4-vapaaehtoista-julkista-k%C3%A4teisostotarjousta-kaikista-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista.html",
-          "published": "Wed, 16 Sep 2026 07:35 GMT"
+          "title": "Daiwa House to Acquire a Significant Minority Stake in Miller Homes from Apollo Funds",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363702/0/en/daiwa-house-to-acquire-a-significant-minority-stake-in-miller-homes-from-apollo-funds.html",
+          "published": "Thu, 17 Sep 2026 07:00 GMT"
         },
         {
-          "title": "S-Bank Plc supplements the tender offer document dated 16 July 2026 regarding its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362864/0/en/s-bank-plc-supplements-the-tender-offer-document-dated-16-july-2026-regarding-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
-          "published": "Wed, 16 Sep 2026 07:35 GMT"
+          "title": "Wereldhave Belgium sells De Mael retail park in Sint-Kruis (Bruges) and strengthens its financial position",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/en/wereldhave-belgium-sells-de-mael-retail-park-in-sint-kruis-bruges-and-strengthens-its-financial-position.html",
+          "published": "Thu, 17 Sep 2026 05:00 GMT"
         },
         {
-          "title": "ForFarmers expands operations in Poland with acquisition of STW SA",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362830/0/en/forfarmers-expands-operations-in-poland-with-acquisition-of-stw-sa.html",
-          "published": "Wed, 16 Sep 2026 05:30 GMT"
+          "title": "Wereldhave Belgium verkoopt retailpark De Mael in Sint-Kruis (Brugge) en versterkt haar financiële slagkracht.",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/nl/wereldhave-belgium-verkoopt-retailpark-de-mael-in-sint-kruis-brugge-en-versterkt-haar-financi%C3%ABle-slagkracht.html",
+          "published": "Thu, 17 Sep 2026 05:00 GMT"
         },
         {
-          "title": "ForFarmers breidt activiteiten in Polen uit met overname STW SA",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3362830/0/nl/forfarmers-breidt-activiteiten-in-polen-uit-met-overname-stw-sa.html",
-          "published": "Wed, 16 Sep 2026 05:30 GMT"
+          "title": "Wereldhave Belgium cède le retail park De Mael à Sint-Kruis (Bruges) et renforce sa capacité financière",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/fr/wereldhave-belgium-c%C3%A8de-le-retail-park-de-mael-%C3%A0-sint-kruis-bruges-et-renforce-sa-capacit%C3%A9-financi%C3%A8re.html",
+          "published": "Thu, 17 Sep 2026 05:00 GMT"
         },
         {
-          "title": "Brookfield Agrees to Acquire Reliance Worldwide Corporation",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362788/0/en/brookfield-agrees-to-acquire-reliance-worldwide-corporation.html",
-          "published": "Tue, 15 Sep 2026 23:31 GMT"
+          "title": "Roto-Rooter Buys Largest Franchisee Territory",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363551/0/en/roto-rooter-buys-largest-franchisee-territory.html",
+          "published": "Wed, 16 Sep 2026 20:30 GMT"
         },
         {
-          "title": "Signature Aviation Expands Operations at Van Nuys Airport with Acquisition of Castle & Cooke Aviation Services LLC",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362690/0/en/signature-aviation-expands-operations-at-van-nuys-airport-with-acquisition-of-castle-cooke-aviation-services-llc.html",
-          "published": "Tue, 15 Sep 2026 20:45 GMT"
+          "title": "Eurobio Scientific: EB Development, actionnaire majoritaire d’Eurobio Scientific, annonce son intention de déposer une offre publique de retrait suivie d'un retrait obligatoire, au prix de 25,30 € par action",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363433/0/fr/eurobio-scientific-eb-development-actionnaire-majoritaire-d-eurobio-scientific-annonce-son-intention-de-d%C3%A9poser-une-offre-publique-de-retrait-suivie-d-un-retrait-obligatoire-au-pri.html",
+          "published": "Wed, 16 Sep 2026 16:45 GMT"
         },
         {
-          "title": "Cadillac Mines Corporation Completes Acquisition of Larder Property from Pan American Silver",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362661/0/en/cadillac-mines-corporation-completes-acquisition-of-larder-property-from-pan-american-silver.html",
-          "published": "Tue, 15 Sep 2026 20:25 GMT"
+          "title": "Ignitus Recovery Announces Acquisition of AIM Health: Building on a 20-Year Legacy",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363398/0/en/ignitus-recovery-announces-acquisition-of-aim-health-building-on-a-20-year-legacy.html",
+          "published": "Wed, 16 Sep 2026 16:00 GMT"
         },
         {
-          "title": "Cadillac Mines Corporation réalise l’acquisition de la propriété Larder auprès de Pan American",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362661/0/fr/cadillac-mines-corporation-r%C3%A9alise-l-acquisition-de-la-propri%C3%A9t%C3%A9-larder-aupr%C3%A8s-de-pan-american.html",
-          "published": "Tue, 15 Sep 2026 20:25 GMT"
+          "title": "National Advertising Division Finds Qualified Saffron Claim Supported; Recommends Alice Mushrooms Discontinue Zen-X Health Claim",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363342/0/en/national-advertising-division-finds-qualified-saffron-claim-supported-recommends-alice-mushrooms-discontinue-zen-x-health-claim.html",
+          "published": "Wed, 16 Sep 2026 15:00 GMT"
         },
         {
-          "title": "ZenaTech cierra la 29.ª adquisición de Drones como Servicio, incorporando clientes de los sectores solar y ferroviario con la adquisición de una empresa de topografía de tierras con sede en Georgia y licencias en 17 estados de Estados Unidos",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362597/0/es/zenatech-cierra-la-29-%C2%AA-adquisici%C3%B3n-de-drones-como-servicio-incorporando-clientes-de-los-sectores-solar-y-ferroviario-con-la-adquisici%C3%B3n-de-una-empresa-de-topograf%C3%ADa-de-tierras-con.html",
-          "published": "Tue, 15 Sep 2026 18:43 GMT"
+          "title": "TerrAscend Strengthens Leadership Position in New Jersey with Closing of Aunt Mary’s Transaction",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363349/0/en/terrascend-strengthens-leadership-position-in-new-jersey-with-closing-of-aunt-mary-s-transaction.html",
+          "published": "Wed, 16 Sep 2026 15:00 GMT"
         },
         {
-          "title": "Azuria Water Solutions Announces the Acquisition of Cured-in-Place Pipe (CIPP) Division of Nor-Cal Pipeline Services",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362459/0/en/azuria-water-solutions-announces-the-acquisition-of-cured-in-place-pipe-cipp-division-of-nor-cal-pipeline-services.html",
-          "published": "Tue, 15 Sep 2026 15:19 GMT"
+          "title": "Mainstay Raises $18M and Acquires Truelist to Expand AI Infrastructure Across Residential Real Estate",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html",
+          "published": "Wed, 16 Sep 2026 14:31 GMT"
         },
         {
-          "title": "Form 8.3 - Brave Bison Group Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362444/0/en/form-8-3-brave-bison-group-plc.html",
-          "published": "Tue, 15 Sep 2026 15:05 GMT"
+          "title": "Davidson Kempner Capital Management LP : Form 8.3 - DCC PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363315/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-plc.html",
+          "published": "Wed, 16 Sep 2026 14:20 GMT"
         },
         {
-          "title": "Form 8.3 - Ramsdens Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362438/0/en/form-8-3-ramsdens-holdings-plc.html",
-          "published": "Tue, 15 Sep 2026 15:03 GMT"
+          "title": "Form 8.3 -DCC plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363313/0/en/form-8-3-dcc-plc.html",
+          "published": "Wed, 16 Sep 2026 14:19 GMT"
         },
         {
-          "title": "Davidson Kempner Capital Management LP : Form 8.3 - DCC plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362349/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-plc.html",
-          "published": "Tue, 15 Sep 2026 14:20 GMT"
+          "title": "Lahontan Consolidates Ownership of West Santa Fe, Eliminates Royalties, and Adds Strategic New York Canyon Project Through Acquisition of Emergent Metals",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363279/0/en/lahontan-consolidates-ownership-of-west-santa-fe-eliminates-royalties-and-adds-strategic-new-york-canyon-project-through-acquisition-of-emergent-metals.html",
+          "published": "Wed, 16 Sep 2026 13:36 GMT"
         },
         {
-          "title": "GTIA Acquires The ASCII Group, Broadening its Industry Reach and Impact Across the IT Channel",
-          "link": "https://www.globenewswire.com/news-release/2026/09/15/3362322/0/en/gtia-acquires-the-ascii-group-broadening-its-industry-reach-and-impact-across-the-it-channel.html",
-          "published": "Tue, 15 Sep 2026 14:03 GMT"
+          "title": "DSS, Inc. Announces Form F-4 Filing in Connection with Impact Biomedical’s Proposed Business Combination with Zoar Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363263/0/en/dss-inc-announces-form-f-4-filing-in-connection-with-impact-biomedical-s-proposed-business-combination-with-zoar-limited.html",
+          "published": "Wed, 16 Sep 2026 13:25 GMT"
+        },
+        {
+          "title": "Impact Biomedical Inc Announces Filing of Form F-4 Registration Statement in Connection with Proposed Merger with Zoar Ltd. (f/k/a Dr. Ashley’s Limited)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363262/0/en/impact-biomedical-inc-announces-filing-of-form-f-4-registration-statement-in-connection-with-proposed-merger-with-zoar-ltd-f-k-a-dr-ashley-s-limited.html",
+          "published": "Wed, 16 Sep 2026 13:20 GMT"
+        },
+        {
+          "title": "Crunchafi Acquires BUCS Analytics, Adding 150+ Integrations and Expanded CAS Capabilities",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363235/0/en/crunchafi-acquires-bucs-analytics-adding-150-integrations-and-expanded-cas-capabilities.html",
+          "published": "Wed, 16 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "MBody AI Completes Name Change Following Merger and $10 Million Offering",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363182/0/en/mbody-ai-completes-name-change-following-merger-and-10-million-offering.html",
+          "published": "Wed, 16 Sep 2026 12:35 GMT"
+        },
+        {
+          "title": "Asia Broadband Closes $5.5 Million Acquisition of High-Grade Etzatlán Gold and Silver Mine and Targets Q4 Production",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363155/0/en/asia-broadband-closes-5-5-million-acquisition-of-high-grade-etzatl%C3%A1n-gold-and-silver-mine-and-targets-q4-production.html",
+          "published": "Wed, 16 Sep 2026 12:30 GMT"
+        },
+        {
+          "title": "Plains to Acquire Powder River Basin Assets from Silver Creek Midstream",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363117/0/en/plains-to-acquire-powder-river-basin-assets-from-silver-creek-midstream.html",
+          "published": "Wed, 16 Sep 2026 12:00 GMT"
         }
       ]
     },
@@ -596,6 +596,36 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "BlackRock® Canada Announces September Cash Distributions for the iShares® ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363772/0/en/blackrock-canada-announces-september-cash-distributions-for-the-ishares-etfs.html",
+          "published": "Thu, 17 Sep 2026 09:00 GMT"
+        },
+        {
+          "title": "Lime Rock New Energy’s HCP Infrastructure Acquires Holton Concrete Products",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363396/0/en/lime-rock-new-energy-s-hcp-infrastructure-acquires-holton-concrete-products.html",
+          "published": "Wed, 16 Sep 2026 16:00 GMT"
+        },
+        {
+          "title": "Invest in the Future of AI-Driven Real Estate: US Capital Global Securities Announces $33.1 Million Financing Opportunity for Kiteville",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363365/0/en/invest-in-the-future-of-ai-driven-real-estate-us-capital-global-securities-announces-33-1-million-financing-opportunity-for-kiteville.html",
+          "published": "Wed, 16 Sep 2026 15:15 GMT"
+        },
+        {
+          "title": "Herzfeld Credit Income Fund, Inc. Provides August 2026 Net Asset Value Update",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363161/0/en/herzfeld-credit-income-fund-inc-provides-august-2026-net-asset-value-update.html",
+          "published": "Wed, 16 Sep 2026 12:30 GMT"
+        },
+        {
+          "title": "EMXETF Launches China AI ETF, Providing Targeted Exposure to Companies Building China’s AI Ecosystem",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363087/0/en/emxetf-launches-china-ai-etf-providing-targeted-exposure-to-companies-building-china-s-ai-ecosystem.html",
+          "published": "Wed, 16 Sep 2026 12:00 GMT"
+        },
+        {
+          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
+          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363024/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-2-etfs.html",
+          "published": "Wed, 16 Sep 2026 10:55 GMT"
+        },
         {
           "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
           "link": "https://www.globenewswire.com/news-release/2026/09/15/3361879/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
@@ -665,36 +695,6 @@
           "title": "Infrastructure the Digital Economy Cannot Replace: US Capital Global Securities Announces $41 Million Offering for Willamette Intermodal Group",
           "link": "https://www.globenewswire.com/news-release/2026/09/07/3356939/0/en/infrastructure-the-digital-economy-cannot-replace-us-capital-global-securities-announces-41-million-offering-for-willamette-intermodal-group.html",
           "published": "Mon, 07 Sep 2026 02:44 GMT"
-        },
-        {
-          "title": "Zhihu Inc. Announces Proposed Subscription in AI-Focused Investment Fund",
-          "link": "https://www.globenewswire.com/news-release/2026/09/06/3356903/0/en/zhihu-inc-announces-proposed-subscription-in-ai-focused-investment-fund.html",
-          "published": "Sun, 06 Sep 2026 11:32 GMT"
-        },
-        {
-          "title": "Guardian Capital Announces Fund Maturity Date",
-          "link": "https://www.globenewswire.com/news-release/2026/09/04/3356491/0/en/guardian-capital-announces-fund-maturity-date.html",
-          "published": "Fri, 04 Sep 2026 11:00 GMT"
-        },
-        {
-          "title": "Purpose Investments Announces Changes to Certain Investment Funds",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356326/0/en/purpose-investments-announces-changes-to-certain-investment-funds.html",
-          "published": "Thu, 03 Sep 2026 22:06 GMT"
-        },
-        {
-          "title": "Investissements Purpose annonce des changements à certains fonds de placement",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3356326/0/fr/investissements-purpose-annonce-des-changements-%C3%A0-certains-fonds-de-placement.html",
-          "published": "Thu, 03 Sep 2026 22:06 GMT"
-        },
-        {
-          "title": "Cape Fear BioCapital Announces Final Close of Fund I",
-          "link": "https://www.globenewswire.com/news-release/2026/09/03/3355972/0/en/cape-fear-biocapital-announces-final-close-of-fund-i.html",
-          "published": "Thu, 03 Sep 2026 13:00 GMT"
-        },
-        {
-          "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces its Net Asset Value and Asset Coverage Ratios as of August 31, 2026",
-          "link": "https://www.globenewswire.com/news-release/2026/09/02/3355594/0/en/kayne-anderson-energy-infrastructure-fund-provides-unaudited-balance-sheet-information-and-announces-its-net-asset-value-and-asset-coverage-ratios-as-of-august-31-2026.html",
-          "published": "Wed, 02 Sep 2026 23:45 GMT"
         }
       ]
     }
