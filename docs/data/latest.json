@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T09:28:01+00:00",
+  "generated_at": "2026-09-18T09:01:47+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -125,6 +125,16 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "ECB Consumer Expectations Survey results – August 2026",
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+          "published": "Fri, 18 Sep 2026 10:00:00 +0200"
+        },
+        {
+          "title": "Boris Vujčić: Interview with Reuters",
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
+          "published": "Fri, 18 Sep 2026 08:00:00 +0200"
+        },
+        {
           "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
           "published": "Wed, 16 Sep 2026 10:00:00 +0200"
@@ -188,16 +198,6 @@
           "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
           "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
           "published": "Tue, 01 Sep 2026 18:00:00 +0200"
-        },
-        {
-          "title": "Isabel Schnabel: Central banks on-chain",
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-          "published": "Fri, 28 Aug 2026 18:00:00 +0200"
-        },
-        {
-          "title": "Meeting of 22-23 July 2026",
-          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
-          "published": "Thu, 27 Aug 2026 13:30:00 +0200"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
-          "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 09:16:00 GMT"
+          "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+          "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 21:22:00 GMT"
         },
         {
-          "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-          "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 09:15:00 GMT"
+          "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+          "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 21:22:00 GMT"
         },
         {
-          "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
-          "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 07:50:00 GMT"
+          "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+          "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 21:09:00 GMT"
         },
         {
-          "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
-          "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 07:08:00 GMT"
+          "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+          "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 20:23:00 GMT"
         },
         {
-          "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-          "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 23:51:00 GMT"
+          "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+          "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 20:19:00 GMT"
         },
         {
-          "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-          "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 22:25:00 GMT"
+          "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+          "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 20:13:00 GMT"
         },
         {
-          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 22:16:00 GMT"
+          "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+          "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 19:52:00 GMT"
         },
         {
-          "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-          "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 22:15:00 GMT"
+          "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+          "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 19:07:00 GMT"
         },
         {
-          "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
-          "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 21:56:00 GMT"
+          "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+          "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 18:46:00 GMT"
         },
         {
-          "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-          "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-          "published": "Wed, 16 Sep 2026 21:40:00 GMT"
+          "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+          "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+          "published": "Thu, 17 Sep 2026 17:42:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Sustainability Bootcamp : Made in Moris lance une formation de cinq jours pour le secteur manufacturier",
-          "link": "https://ionnews.mu/sustainability-bootcamp-made-in-moris-lance-une-formation-de-cinq-jours-pour-le-secteur-manufacturier/",
-          "published": "Thu, 17 Sep 2026 08:49:31 +0000"
+          "title": "Le ministre Ameer Meea invite les industries à embrasser la transformation numérique",
+          "link": "https://ionnews.mu/le-ministre-ameer-meea-invite-les-industries-a-embrasser-la-transformation-numerique/",
+          "published": "Fri, 18 Sep 2026 05:29:06 +0000"
         },
         {
-          "title": "Cour suprême : Condamné à 21 ans de prison pour meurtre, Ricardo Atchiane conteste sa peine",
-          "link": "https://ionnews.mu/cour-supreme-condamne-a-21-ans-de-prison-pour-meurtre-ricardo-atchiane-conteste-sa-peine/",
-          "published": "Thu, 17 Sep 2026 08:49:27 +0000"
+          "title": "Affaire de l’Azaan à Goodlands : Des documents officiels rétablissent les faits",
+          "link": "https://ionnews.mu/affaire-de-lazaan-a-goodlands-des-documents-officiels-retablissent-les-faits/",
+          "published": "Fri, 18 Sep 2026 02:17:30 +0000"
         },
         {
-          "title": "Dans l’enceinte de la Mediclinic de L’Escalier : Un trentenaire arrêté avec 29 doses de drogue synthétique",
-          "link": "https://ionnews.mu/dans-lenceinte-de-la-mediclinic-de-lescalier-un-trentenaire-arrete-avec-29-doses-de-drogue-synthetique/",
-          "published": "Thu, 17 Sep 2026 08:47:59 +0000"
+          "title": "[Scandale PMO-FCC-Mamy Rs 350 M] Le MMM et la preuve : Une exigence à géométrie variable",
+          "link": "https://ionnews.mu/scandale-pmo-fcc-mamy-rs-350-m-le-mmm-et-la-preuve-une-exigence-a-geometrie-variable/",
+          "published": "Fri, 18 Sep 2026 02:01:36 +0000"
         },
         {
-          "title": "Cambridge : Plus de 21 000 candidats sur la ligne de départ",
-          "link": "https://ionnews.mu/cambridge-plus-de-21-000-candidats-sur-la-ligne-de-depart/",
-          "published": "Thu, 17 Sep 2026 08:44:54 +0000"
+          "title": "Alcool et « mas tranpe » : « The Woods » est plus qu’une « baz frekante »",
+          "link": "https://ionnews.mu/alcool-et-mas-tranpe-the-woods-est-plus-quune-baz-frekante/",
+          "published": "Fri, 18 Sep 2026 01:00:49 +0000"
         },
         {
-          "title": "Visa en Australie : Les étudiants ne pourront plus être accompagnés du conjoint ou des enfants",
-          "link": "https://ionnews.mu/visa-en-australie-les-etudiants-ne-pourront-plus-etre-accompagnes-du-conjoint-ou-des-enfants/",
-          "published": "Thu, 17 Sep 2026 08:41:32 +0000"
+          "title": "Dumpling Squishy : Le nouveau jouet à la mode",
+          "link": "https://ionnews.mu/dumpling-squishy-le-nouveau-jouet-a-la-mode/",
+          "published": "Fri, 18 Sep 2026 01:00:42 +0000"
         },
         {
-          "title": "La-Bastille : Trois colis suspects parachutés par-dessus l’enceinte",
-          "link": "https://ionnews.mu/la-bastille-trois-colis-suspects-parachutes-par-dessus-lenceinte/",
-          "published": "Thu, 17 Sep 2026 08:26:22 +0000"
+          "title": "Pourquoi les jeunes boivent-ils moins ?",
+          "link": "https://ionnews.mu/pourquoi-les-jeunes-boivent-ils-moins/",
+          "published": "Fri, 18 Sep 2026 01:00:27 +0000"
         },
         {
-          "title": "[FMI] Croissance, dette, inflation : Les finances mauriciennes décortiquées",
-          "link": "https://ionnews.mu/fmi-croissance-dette-inflation-les-finances-mauriciennes-decortiquees/",
-          "published": "Thu, 17 Sep 2026 08:19:28 +0000"
+          "title": "Bijoux : Quand l’or laisse place à la fantaisie",
+          "link": "https://ionnews.mu/bijoux-quand-lor-laisse-place-a-la-fantaisie/",
+          "published": "Fri, 18 Sep 2026 01:00:22 +0000"
         },
         {
-          "title": "[PMO] Gopalsingh, 75 ans, rappelé 18 ans après : l’expérience contre la crise",
-          "link": "https://ionnews.mu/pmo-gopalsingh-75-ans-rappele-18-ans-apres-lexperience-contre-la-crise/",
-          "published": "Thu, 17 Sep 2026 05:24:47 +0000"
+          "title": "Khushal Lobine : « Erer piblik morisien fer… ou pa kapav melanz politik ek zafer de leta, kan enn lekip inn eli inn pran gouvernman, ou sapo ou jaket politisien ou met de kote ou bizin diriz pei »",
+          "link": "https://ionnews.mu/khushal-lobine-erer-piblik-morisien-fer-ou-pa-kapav-melanz-politik-ek-zafer-de-leta-kan-enn-lekip-inn-eli-inn-pran-gouvernman-ou-sapo-ou-jaket-politisien-ou-met-de-kote-ou-bizin-diriz-pe/",
+          "published": "Thu, 17 Sep 2026 17:45:09 +0000"
         },
         {
-          "title": "PISA 2025 : Maurice affiche des résultats préoccupants en sciences, lecture et mathématiques",
-          "link": "https://ionnews.mu/pisa-2025-maurice-affiche-des-resultats-preoccupants-en-sciences-lecture-et-mathematiques/",
-          "published": "Thu, 17 Sep 2026 02:55:15 +0000"
+          "title": "D’un achat décevant est née une passion pour le cuir véritable : L’histoire de Sonya Padayachy et Emplette E Retail",
+          "link": "https://ionnews.mu/dun-achat-decevant-est-nee-une-passion-pour-le-cuir-veritable-lhistoire-de-sonya-padayachy-et-emplette-e-retail/",
+          "published": "Thu, 17 Sep 2026 17:41:37 +0000"
         },
         {
-          "title": "[Scandale FCC PMO Rs350m] : « La mafia », dit le PM — mais qui a remis la bande ?",
-          "link": "https://ionnews.mu/scandale-fcc-pmo-rs350m-la-mafia-dit-le-pm-mais-qui-a-remis-la-bande/",
-          "published": "Thu, 17 Sep 2026 02:39:01 +0000"
+          "title": "Curepipe : Une jeune femme arrêtée avec du cannabis, des graines et Rs 60 000",
+          "link": "https://ionnews.mu/curepipe-une-jeune-femme-arretee-avec-du-cannabis-des-graines-et-rs-60-000/",
+          "published": "Thu, 17 Sep 2026 16:27:44 +0000"
         },
         {
-          "title": "Ken Arian–Sithanen : Les accusations explosives d’Aditi Boolell",
-          "link": "https://ionnews.mu/ken-arian-sithanen-les-accusations-explosives-daditi-boolell/",
-          "published": "Thu, 17 Sep 2026 02:32:13 +0000"
+          "title": "Niveau des réservoirs : Mare-aux-Vacoas passe sous la barre des 40 %",
+          "link": "https://ionnews.mu/niveau-des-reservoirs-mare-aux-vacoas-passe-sous-la-barre-des-40/",
+          "published": "Thu, 17 Sep 2026 16:18:08 +0000"
         },
         {
-          "title": "CIEL Ferney Trail 2026 : 4 200 participants entre boue, soleil et dépassement de soi",
-          "link": "https://ionnews.mu/ciel-ferney-trail-2026-4-200-participants-entre-boue-soleil-et-depassement-de-soi/",
-          "published": "Wed, 16 Sep 2026 17:04:48 +0000"
+          "title": "Laura Jaymangal : « Si mo pou nomine parski mo anvi nominn mo kamarad, parski linn donn mwa koudmin pandan campaign, parski linn finans mwa pandan campaign »",
+          "link": "https://ionnews.mu/laura-jaymangal-si-mo-pou-nomine-parski-mo-anvi-nominn-mo-kamarad-parski-linn-donn-mwa-koudmin-pandan-campaign-parski-linn-finans-mwa-pandan-campaign/",
+          "published": "Thu, 17 Sep 2026 15:17:42 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2302.01,
-        "SEM-ASI": 2052.18,
-        "SEMTRI": 11334.61,
-        "SEM10": 439.22
+        "SEMDEX": 2299.04,
+        "SEM-ASI": 2050.53,
+        "SEMTRI": 11320.0,
+        "SEM10": 438.78
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-17",
+            "date": "2026-09-18",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86632
+            "rate": 0.86922
           },
           {
-            "date": "2026-09-17",
+            "date": "2026-09-18",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74197
+            "rate": 0.74621
           },
           {
-            "date": "2026-09-17",
+            "date": "2026-09-18",
             "base": "USD",
             "quote": "JPY",
-            "rate": 155.26
+            "rate": 155.88
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364528/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+          "published": "Fri, 18 Sep 2026 08:28 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364526/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+          "published": "Fri, 18 Sep 2026 08:27 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364525/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+          "published": "Fri, 18 Sep 2026 08:26 GMT"
+        },
+        {
+          "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364519/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+          "published": "Fri, 18 Sep 2026 08:18 GMT"
+        },
+        {
           "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363718/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Thu, 17 Sep 2026 07:32 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364517/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Fri, 18 Sep 2026 08:17 GMT"
         },
         {
-          "title": "Daiwa House to Acquire a Significant Minority Stake in Miller Homes from Apollo Funds",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363702/0/en/daiwa-house-to-acquire-a-significant-minority-stake-in-miller-homes-from-apollo-funds.html",
-          "published": "Thu, 17 Sep 2026 07:00 GMT"
+          "title": "Taboola to Acquire Dianomi, Significantly Bolstering its Ability to Provide Performance Advertisers with a Highly Specialized, Premium Ad Network Focused on Finance, Powered by Taboola’s Performance Advertising Platform Realize",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364493/31297/en/taboola-to-acquire-dianomi-significantly-bolstering-its-ability-to-provide-performance-advertisers-with-a-highly-specialized-premium-ad-network-focused-on-finance-powered-by-tabool.html",
+          "published": "Fri, 18 Sep 2026 08:00 GMT"
         },
         {
-          "title": "Wereldhave Belgium sells De Mael retail park in Sint-Kruis (Bruges) and strengthens its financial position",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/en/wereldhave-belgium-sells-de-mael-retail-park-in-sint-kruis-bruges-and-strengthens-its-financial-position.html",
-          "published": "Thu, 17 Sep 2026 05:00 GMT"
+          "title": "Aptean ajoute une suite logistique de pointe en bout pour le transport routier grâce à l’acquisition de FleetGO, basée en Europe, auprès de Main Capital Partners",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/fr/aptean-ajoute-une-suite-logistique-de-pointe-en-bout-pour-le-transport-routier-gr%C3%A2ce-%C3%A0-l-acquisition-de-fleetgo-bas%C3%A9e-en-europe-aupr%C3%A8s-de-main-capital-partners.html",
+          "published": "Fri, 18 Sep 2026 07:00 GMT"
         },
         {
-          "title": "Wereldhave Belgium verkoopt retailpark De Mael in Sint-Kruis (Brugge) en versterkt haar financiële slagkracht.",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/nl/wereldhave-belgium-verkoopt-retailpark-de-mael-in-sint-kruis-brugge-en-versterkt-haar-financi%C3%ABle-slagkracht.html",
-          "published": "Thu, 17 Sep 2026 05:00 GMT"
+          "title": "Aptean übernimmt FleetGO von Main Capital Partners und erweitert sein Portfolio um eine führende End-to-End-Logistiklösung für den Straßentransport",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/de/aptean-%C3%BCbernimmt-fleetgo-von-main-capital-partners-und-erweitert-sein-portfolio-um-eine-f%C3%BChrende-end-to-end-logistikl%C3%B6sung-f%C3%BCr-den-stra%C3%9Fentransport.html",
+          "published": "Fri, 18 Sep 2026 07:00 GMT"
         },
         {
-          "title": "Wereldhave Belgium cède le retail park De Mael à Sint-Kruis (Bruges) et renforce sa capacité financière",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3363675/0/fr/wereldhave-belgium-c%C3%A8de-le-retail-park-de-mael-%C3%A0-sint-kruis-bruges-et-renforce-sa-capacit%C3%A9-financi%C3%A8re.html",
-          "published": "Thu, 17 Sep 2026 05:00 GMT"
+          "title": "Aptean voegt een toonaangevende end-to-end logistieke suite voor wegtransport toe en neemt het Europese FleetGo over van Main Capital Partners.",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/nl/aptean-voegt-een-toonaangevende-end-to-end-logistieke-suite-voor-wegtransport-toe-en-neemt-het-europese-fleetgo-over-van-main-capital-partners.html",
+          "published": "Fri, 18 Sep 2026 07:00 GMT"
         },
         {
-          "title": "Roto-Rooter Buys Largest Franchisee Territory",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363551/0/en/roto-rooter-buys-largest-franchisee-territory.html",
-          "published": "Wed, 16 Sep 2026 20:30 GMT"
+          "title": "Chairman’s Address to the Scheme Meeting",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364480/0/en/chairman-s-address-to-the-scheme-meeting.html",
+          "published": "Fri, 18 Sep 2026 06:30 GMT"
         },
         {
-          "title": "Eurobio Scientific: EB Development, actionnaire majoritaire d’Eurobio Scientific, annonce son intention de déposer une offre publique de retrait suivie d'un retrait obligatoire, au prix de 25,30 € par action",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363433/0/fr/eurobio-scientific-eb-development-actionnaire-majoritaire-d-eurobio-scientific-annonce-son-intention-de-d%C3%A9poser-une-offre-publique-de-retrait-suivie-d-un-retrait-obligatoire-au-pri.html",
-          "published": "Wed, 16 Sep 2026 16:45 GMT"
+          "title": "Allocution du président du conseil à l'assemblée relative au plan d'arrangement",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364480/0/fr/allocution-du-pr%C3%A9sident-du-conseil-%C3%A0-l-assembl%C3%A9e-relative-au-plan-d-arrangement.html",
+          "published": "Fri, 18 Sep 2026 06:30 GMT"
         },
         {
-          "title": "Ignitus Recovery Announces Acquisition of AIM Health: Building on a 20-Year Legacy",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363398/0/en/ignitus-recovery-announces-acquisition-of-aim-health-building-on-a-20-year-legacy.html",
-          "published": "Wed, 16 Sep 2026 16:00 GMT"
+          "title": "Notice of Second Court Hearing",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364462/0/en/notice-of-second-court-hearing.html",
+          "published": "Fri, 18 Sep 2026 05:12 GMT"
         },
         {
-          "title": "National Advertising Division Finds Qualified Saffron Claim Supported; Recommends Alice Mushrooms Discontinue Zen-X Health Claim",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363342/0/en/national-advertising-division-finds-qualified-saffron-claim-supported-recommends-alice-mushrooms-discontinue-zen-x-health-claim.html",
-          "published": "Wed, 16 Sep 2026 15:00 GMT"
+          "title": "Avis de la deuxième audience devant le tribunal",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364462/0/fr/avis-de-la-deuxi%C3%A8me-audience-devant-le-tribunal.html",
+          "published": "Fri, 18 Sep 2026 05:12 GMT"
         },
         {
-          "title": "TerrAscend Strengthens Leadership Position in New Jersey with Closing of Aunt Mary’s Transaction",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363349/0/en/terrascend-strengthens-leadership-position-in-new-jersey-with-closing-of-aunt-mary-s-transaction.html",
-          "published": "Wed, 16 Sep 2026 15:00 GMT"
+          "title": "Vortex Energy Enters Into Asset Purchase Agreement to Acquire the Meadows Project in Saskatchewan",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364417/0/en/vortex-energy-enters-into-asset-purchase-agreement-to-acquire-the-meadows-project-in-saskatchewan.html",
+          "published": "Thu, 17 Sep 2026 21:30 GMT"
         },
         {
-          "title": "Mainstay Raises $18M and Acquires Truelist to Expand AI Infrastructure Across Residential Real Estate",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363326/0/en/mainstay-raises-18m-and-acquires-truelist-to-expand-ai-infrastructure-across-residential-real-estate.html",
-          "published": "Wed, 16 Sep 2026 14:31 GMT"
+          "title": "Gentherm and Modine Manufacturing Company Announce Additional Information in Connection with Proposed Combination of Gentherm and Modine’s Performance Technologies Business",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364397/0/en/gentherm-and-modine-manufacturing-company-announce-additional-information-in-connection-with-proposed-combination-of-gentherm-and-modine-s-performance-technologies-business.html",
+          "published": "Thu, 17 Sep 2026 20:34 GMT"
         },
         {
-          "title": "Davidson Kempner Capital Management LP : Form 8.3 - DCC PLC",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363315/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-plc.html",
-          "published": "Wed, 16 Sep 2026 14:20 GMT"
+          "title": "NewHold Investment Corp. III Shareholders Approve Business Combination with newcleo plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364368/0/en/newhold-investment-corp-iii-shareholders-approve-business-combination-with-newcleo-plc.html",
+          "published": "Thu, 17 Sep 2026 20:01 GMT"
         },
         {
-          "title": "Form 8.3 -DCC plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363313/0/en/form-8-3-dcc-plc.html",
-          "published": "Wed, 16 Sep 2026 14:19 GMT"
+          "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364157/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+          "published": "Thu, 17 Sep 2026 14:20 GMT"
         },
         {
-          "title": "Lahontan Consolidates Ownership of West Santa Fe, Eliminates Royalties, and Adds Strategic New York Canyon Project Through Acquisition of Emergent Metals",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363279/0/en/lahontan-consolidates-ownership-of-west-santa-fe-eliminates-royalties-and-adds-strategic-new-york-canyon-project-through-acquisition-of-emergent-metals.html",
-          "published": "Wed, 16 Sep 2026 13:36 GMT"
+          "title": "Aptean Adds Leading End-to-End Logistics Suite for Road Transport Through Acquisition of European Based FleetGO from Main Capital Partners",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364132/29866/en/aptean-adds-leading-end-to-end-logistics-suite-for-road-transport-through-acquisition-of-european-based-fleetgo-from-main-capital-partners.html",
+          "published": "Thu, 17 Sep 2026 14:00 GMT"
         },
         {
-          "title": "DSS, Inc. Announces Form F-4 Filing in Connection with Impact Biomedical’s Proposed Business Combination with Zoar Limited",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363263/0/en/dss-inc-announces-form-f-4-filing-in-connection-with-impact-biomedical-s-proposed-business-combination-with-zoar-limited.html",
-          "published": "Wed, 16 Sep 2026 13:25 GMT"
+          "title": "Data Center Pumps Market to Reach USD 7.35 Billion by 2032, at a CAGR of 17.9% — MarketsandMarkets™",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364099/0/en/data-center-pumps-market-to-reach-usd-7-35-billion-by-2032-at-a-cagr-of-17-9-marketsandmarkets.html",
+          "published": "Thu, 17 Sep 2026 13:30 GMT"
         },
         {
-          "title": "Impact Biomedical Inc Announces Filing of Form F-4 Registration Statement in Connection with Proposed Merger with Zoar Ltd. (f/k/a Dr. Ashley’s Limited)",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363262/0/en/impact-biomedical-inc-announces-filing-of-form-f-4-registration-statement-in-connection-with-proposed-merger-with-zoar-ltd-f-k-a-dr-ashley-s-limited.html",
-          "published": "Wed, 16 Sep 2026 13:20 GMT"
-        },
-        {
-          "title": "Crunchafi Acquires BUCS Analytics, Adding 150+ Integrations and Expanded CAS Capabilities",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363235/0/en/crunchafi-acquires-bucs-analytics-adding-150-integrations-and-expanded-cas-capabilities.html",
-          "published": "Wed, 16 Sep 2026 13:00 GMT"
-        },
-        {
-          "title": "MBody AI Completes Name Change Following Merger and $10 Million Offering",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363182/0/en/mbody-ai-completes-name-change-following-merger-and-10-million-offering.html",
-          "published": "Wed, 16 Sep 2026 12:35 GMT"
-        },
-        {
-          "title": "Asia Broadband Closes $5.5 Million Acquisition of High-Grade Etzatlán Gold and Silver Mine and Targets Q4 Production",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363155/0/en/asia-broadband-closes-5-5-million-acquisition-of-high-grade-etzatl%C3%A1n-gold-and-silver-mine-and-targets-q4-production.html",
-          "published": "Wed, 16 Sep 2026 12:30 GMT"
-        },
-        {
-          "title": "Plains to Acquire Powder River Basin Assets from Silver Creek Midstream",
-          "link": "https://www.globenewswire.com/news-release/2026/09/16/3363117/0/en/plains-to-acquire-powder-river-basin-assets-from-silver-creek-midstream.html",
-          "published": "Wed, 16 Sep 2026 12:00 GMT"
+          "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364097/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+          "published": "Thu, 17 Sep 2026 13:29 GMT"
         }
       ]
     },
@@ -596,6 +596,21 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Purpose Investments Inc. Announces September 2026 Distributions",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364416/0/en/purpose-investments-inc-announces-september-2026-distributions.html",
+          "published": "Thu, 17 Sep 2026 21:30 GMT"
+        },
+        {
+          "title": "Investissements Purpose annonce les distributions de septembre 2026",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364416/0/fr/investissements-purpose-annonce-les-distributions-de-septembre-2026.html",
+          "published": "Thu, 17 Sep 2026 21:30 GMT"
+        },
+        {
+          "title": "Unlimited Filed Today to Bring Lower-Cost Liquid Venture Capital to Public Markets",
+          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364159/0/en/unlimited-filed-today-to-bring-lower-cost-liquid-venture-capital-to-public-markets.html",
+          "published": "Thu, 17 Sep 2026 14:20 GMT"
+        },
         {
           "title": "BlackRock® Canada Announces September Cash Distributions for the iShares® ETFs",
           "link": "https://www.globenewswire.com/news-release/2026/09/17/3363772/0/en/blackrock-canada-announces-september-cash-distributions-for-the-ishares-etfs.html",
@@ -680,21 +695,6 @@
           "title": "JPMorgan annonce des distributions en espèces pour les FNB JPMorgan",
           "link": "https://www.globenewswire.com/news-release/2026/09/10/3359346/0/fr/jpmorgan-annonce-des-distributions-en-esp%C3%A8ces-pour-les-fnb-jpmorgan.html",
           "published": "Thu, 10 Sep 2026 11:00 GMT"
-        },
-        {
-          "title": "Recover™ Names Enes Adak and Fehmi Yüksel as Co-CEOs to Accelerate Its Next Growth Phase",
-          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359201/0/en/recover-names-enes-adak-and-fehmi-y%C3%BCksel-as-co-ceos-to-accelerate-its-next-growth-phase.html",
-          "published": "Thu, 10 Sep 2026 06:41 GMT"
-        },
-        {
-          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
-          "link": "https://www.globenewswire.com/news-release/2026/09/09/3358455/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-2-etfs.html",
-          "published": "Wed, 09 Sep 2026 10:55 GMT"
-        },
-        {
-          "title": "Infrastructure the Digital Economy Cannot Replace: US Capital Global Securities Announces $41 Million Offering for Willamette Intermodal Group",
-          "link": "https://www.globenewswire.com/news-release/2026/09/07/3356939/0/en/infrastructure-the-digital-economy-cannot-replace-us-capital-global-securities-announces-41-million-offering-for-willamette-intermodal-group.html",
-          "published": "Mon, 07 Sep 2026 02:44 GMT"
         }
       ]
     }
