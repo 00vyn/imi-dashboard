@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T09:01:47+00:00",
+  "generated_at": "2026-09-21T09:58:11+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -12,6 +12,16 @@
       "fetched_url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "robots": "robots.txt unavailable",
       "items": [
+        {
+          "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+          "published": "Fri, 18 Sep 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+          "published": "Fri, 18 Sep 2026 15:00:00 GMT"
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -53,13 +63,13 @@
           "published": "Thu, 20 Aug 2026 20:00:00 GMT"
         },
         {
-          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
           "published": "Thu, 20 Aug 2026 15:00:00 GMT"
         },
         {
-          "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
           "published": "Thu, 20 Aug 2026 15:00:00 GMT"
         },
         {
@@ -98,19 +108,9 @@
           "published": "Fri, 31 Jul 2026 14:00:00 GMT"
         },
         {
-          "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-          "published": "Thu, 30 Jul 2026 15:00:00 GMT"
-        },
-        {
           "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
           "published": "Thu, 30 Jul 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Federal Reserve issues FOMC statement",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-          "published": "Wed, 29 Jul 2026 18:00:00 GMT"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-          "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 21:22:00 GMT"
+          "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
+          "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+          "published": "Mon, 21 Sep 2026 09:15:00 GMT"
         },
         {
-          "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-          "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 21:22:00 GMT"
+          "title": "Kylie Jenner sells California mansion for $5 million below asking",
+          "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
+          "published": "Mon, 21 Sep 2026 09:05:00 GMT"
         },
         {
-          "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-          "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 21:09:00 GMT"
+          "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
+          "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
+          "published": "Mon, 21 Sep 2026 09:03:00 GMT"
         },
         {
-          "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-          "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 20:23:00 GMT"
+          "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
+          "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+          "published": "Mon, 21 Sep 2026 08:58:00 GMT"
         },
         {
-          "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-          "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 20:19:00 GMT"
+          "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+          "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+          "published": "Mon, 21 Sep 2026 02:40:00 GMT"
         },
         {
-          "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-          "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 20:13:00 GMT"
+          "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+          "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+          "published": "Sun, 20 Sep 2026 17:30:00 GMT"
         },
         {
-          "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-          "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 19:52:00 GMT"
+          "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+          "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+          "published": "Sun, 20 Sep 2026 16:30:00 GMT"
         },
         {
-          "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-          "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 19:07:00 GMT"
+          "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+          "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+          "published": "Sun, 20 Sep 2026 15:00:00 GMT"
         },
         {
-          "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-          "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 18:46:00 GMT"
+          "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+          "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+          "published": "Sun, 20 Sep 2026 14:08:00 GMT"
         },
         {
-          "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-          "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-          "published": "Thu, 17 Sep 2026 17:42:00 GMT"
+          "title": "China is chasing SpaceX and setting its sights on the global space economy",
+          "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+          "published": "Sun, 20 Sep 2026 13:53:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Le ministre Ameer Meea invite les industries à embrasser la transformation numérique",
-          "link": "https://ionnews.mu/le-ministre-ameer-meea-invite-les-industries-a-embrasser-la-transformation-numerique/",
-          "published": "Fri, 18 Sep 2026 05:29:06 +0000"
+          "title": "National Wholesale Market : la pomme d’amour en hausse jusqu’à +300 % en un an",
+          "link": "https://ionnews.mu/national-wholesale-market-la-pomme-damour-en-hausse-jusqua-300-en-un-an/",
+          "published": "Mon, 21 Sep 2026 08:49:58 +0000"
         },
         {
-          "title": "Affaire de l’Azaan à Goodlands : Des documents officiels rétablissent les faits",
-          "link": "https://ionnews.mu/affaire-de-lazaan-a-goodlands-des-documents-officiels-retablissent-les-faits/",
-          "published": "Fri, 18 Sep 2026 02:17:30 +0000"
+          "title": "Dossier Chagos : Coup de fil entre Andy Burnham et Navin Ramgoolam",
+          "link": "https://ionnews.mu/dossier-chagos-coup-de-fil-entre-andy-burnham-et-navin-ramgoolam/",
+          "published": "Mon, 21 Sep 2026 07:48:05 +0000"
         },
         {
-          "title": "[Scandale PMO-FCC-Mamy Rs 350 M] Le MMM et la preuve : Une exigence à géométrie variable",
-          "link": "https://ionnews.mu/scandale-pmo-fcc-mamy-rs-350-m-le-mmm-et-la-preuve-une-exigence-a-geometrie-variable/",
-          "published": "Fri, 18 Sep 2026 02:01:36 +0000"
+          "title": "L’hiver prend-il fin ?",
+          "link": "https://ionnews.mu/lhiver-prend-il-fin-des-nuits-encore-fraiches-a-linterieur-des-terres/",
+          "published": "Mon, 21 Sep 2026 07:38:52 +0000"
         },
         {
-          "title": "Alcool et « mas tranpe » : « The Woods » est plus qu’une « baz frekante »",
-          "link": "https://ionnews.mu/alcool-et-mas-tranpe-the-woods-est-plus-quune-baz-frekante/",
-          "published": "Fri, 18 Sep 2026 01:00:49 +0000"
+          "title": "FCC et FMP : la nomination au cœur du prochain débat ?",
+          "link": "https://ionnews.mu/fcc-et-fmp-la-nomination-au-coeur-du-prochain-debat/",
+          "published": "Mon, 21 Sep 2026 06:04:11 +0000"
         },
         {
-          "title": "Dumpling Squishy : Le nouveau jouet à la mode",
-          "link": "https://ionnews.mu/dumpling-squishy-le-nouveau-jouet-a-la-mode/",
-          "published": "Fri, 18 Sep 2026 01:00:42 +0000"
+          "title": "[Dette souveraine] La Banque de Maurice absorbent Rs 17,2 milliards au début septembre",
+          "link": "https://ionnews.mu/dette-souveraine-la-banque-de-maurice-absorbent-rs-172-milliards-au-debut-septembre/",
+          "published": "Mon, 21 Sep 2026 05:38:04 +0000"
         },
         {
-          "title": "Pourquoi les jeunes boivent-ils moins ?",
-          "link": "https://ionnews.mu/pourquoi-les-jeunes-boivent-ils-moins/",
-          "published": "Fri, 18 Sep 2026 01:00:27 +0000"
+          "title": "GRA : Noor Hussenne questionne le rôle du Head of Integrity",
+          "link": "https://ionnews.mu/321057-2/",
+          "published": "Mon, 21 Sep 2026 03:19:42 +0000"
         },
         {
-          "title": "Bijoux : Quand l’or laisse place à la fantaisie",
-          "link": "https://ionnews.mu/bijoux-quand-lor-laisse-place-a-la-fantaisie/",
-          "published": "Fri, 18 Sep 2026 01:00:22 +0000"
+          "title": "NCA : le meilleur candidat, ou le candidat voulu ?",
+          "link": "https://ionnews.mu/nca-le-meilleur-candidat-ou-le-candidat-voulu/",
+          "published": "Mon, 21 Sep 2026 01:41:21 +0000"
         },
         {
-          "title": "Khushal Lobine : « Erer piblik morisien fer… ou pa kapav melanz politik ek zafer de leta, kan enn lekip inn eli inn pran gouvernman, ou sapo ou jaket politisien ou met de kote ou bizin diriz pei »",
-          "link": "https://ionnews.mu/khushal-lobine-erer-piblik-morisien-fer-ou-pa-kapav-melanz-politik-ek-zafer-de-leta-kan-enn-lekip-inn-eli-inn-pran-gouvernman-ou-sapo-ou-jaket-politisien-ou-met-de-kote-ou-bizin-diriz-pe/",
-          "published": "Thu, 17 Sep 2026 17:45:09 +0000"
+          "title": "[Scandale FCC Mamy PMO Rs350M]  Et si l’on entendait Karl Élysée ?",
+          "link": "https://ionnews.mu/scandale-fcc-mamy-pmo-rs350m-et-si-lon-entendait-karl-elysee/",
+          "published": "Mon, 21 Sep 2026 01:31:49 +0000"
         },
         {
-          "title": "D’un achat décevant est née une passion pour le cuir véritable : L’histoire de Sonya Padayachy et Emplette E Retail",
-          "link": "https://ionnews.mu/dun-achat-decevant-est-nee-une-passion-pour-le-cuir-veritable-lhistoire-de-sonya-padayachy-et-emplette-e-retail/",
-          "published": "Thu, 17 Sep 2026 17:41:37 +0000"
+          "title": "IA dans les écoles Mauricienne : Le budget et la formation suffiront-ils à pérenniser le projet ?",
+          "link": "https://ionnews.mu/ia-dans-les-ecoles-mauricienne-le-budget-et-la-formation-suffiront-ils-a-perenniser-le-projet/",
+          "published": "Mon, 21 Sep 2026 01:00:28 +0000"
         },
         {
-          "title": "Curepipe : Une jeune femme arrêtée avec du cannabis, des graines et Rs 60 000",
-          "link": "https://ionnews.mu/curepipe-une-jeune-femme-arretee-avec-du-cannabis-des-graines-et-rs-60-000/",
-          "published": "Thu, 17 Sep 2026 16:27:44 +0000"
+          "title": "Poste-de-Flacq : Des officiers de l’ADSU agressés lors d’une opération anti drogues",
+          "link": "https://ionnews.mu/poste-de-flacq-des-officiers-de-ladsu-agresses-lors-dune-operation-anti-drogues/",
+          "published": "Sun, 20 Sep 2026 18:11:02 +0000"
         },
         {
-          "title": "Niveau des réservoirs : Mare-aux-Vacoas passe sous la barre des 40 %",
-          "link": "https://ionnews.mu/niveau-des-reservoirs-mare-aux-vacoas-passe-sous-la-barre-des-40/",
-          "published": "Thu, 17 Sep 2026 16:18:08 +0000"
+          "title": "Saisie de drogue : 72 plants de cannabis déracinés dans plusieurs régions de l’île",
+          "link": "https://ionnews.mu/saisie-de-drogue-72-plants-de-cannabis-deracines-dans-plusieurs-regions-de-lile/",
+          "published": "Sun, 20 Sep 2026 14:46:07 +0000"
         },
         {
-          "title": "Laura Jaymangal : « Si mo pou nomine parski mo anvi nominn mo kamarad, parski linn donn mwa koudmin pandan campaign, parski linn finans mwa pandan campaign »",
-          "link": "https://ionnews.mu/laura-jaymangal-si-mo-pou-nomine-parski-mo-anvi-nominn-mo-kamarad-parski-linn-donn-mwa-koudmin-pandan-campaign-parski-linn-finans-mwa-pandan-campaign/",
-          "published": "Thu, 17 Sep 2026 15:17:42 +0000"
+          "title": "Quatre Bornes : Un homme de 46 ans arrêté avec 73,10 grammes de cannabinoïdes synthétiques",
+          "link": "https://ionnews.mu/quatre-bornes-un-homme-de-46-ans-arrete-avec-7310-grammes-de-cannabinoides-synthetiques/",
+          "published": "Sun, 20 Sep 2026 14:40:20 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2299.04,
-        "SEM-ASI": 2050.53,
-        "SEMTRI": 11320.0,
-        "SEM10": 438.78
+        "SEMDEX": 2301.01,
+        "SEM-ASI": 2052.03,
+        "SEMTRI": 11329.68,
+        "SEM10": 439.32
       }
     },
     {
@@ -435,7 +435,7 @@
       "robots": "allowed by robots.txt",
       "values": {
         "KeyRate": 4.75,
-        "OvernightInterbank": 16.0
+        "OvernightInterbank": 17.0
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-09-18",
+            "date": "2026-09-21",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.86922
+            "rate": 0.8709
           },
           {
-            "date": "2026-09-18",
+            "date": "2026-09-21",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.74621
+            "rate": 0.74719
           },
           {
-            "date": "2026-09-18",
+            "date": "2026-09-21",
             "base": "USD",
             "quote": "JPY",
-            "rate": 155.88
+            "rate": 157.25
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364528/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-          "published": "Fri, 18 Sep 2026 08:28 GMT"
+          "title": "Form 8.3 - Ramsdens Holdings Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365278/0/en/form-8-3-ramsdens-holdings-plc.html",
+          "published": "Mon, 21 Sep 2026 09:38 GMT"
         },
         {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364526/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
-          "published": "Fri, 18 Sep 2026 08:27 GMT"
+          "title": "Form 8.3 - ROTORK PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365219/0/en/form-8-3-rotork-plc.html",
+          "published": "Mon, 21 Sep 2026 08:51 GMT"
+        },
+        {
+          "title": "Form 8.3 - Gamma Communications plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365216/0/en/form-8-3-gamma-communications-plc.html",
+          "published": "Mon, 21 Sep 2026 08:49 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - STHREE PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365213/0/en/dimensional-fund-advisors-ltd-form-8-3-sthree-plc-ordinary-shares.html",
+          "published": "Mon, 21 Sep 2026 08:42 GMT"
+        },
+        {
+          "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 18 09 2026] - (CGWL)",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365214/0/en/form-8-3-advanced-medical-solutions-group-plc-18-09-2026-cgwl.html",
+          "published": "Mon, 21 Sep 2026 08:42 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - SENIOR PLC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365210/0/en/dimensional-fund-advisors-ltd-form-8-3-senior-plc-ordinary-shares.html",
+          "published": "Mon, 21 Sep 2026 08:40 GMT"
+        },
+        {
+          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365208/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+          "published": "Mon, 21 Sep 2026 08:38 GMT"
         },
         {
           "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364525/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-          "published": "Fri, 18 Sep 2026 08:26 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365205/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+          "published": "Mon, 21 Sep 2026 08:36 GMT"
         },
         {
           "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364519/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-          "published": "Fri, 18 Sep 2026 08:18 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365190/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+          "published": "Mon, 21 Sep 2026 08:25 GMT"
         },
         {
           "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364517/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Fri, 18 Sep 2026 08:17 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365186/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Mon, 21 Sep 2026 08:23 GMT"
         },
         {
-          "title": "Taboola to Acquire Dianomi, Significantly Bolstering its Ability to Provide Performance Advertisers with a Highly Specialized, Premium Ad Network Focused on Finance, Powered by Taboola’s Performance Advertising Platform Realize",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364493/31297/en/taboola-to-acquire-dianomi-significantly-bolstering-its-ability-to-provide-performance-advertisers-with-a-highly-specialized-premium-ad-network-focused-on-finance-powered-by-tabool.html",
-          "published": "Fri, 18 Sep 2026 08:00 GMT"
+          "title": "Telix and ITM Join Forces to Create a Radiopharmaceutical Powerhouse",
+          "link": "https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm-join-forces-to-create-a-radiopharmaceutical-powerhouse.html",
+          "published": "Mon, 21 Sep 2026 00:55 GMT"
         },
         {
-          "title": "Aptean ajoute une suite logistique de pointe en bout pour le transport routier grâce à l’acquisition de FleetGO, basée en Europe, auprès de Main Capital Partners",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/fr/aptean-ajoute-une-suite-logistique-de-pointe-en-bout-pour-le-transport-routier-gr%C3%A2ce-%C3%A0-l-acquisition-de-fleetgo-bas%C3%A9e-en-europe-aupr%C3%A8s-de-main-capital-partners.html",
-          "published": "Fri, 18 Sep 2026 07:00 GMT"
+          "title": "FortuneX Acquisition Corporation and WT Realty Group Inc. Announce Business Combination Agreement",
+          "link": "https://www.globenewswire.com/news-release/2026/09/19/3364987/0/en/fortunex-acquisition-corporation-and-wt-realty-group-inc-announce-business-combination-agreement.html",
+          "published": "Sat, 19 Sep 2026 00:40 GMT"
         },
         {
-          "title": "Aptean übernimmt FleetGO von Main Capital Partners und erweitert sein Portfolio um eine führende End-to-End-Logistiklösung für den Straßentransport",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/de/aptean-%C3%BCbernimmt-fleetgo-von-main-capital-partners-und-erweitert-sein-portfolio-um-eine-f%C3%BChrende-end-to-end-logistikl%C3%B6sung-f%C3%BCr-den-stra%C3%9Fentransport.html",
-          "published": "Fri, 18 Sep 2026 07:00 GMT"
+          "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364768/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+          "published": "Fri, 18 Sep 2026 14:20 GMT"
         },
         {
-          "title": "Aptean voegt een toonaangevende end-to-end logistieke suite voor wegtransport toe en neemt het Europese FleetGo over van Main Capital Partners.",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364487/29866/nl/aptean-voegt-een-toonaangevende-end-to-end-logistieke-suite-voor-wegtransport-toe-en-neemt-het-europese-fleetgo-over-van-main-capital-partners.html",
-          "published": "Fri, 18 Sep 2026 07:00 GMT"
+          "title": "Davidson Kempner Capital Management LP : Form 8.3 - DCC Energy PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364771/0/en/davidson-kempner-capital-management-lp-form-8-3-dcc-energy-plc.html",
+          "published": "Fri, 18 Sep 2026 14:20 GMT"
         },
         {
-          "title": "Chairman’s Address to the Scheme Meeting",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364480/0/en/chairman-s-address-to-the-scheme-meeting.html",
-          "published": "Fri, 18 Sep 2026 06:30 GMT"
+          "title": "Results of Scheme Meeting",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364718/0/en/results-of-scheme-meeting.html",
+          "published": "Fri, 18 Sep 2026 13:02 GMT"
         },
         {
-          "title": "Allocution du président du conseil à l'assemblée relative au plan d'arrangement",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364480/0/fr/allocution-du-pr%C3%A9sident-du-conseil-%C3%A0-l-assembl%C3%A9e-relative-au-plan-d-arrangement.html",
-          "published": "Fri, 18 Sep 2026 06:30 GMT"
+          "title": "Résultats de l'assemblée relative au plan d'arrangement",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364718/0/fr/r%C3%A9sultats-de-l-assembl%C3%A9e-relative-au-plan-d-arrangement.html",
+          "published": "Fri, 18 Sep 2026 13:02 GMT"
         },
         {
-          "title": "Notice of Second Court Hearing",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364462/0/en/notice-of-second-court-hearing.html",
-          "published": "Fri, 18 Sep 2026 05:12 GMT"
+          "title": "Form 8.3 - NextEnergy Solar Fund Ltd",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364680/0/en/form-8-3-nextenergy-solar-fund-ltd.html",
+          "published": "Fri, 18 Sep 2026 12:18 GMT"
         },
         {
-          "title": "Avis de la deuxième audience devant le tribunal",
-          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364462/0/fr/avis-de-la-deuxi%C3%A8me-audience-devant-le-tribunal.html",
-          "published": "Fri, 18 Sep 2026 05:12 GMT"
-        },
-        {
-          "title": "Vortex Energy Enters Into Asset Purchase Agreement to Acquire the Meadows Project in Saskatchewan",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364417/0/en/vortex-energy-enters-into-asset-purchase-agreement-to-acquire-the-meadows-project-in-saskatchewan.html",
-          "published": "Thu, 17 Sep 2026 21:30 GMT"
-        },
-        {
-          "title": "Gentherm and Modine Manufacturing Company Announce Additional Information in Connection with Proposed Combination of Gentherm and Modine’s Performance Technologies Business",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364397/0/en/gentherm-and-modine-manufacturing-company-announce-additional-information-in-connection-with-proposed-combination-of-gentherm-and-modine-s-performance-technologies-business.html",
-          "published": "Thu, 17 Sep 2026 20:34 GMT"
-        },
-        {
-          "title": "NewHold Investment Corp. III Shareholders Approve Business Combination with newcleo plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364368/0/en/newhold-investment-corp-iii-shareholders-approve-business-combination-with-newcleo-plc.html",
-          "published": "Thu, 17 Sep 2026 20:01 GMT"
-        },
-        {
-          "title": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364157/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-          "published": "Thu, 17 Sep 2026 14:20 GMT"
-        },
-        {
-          "title": "Aptean Adds Leading End-to-End Logistics Suite for Road Transport Through Acquisition of European Based FleetGO from Main Capital Partners",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364132/29866/en/aptean-adds-leading-end-to-end-logistics-suite-for-road-transport-through-acquisition-of-european-based-fleetgo-from-main-capital-partners.html",
-          "published": "Thu, 17 Sep 2026 14:00 GMT"
-        },
-        {
-          "title": "Data Center Pumps Market to Reach USD 7.35 Billion by 2032, at a CAGR of 17.9% — MarketsandMarkets™",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364099/0/en/data-center-pumps-market-to-reach-usd-7-35-billion-by-2032-at-a-cagr-of-17-9-marketsandmarkets.html",
-          "published": "Thu, 17 Sep 2026 13:30 GMT"
+          "title": "Form 8.3 - Eleco Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364678/0/en/form-8-3-eleco-plc.html",
+          "published": "Fri, 18 Sep 2026 12:16 GMT"
         },
         {
           "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-          "link": "https://www.globenewswire.com/news-release/2026/09/17/3364097/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
-          "published": "Thu, 17 Sep 2026 13:29 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364676/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+          "published": "Fri, 18 Sep 2026 12:13 GMT"
+        },
+        {
+          "title": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364675/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+          "published": "Fri, 18 Sep 2026 12:10 GMT"
         }
       ]
     },
@@ -596,6 +596,21 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Premium Global Income Split Fund Announces Closing of Overnight Offering of Preferred Shares and Class A Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364723/0/en/premium-global-income-split-fund-announces-closing-of-overnight-offering-of-preferred-shares-and-class-a-shares.html",
+          "published": "Fri, 18 Sep 2026 13:10 GMT"
+        },
+        {
+          "title": "Prime Dividend Corp. Monthly Dividend Declaration for Class A & Preferred Share",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364707/0/en/prime-dividend-corp-monthly-dividend-declaration-for-class-a-preferred-share.html",
+          "published": "Fri, 18 Sep 2026 13:00 GMT"
+        },
+        {
+          "title": "M SPLIT CORP. Monthly Dividend Declared for Class I and Class II Preferred Shares",
+          "link": "https://www.globenewswire.com/news-release/2026/09/18/3364711/0/en/m-split-corp-monthly-dividend-declared-for-class-i-and-class-ii-preferred-shares.html",
+          "published": "Fri, 18 Sep 2026 13:00 GMT"
+        },
         {
           "title": "Purpose Investments Inc. Announces September 2026 Distributions",
           "link": "https://www.globenewswire.com/news-release/2026/09/17/3364416/0/en/purpose-investments-inc-announces-september-2026-distributions.html",
@@ -680,21 +695,6 @@
           "title": "Defiance Launches AIMG: The AI Magnificent 10 ETF",
           "link": "https://www.globenewswire.com/news-release/2026/09/10/3359603/0/en/defiance-launches-aimg-the-ai-magnificent-10-etf.html",
           "published": "Thu, 10 Sep 2026 13:05 GMT"
-        },
-        {
-          "title": "Skyline Publishes White Paper Re: $68MM Solar Re-Investment",
-          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359451/0/en/skyline-publishes-white-paper-re-68mm-solar-re-investment.html",
-          "published": "Thu, 10 Sep 2026 12:00 GMT"
-        },
-        {
-          "title": "JPMorgan Announces Cash Distributions for the JPMorgan ETFs",
-          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359346/0/en/jpmorgan-announces-cash-distributions-for-the-jpmorgan-etfs.html",
-          "published": "Thu, 10 Sep 2026 11:00 GMT"
-        },
-        {
-          "title": "JPMorgan annonce des distributions en espèces pour les FNB JPMorgan",
-          "link": "https://www.globenewswire.com/news-release/2026/09/10/3359346/0/fr/jpmorgan-annonce-des-distributions-en-esp%C3%A8ces-pour-les-fnb-jpmorgan.html",
-          "published": "Thu, 10 Sep 2026 11:00 GMT"
         }
       ]
     }
