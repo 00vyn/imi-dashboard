@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T09:19:23+00:00",
+  "generated_at": "2026-09-23T09:20:31+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -79,9 +79,8 @@
       "kind": "html",
       "region": "MU",
       "tier": 1,
-      "status": "ok",
-      "fetched_url": "https://www.bom.mu/",
-      "robots": "allowed by robots.txt"
+      "status": "error",
+      "message": "invalid or missing values: OvernightInterbank"
     },
     {
       "id": "frankfurter",
