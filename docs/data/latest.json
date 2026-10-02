@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T10:58:50+00:00",
+  "generated_at": "2026-10-02T10:31:41+00:00",
   "sources": [
     {
       "id": "fed-press",
@@ -125,6 +125,16 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
+          "title": "Isabel Schnabel: Central banks on-chain",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+          "published": "Thu, 01 Oct 2026 17:30:00 +0200"
+        },
+        {
+          "title": "Christine Lagarde: Where AI risks meet",
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+          "published": "Thu, 01 Oct 2026 15:30:00 +0200"
+        },
+        {
           "title": "Christine Lagarde: Interview with La Croix",
           "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
           "published": "Wed, 30 Sep 2026 19:00:00 +0200"
@@ -188,16 +198,6 @@
           "title": "Eurosystem brings central bank money to tokenised finance",
           "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
           "published": "Mon, 21 Sep 2026 12:00:00 +0200"
-        },
-        {
-          "title": "ECB Consumer Expectations Survey results – August 2026",
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-          "published": "Fri, 18 Sep 2026 10:00:00 +0200"
-        },
-        {
-          "title": "Boris Vujčić: Interview with Reuters",
-          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-          "published": "Fri, 18 Sep 2026 08:00:00 +0200"
         }
       ]
     },
@@ -212,54 +212,54 @@
       "robots": "robots.txt unavailable",
       "items": [
         {
-          "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-          "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 10:15:00 GMT"
+          "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
+          "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 10:25:00 GMT"
         },
         {
-          "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
-          "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 10:10:00 GMT"
-        },
-        {
-          "title": "France’s bond market is stumbling. Should Americans care?",
-          "link": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 09:39:00 GMT"
-        },
-        {
-          "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
-          "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 09:23:00 GMT"
+          "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+          "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 10:22:00 GMT"
         },
         {
           "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
           "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 09:15:00 GMT"
+          "published": "Fri, 02 Oct 2026 10:15:00 GMT"
         },
         {
-          "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
-          "link": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 09:04:00 GMT"
+          "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+          "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 09:25:00 GMT"
         },
         {
-          "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-          "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 02:35:00 GMT"
+          "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+          "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 09:15:00 GMT"
         },
         {
-          "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-          "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 00:45:00 GMT"
+          "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
+          "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 09:07:00 GMT"
+        },
+        {
+          "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
+          "link": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 08:59:00 GMT"
         },
         {
           "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
           "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 00:20:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:00:00 GMT"
         },
         {
           "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
           "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-          "published": "Thu, 01 Oct 2026 00:11:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:30:00 GMT"
+        },
+        {
+          "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+          "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+          "published": "Fri, 02 Oct 2026 00:14:00 GMT"
         }
       ]
     },
@@ -274,64 +274,64 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "Éliminatoires CAN U23 : Les Dodos s’inclinent 0-2 face au Zimbabwe",
-          "link": "https://ionnews.mu/eliminatoires-can-u23-les-dodos-sinclinent-0-2-face-au-zimbabwe/",
-          "published": "Thu, 01 Oct 2026 10:38:06 +0000"
+          "title": "[Affaire Mamy, PMO, FCC, Rs 350 M] Après trois semaines, Karl Élysée toujours pas convoqué par la FCC",
+          "link": "https://ionnews.mu/affaire-mamy-pmo-fcc-rs-350-m-apres-trois-semaines-karl-elysee-toujours-pas-convoque-par-la-fcc/",
+          "published": "Fri, 02 Oct 2026 10:09:03 +0000"
         },
         {
-          "title": "Prison de Melrose : Un détenu met le feu à sa cellule",
-          "link": "https://ionnews.mu/prison-de-melrose-un-detenu-met-le-feu-a-sa-cellule/",
-          "published": "Thu, 01 Oct 2026 08:34:12 +0000"
+          "title": "Cour suprême : Revers pour la municipalité de Beau-Bassin/Rose-Hill face à Sunlight Leisure Ltd",
+          "link": "https://ionnews.mu/cour-supreme-revers-pour-la-municipalite-de-beau-bassin-rose-hill-face-a-sunlight-leisure-ltd/",
+          "published": "Fri, 02 Oct 2026 09:22:10 +0000"
         },
         {
-          "title": "Dharam Gokhool en voyage officiel aux Tuvalu et Fidji",
-          "link": "https://ionnews.mu/dharam-gokhool-en-voyage-officiel-aux-tuvalu-et-fidji/",
-          "published": "Thu, 01 Oct 2026 08:26:14 +0000"
+          "title": "[Confirmation du ministre Sik Yuen] Thon à Rs 10 : La marque 5 Star concernée",
+          "link": "https://ionnews.mu/confirmation-du-ministre-sik-yuen-thon-a-rs-10-la-marque-5-star-concernee/",
+          "published": "Fri, 02 Oct 2026 08:56:52 +0000"
         },
         {
-          "title": "Un PIB à Rs 695,2 Mds post-révision mais la croissance tombe à 3 % en 2026",
-          "link": "https://ionnews.mu/un-pib-a-rs-6952-mds-post-revision-mais-la-croissance-tombe-a-3-en-2026/",
-          "published": "Thu, 01 Oct 2026 08:08:11 +0000"
+          "title": "Journée internationale des personnes âgées : Mesures en cours pour améliorer la protection des personnes âgées",
+          "link": "https://ionnews.mu/journee-internationale-des-personnes-agees-mesures-en-cours-pour-ameliorer-la-protection-des-personnes-agees/",
+          "published": "Fri, 02 Oct 2026 06:32:17 +0000"
         },
         {
-          "title": "Carburant : de Rs 24 000 à Rs 53 000 de plus par an?",
-          "link": "https://ionnews.mu/carburant-de-rs-24-000-a-rs-53-000-de-plus-par-an/",
-          "published": "Thu, 01 Oct 2026 07:55:17 +0000"
+          "title": "[Journée des aînés] Subron : « Par conviction » aujourd’hui, « clique de non-élus » hier ?",
+          "link": "https://ionnews.mu/journee-des-aines-subron-par-conviction-aujourdhui-clique-de-non-elus-hier/",
+          "published": "Fri, 02 Oct 2026 05:41:23 +0000"
         },
         {
-          "title": "Marché du travail : Le taux de chômage descend à 5,5 % tiré par une amélioration chez les femmes",
-          "link": "https://ionnews.mu/marche-du-travail-le-taux-de-chomage-descend-a-55-tire-par-une-amelioration-chez-les-femmes/",
-          "published": "Thu, 01 Oct 2026 07:39:49 +0000"
+          "title": "Arvin Boolell : « By Catch depi touzour, kan enn parti politik o pouvwar, By Catch aloue a bann aktivist. Que ce soit le MMM ou le Parti travailliste »",
+          "link": "https://ionnews.mu/arvin-boolell-by-catch-depi-touzour-kan-enn-parti-politik-o-pouvwar-by-catch-aloue-a-bann-aktivist-que-ce-soit-le-mmm-ou-le-parti-travailliste/",
+          "published": "Fri, 02 Oct 2026 05:32:38 +0000"
         },
         {
-          "title": "[STC] Le ministre Sik Yuen débarque le board présidé par Takesh Luckho",
-          "link": "https://ionnews.mu/stc-le-ministre-sik-yuen-debarque-le-board-preside-par-takesh-luckho/",
-          "published": "Thu, 01 Oct 2026 02:40:00 +0000"
+          "title": "STC : Le Board n’exécute pas le « day-to-day management »",
+          "link": "https://ionnews.mu/stc-le-board-nexecute-pas-le-day-to-day-management/",
+          "published": "Fri, 02 Oct 2026 05:18:54 +0000"
         },
         {
-          "title": "CNT : le ministre réclame des explications « Irresponsibility at its pinnacle »",
-          "link": "https://ionnews.mu/cnt-le-ministre-reclame-des-explications-irresponsibility-at-its-pinnacle/",
-          "published": "Thu, 01 Oct 2026 02:12:39 +0000"
+          "title": "L’incroyable métamorphose des véhicules 4×4",
+          "link": "https://ionnews.mu/lincroyable-metamorphose-des-vehicules-4x4/",
+          "published": "Fri, 02 Oct 2026 04:00:16 +0000"
         },
         {
-          "title": "Cherté de la vie : à quand une hausse du salaire minimum ?",
-          "link": "https://ionnews.mu/cherte-de-la-vie-a-quand-une-hausse-du-salaire-minimum/",
-          "published": "Thu, 01 Oct 2026 02:02:43 +0000"
+          "title": "« Mdr », « Bcp », « Tkt » : La révolution du langage SMS",
+          "link": "https://ionnews.mu/mdr-bcp-tkt-la-revolution-du-langage-sms/",
+          "published": "Fri, 02 Oct 2026 02:30:47 +0000"
         },
         {
-          "title": "Entreprises orientées vers l’exportation : Hausse de Rs 11 Mds de revenus contre 2 075 emplois perdus",
-          "link": "https://ionnews.mu/entreprises-orientees-vers-lexportation-hausse-de-rs-11-mds-de-revenus-contre-2-075-emplois-perdus/",
-          "published": "Thu, 01 Oct 2026 01:00:01 +0000"
+          "title": "Changement de couleur des yeux : Risques majeurs derrière une tendance esthétique",
+          "link": "https://ionnews.mu/changement-de-couleur-des-yeux-risques-majeurs-derriere-une-tendance-esthetique/",
+          "published": "Fri, 02 Oct 2026 02:00:52 +0000"
         },
         {
-          "title": "Importations : Le choc des prix qui menace bien au-delà de la pompe",
-          "link": "https://ionnews.mu/importations-le-choc-des-prix-qui-menace-bien-au-dela-de-la-pompe/",
-          "published": "Wed, 30 Sep 2026 17:02:53 +0000"
+          "title": "L’investissement privé s’effondre de près de 10 % au deuxième trimestre",
+          "link": "https://ionnews.mu/linvestissement-prive-seffondre-de-pres-de-10-au-deuxieme-trimestre/",
+          "published": "Fri, 02 Oct 2026 01:00:47 +0000"
         },
         {
-          "title": "Bruno Cheong Medical Centre converti en centre de réhabilitation",
-          "link": "https://ionnews.mu/bruno-cheong-medical-centre-converti-en-centre-de-rehabilitation/",
-          "published": "Wed, 30 Sep 2026 17:02:04 +0000"
+          "title": "[NCA] Kailash Trilochun : « Bill la li permet premie minis… rekrit enn dimoun san ki li prezant ki bann kriter »",
+          "link": "https://ionnews.mu/nca-kailash-trilochun-bill-la-li-permet-premie-minis-rekrit-enn-dimoun-san-ki-li-prezant-ki-bann-kriter/",
+          "published": "Thu, 01 Oct 2026 17:56:58 +0000"
         }
       ]
     },
@@ -407,10 +407,10 @@
       "fetched_url": "https://www.stockexchangeofmauritius.com/products-market-data/indices",
       "robots": "allowed by robots.txt",
       "values": {
-        "SEMDEX": 2324.54,
-        "SEM-ASI": 2072.72,
-        "SEMTRI": 11445.56,
-        "SEM10": 441.6
+        "SEMDEX": 2306.95,
+        "SEM-ASI": 2058.41,
+        "SEMTRI": 11358.96,
+        "SEM10": 437.09
       }
     },
     {
@@ -435,7 +435,7 @@
       "robots": "allowed by robots.txt",
       "values": {
         "KeyRate": 4.75,
-        "OvernightInterbank": 3.46
+        "OvernightInterbank": 3.43
       }
     },
     {
@@ -454,22 +454,22 @@
         },
         "usd-rates": [
           {
-            "date": "2026-10-01",
+            "date": "2026-10-02",
             "base": "USD",
             "quote": "EUR",
-            "rate": 0.881
+            "rate": 0.88468
           },
           {
-            "date": "2026-10-01",
+            "date": "2026-10-02",
             "base": "USD",
             "quote": "GBP",
-            "rate": 0.75372
+            "rate": 0.75519
           },
           {
-            "date": "2026-10-01",
+            "date": "2026-10-02",
             "base": "USD",
             "quote": "JPY",
-            "rate": 157.39
+            "rate": 157.98
           }
         ]
       }
@@ -485,104 +485,104 @@
       "robots": "allowed by robots.txt",
       "items": [
         {
-          "title": "National Fuel Gas Company Completes Acquisition of CenterPoint Energy's Ohio Natural Gas Utility",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372705/0/en/national-fuel-gas-company-completes-acquisition-of-centerpoint-energy-s-ohio-natural-gas-utility.html",
-          "published": "Thu, 01 Oct 2026 10:45 GMT"
-        },
-        {
-          "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372692/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-          "published": "Thu, 01 Oct 2026 10:03 GMT"
-        },
-        {
-          "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372690/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-          "published": "Thu, 01 Oct 2026 10:01 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - SENIOR PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372672/0/en/dimensional-fund-advisors-ltd-form-8-3-senior-plc-ordinary-shares.html",
-          "published": "Thu, 01 Oct 2026 09:52 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - RHI MAGNESITA NV - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372671/0/en/dimensional-fund-advisors-ltd-form-8-3-rhi-magnesita-nv-ordinary-shares.html",
-          "published": "Thu, 01 Oct 2026 09:51 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372670/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-          "published": "Thu, 01 Oct 2026 09:50 GMT"
-        },
-        {
-          "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372669/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-          "published": "Thu, 01 Oct 2026 09:48 GMT"
-        },
-        {
           "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372667/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
-          "published": "Thu, 01 Oct 2026 09:34 GMT"
-        },
-        {
-          "title": "Man Group PLC : Form 8.3 - RHI Magnesita N.V.",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372666/0/en/man-group-plc-form-8-3-rhi-magnesita-n-v.html",
-          "published": "Thu, 01 Oct 2026 09:31 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373683/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+          "published": "Fri, 02 Oct 2026 09:58 GMT"
         },
         {
           "title": "Man Group PLC : Form 8.3 - Rotork plc",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372664/0/en/man-group-plc-form-8-3-rotork-plc.html",
-          "published": "Thu, 01 Oct 2026 09:29 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373679/0/en/man-group-plc-form-8-3-rotork-plc.html",
+          "published": "Fri, 02 Oct 2026 09:55 GMT"
         },
         {
-          "title": "Man Group PLC : Form 8.3 - Sthree",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372663/0/en/man-group-plc-form-8-3-sthree.html",
-          "published": "Thu, 01 Oct 2026 09:27 GMT"
+          "title": "Man Group PLC : Form 8.3 - Senior plc",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373676/0/en/man-group-plc-form-8-3-senior-plc.html",
+          "published": "Fri, 02 Oct 2026 09:53 GMT"
+        },
+        {
+          "title": "Man Group PLC : Form 8.3 - Spire Healthcare Group Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373672/0/en/man-group-plc-form-8-3-spire-healthcare-group-plc.html",
+          "published": "Fri, 02 Oct 2026 09:51 GMT"
         },
         {
           "title": "Man Group PLC : Form 8.3 - Vesuvius Plc",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372661/0/en/man-group-plc-form-8-3-vesuvius-plc.html",
-          "published": "Thu, 01 Oct 2026 09:24 GMT"
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373669/0/en/man-group-plc-form-8-3-vesuvius-plc.html",
+          "published": "Fri, 02 Oct 2026 09:49 GMT"
         },
         {
-          "title": "Inseego Completes Acquisition of Nokia’s Fixed Wireless Access Business",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372558/33045/en/inseego-completes-acquisition-of-nokia-s-fixed-wireless-access-business.html",
-          "published": "Thu, 01 Oct 2026 07:15 GMT"
+          "title": "Form 8.5 (EPT/RI)",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373590/0/en/form-8-5-ept-ri.html",
+          "published": "Fri, 02 Oct 2026 08:55 GMT"
         },
         {
-          "title": "Vicat - Proposed Acquisition by Vicat Group of Cemex Group's Ready-Mix Concrete and Aggregates Businesses in South-Eastern France",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372535/0/en/vicat-proposed-acquisition-by-vicat-group-of-cemex-group-s-ready-mix-concrete-and-aggregates-businesses-in-south-eastern-france.html",
-          "published": "Thu, 01 Oct 2026 06:00 GMT"
+          "title": "Form 8.5 (EPT/RI) - Kore Potash Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373586/0/en/form-8-5-ept-ri-kore-potash-plc.html",
+          "published": "Fri, 02 Oct 2026 08:52 GMT"
         },
         {
-          "title": "Vicat - Projet d’acquisition par le groupe Vicat des filiales de béton prêt à l’emploi et granulats du groupe Cemex dans le Sud-Est de la France",
-          "link": "https://www.globenewswire.com/news-release/2026/10/01/3372535/0/fr/vicat-projet-d-acquisition-par-le-groupe-vicat-des-filiales-de-b%C3%A9ton-pr%C3%AAt-%C3%A0-l-emploi-et-granulats-du-groupe-cemex-dans-le-sud-est-de-la-france.html",
-          "published": "Thu, 01 Oct 2026 06:00 GMT"
+          "title": "Form 8.3 - VESUVIUS PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373582/0/en/form-8-3-vesuvius-plc.html",
+          "published": "Fri, 02 Oct 2026 08:50 GMT"
         },
         {
-          "title": "TTM Technologies, Inc. Completes Acquisition of Epiq Solutions, Enhancing TTM’s Strategic A&D Portfolio",
-          "link": "https://www.globenewswire.com/news-release/2026/09/30/3372371/0/en/ttm-technologies-inc-completes-acquisition-of-epiq-solutions-enhancing-ttm-s-strategic-a-d-portfolio.html",
-          "published": "Wed, 30 Sep 2026 20:01 GMT"
+          "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373583/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+          "published": "Fri, 02 Oct 2026 08:50 GMT"
         },
         {
-          "title": "Brink's Issues Statement on CMA’s Fast-Track Announcement",
-          "link": "https://www.globenewswire.com/news-release/2026/09/30/3372359/35146/en/brink-s-issues-statement-on-cma-s-fast-track-announcement.html",
-          "published": "Wed, 30 Sep 2026 19:54 GMT"
+          "title": "Form 8.3 - STHREE PLC",
+          "link": "https://www.globenewswire.com/news-release/2026/10/02/3373580/0/en/form-8-3-sthree-plc.html",
+          "published": "Fri, 02 Oct 2026 08:49 GMT"
         },
         {
-          "title": "Capgemini finalise la cession de Capgemini Government Solutions",
-          "link": "https://www.globenewswire.com/news-release/2026/09/30/3372253/0/fr/capgemini-finalise-la-cession-de-capgemini-government-solutions.html",
-          "published": "Wed, 30 Sep 2026 16:15 GMT"
+          "title": "Wandercraft Acquires Ekso Bionics, Uniting Two Pioneers to Advance and Expand Robotic Mobility",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373473/0/en/wandercraft-acquires-ekso-bionics-uniting-two-pioneers-to-advance-and-expand-robotic-mobility.html",
+          "published": "Thu, 01 Oct 2026 22:32 GMT"
         },
         {
-          "title": "Capgemini closes the sale of Capgemini Government Solutions",
-          "link": "https://www.globenewswire.com/news-release/2026/09/30/3372253/0/en/capgemini-closes-the-sale-of-capgemini-government-solutions.html",
-          "published": "Wed, 30 Sep 2026 16:15 GMT"
+          "title": "Hypercharge Completes Acquisition of REVS Charging LLC",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373471/0/en/hypercharge-completes-acquisition-of-revs-charging-llc.html",
+          "published": "Thu, 01 Oct 2026 22:30 GMT"
         },
         {
-          "title": "Powerus to Complete Merger with Aureus Greenway Holdings October 1 and Trade as PUSA on Nasdaq",
-          "link": "https://www.globenewswire.com/news-release/2026/09/30/3372212/0/en/powerus-to-complete-merger-with-aureus-greenway-holdings-october-1-and-trade-as-pusa-on-nasdaq.html",
-          "published": "Wed, 30 Sep 2026 15:37 GMT"
+          "title": "Axogen Completes Acquisition of BioCircuit Technologies, Adding NerveTape™, the First FDA Cleared Device for Sutureless Peripheral Nerve Repair",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373449/0/en/axogen-completes-acquisition-of-biocircuit-technologies-adding-nervetape-the-first-fda-cleared-device-for-sutureless-peripheral-nerve-repair.html",
+          "published": "Thu, 01 Oct 2026 21:19 GMT"
+        },
+        {
+          "title": "Vortex Energy Completes Acquisition of the Meadows Project in Saskatchewan",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373437/0/en/vortex-energy-completes-acquisition-of-the-meadows-project-in-saskatchewan.html",
+          "published": "Thu, 01 Oct 2026 21:00 GMT"
+        },
+        {
+          "title": "PharmaCorp Closes Two Previously Announced Acquisitions and Provides Acquisition Pipeline Update",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373439/0/en/pharmacorp-closes-two-previously-announced-acquisitions-and-provides-acquisition-pipeline-update.html",
+          "published": "Thu, 01 Oct 2026 21:00 GMT"
+        },
+        {
+          "title": "Gentherm Completes Combination with Modine’s Performance Technologies Business",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373428/0/en/gentherm-completes-combination-with-modine-s-performance-technologies-business.html",
+          "published": "Thu, 01 Oct 2026 20:36 GMT"
+        },
+        {
+          "title": "onsemi and Synaptics Announce Revised Merger Agreement",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373426/0/en/onsemi-and-synaptics-announce-revised-merger-agreement.html",
+          "published": "Thu, 01 Oct 2026 20:34 GMT"
+        },
+        {
+          "title": "ESCO Completes Acquisition of Megger Group Limited",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373396/0/en/esco-completes-acquisition-of-megger-group-limited.html",
+          "published": "Thu, 01 Oct 2026 20:15 GMT"
+        },
+        {
+          "title": "Trasteel Holding S.A. and Sizzle Acquisition Corp. II Announce Confidential Submission of Draft Registration Statement on Form F-4 in Connection with the Proposed Business Combination",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373378/0/en/trasteel-holding-s-a-and-sizzle-acquisition-corp-ii-announce-confidential-submission-of-draft-registration-statement-on-form-f-4-in-connection-with-the-proposed-business-combinatio.html",
+          "published": "Thu, 01 Oct 2026 20:05 GMT"
+        },
+        {
+          "title": "Nayax Completes Acquisition of IPS Group",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373365/0/en/nayax-completes-acquisition-of-ips-group.html",
+          "published": "Thu, 01 Oct 2026 20:00 GMT"
         }
       ]
     },
@@ -596,6 +596,21 @@
       "fetched_url": "https://www.globenewswire.com/RssFeed/subjectcode/80-Investment%20Fund%20Information/feedTitle/GlobeNewswire%20-%20Investment%20Fund%20Information",
       "robots": "allowed by robots.txt",
       "items": [
+        {
+          "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces Its Net Asset Value and Asset Coverage Ratios as of September 30, 2026",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373469/0/en/kayne-anderson-energy-infrastructure-fund-provides-unaudited-balance-sheet-information-and-announces-its-net-asset-value-and-asset-coverage-ratios-as-of-september-30-2026.html",
+          "published": "Thu, 01 Oct 2026 22:25 GMT"
+        },
+        {
+          "title": "Guggenheim Investments Announces October 2026 Closed-End Fund Distributions",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373429/16530/en/guggenheim-investments-announces-october-2026-closed-end-fund-distributions.html",
+          "published": "Thu, 01 Oct 2026 20:45 GMT"
+        },
+        {
+          "title": "Myriad360 Announces Majority Investment from One Equity Partners to Support Next Phase of Growth",
+          "link": "https://www.globenewswire.com/news-release/2026/10/01/3373326/0/en/myriad360-announces-majority-investment-from-one-equity-partners-to-support-next-phase-of-growth.html",
+          "published": "Thu, 01 Oct 2026 18:00 GMT"
+        },
         {
           "title": "Herzfeld Credit Income Fund, Inc. Announces Distribution Payment",
           "link": "https://www.globenewswire.com/news-release/2026/09/30/3372363/0/en/herzfeld-credit-income-fund-inc-announces-distribution-payment.html",
@@ -680,21 +695,6 @@
           "title": "Vanguard Announces Risk Rating Change for Vanguard Conservative ETF Portfolio Fund",
           "link": "https://www.globenewswire.com/news-release/2026/09/24/3368793/0/en/vanguard-announces-risk-rating-change-for-vanguard-conservative-etf-portfolio-fund.html",
           "published": "Thu, 24 Sep 2026 21:46 GMT"
-        },
-        {
-          "title": "Vanguard annonce un changement du niveau de risque du Fonds Portefeuille FNB prudent Vanguard",
-          "link": "https://www.globenewswire.com/news-release/2026/09/24/3368793/0/fr/vanguard-annonce-un-changement-du-niveau-de-risque-du-fonds-portefeuille-fnb-prudent-vanguard.html",
-          "published": "Thu, 24 Sep 2026 21:46 GMT"
-        },
-        {
-          "title": "DAG Wealth Opens Canary Capital's Macro Income Fund to Qualified Clients",
-          "link": "https://www.globenewswire.com/news-release/2026/09/23/3367777/0/en/dag-wealth-opens-canary-capital-s-macro-income-fund-to-qualified-clients.html",
-          "published": "Wed, 23 Sep 2026 17:45 GMT"
-        },
-        {
-          "title": "YieldMax® ETFs Announces Weekly Distributions for Group 2 ETFs",
-          "link": "https://www.globenewswire.com/news-release/2026/09/23/3367313/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-2-etfs.html",
-          "published": "Wed, 23 Sep 2026 10:55 GMT"
         }
       ]
     }
